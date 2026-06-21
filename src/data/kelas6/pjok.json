@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Bola Basket sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Bola Basket."
+    ],
+    "game": [
+      "Drag gerakan olahraga"
+    ],
+    "vr": [
+      "Stadion Virtual"
+    ],
+    "id": "6_pjok_1",
+    "title": "Bola Basket",
+    "grade": 6,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🏀",
+    "instructions": "Teknik Basket",
+    "draggableItems": [
+      {
+        "id": "dribble",
+        "label": "Menggiring (Dribbling)",
+        "image": "/assets/games/kelas6/dribble.png"
+      },
+      {
+        "id": "passing",
+        "label": "Mengoper (Passing)",
+        "image": "/assets/games/kelas6/passing.png"
+      },
+      {
+        "id": "auto_konsep_6_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_dribble",
+        "label": "Membawa bola sambil memantulkan",
+        "correctItem": "dribble",
+        "image": "/assets/games/kelas6/d.png"
+      },
+      {
+        "id": "t_passing",
+        "label": "Memberi bola ke teman",
+        "correctItem": "passing",
+        "image": "/assets/games/kelas6/p.png"
+      },
+      {
+        "id": "t_auto_konsep_6_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_pjok"
+      },
+      {
+        "id": "t_auto_contoh_6_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_6_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Atletik (Lari) sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Atletik (Lari)."
+    ],
+    "game": [
+      "Drag gerakan olahraga"
+    ],
+    "vr": [
+      "Stadion Virtual"
+    ],
+    "id": "6_pjok_2",
+    "title": "Atletik (Lari)",
+    "grade": 6,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🏃",
+    "instructions": "Start lari",
+    "draggableItems": [
+      {
+        "id": "jongkok",
+        "label": "Start Jongkok",
+        "image": "/assets/games/kelas6/jongkok.png"
+      },
+      {
+        "id": "berdiri",
+        "label": "Start Berdiri",
+        "image": "/assets/games/kelas6/berdiri.png"
+      },
+      {
+        "id": "auto_konsep_6_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_jongkok",
+        "label": "Lari Jarak Pendek",
+        "correctItem": "jongkok",
+        "image": "/assets/games/kelas6/pendek.png"
+      },
+      {
+        "id": "t_berdiri",
+        "label": "Lari Jarak Jauh",
+        "correctItem": "berdiri",
+        "image": "/assets/games/kelas6/jauh.png"
+      },
+      {
+        "id": "t_auto_konsep_6_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_pjok"
+      },
+      {
+        "id": "t_auto_contoh_6_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_6_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kebugaran Jasmani sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kebugaran Jasmani."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "6_pjok_3",
+    "title": "Kebugaran Jasmani",
+    "grade": 6,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "⏱️",
+    "instructions": "Komponen",
+    "draggableItems": [
+      {
+        "id": "cepat",
+        "label": "Kecepatan",
+        "image": "/assets/games/kelas6/cepat.png"
+      },
+      {
+        "id": "kuat",
+        "label": "Kekuatan",
+        "image": "/assets/games/kelas6/kuat.png"
+      },
+      {
+        "id": "auto_konsep_6_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_cepat",
+        "label": "Lari Sprint melatih",
+        "correctItem": "cepat",
+        "image": "/assets/games/kelas6/c.png"
+      },
+      {
+        "id": "t_kuat",
+        "label": "Angkat beban melatih",
+        "correctItem": "kuat",
+        "image": "/assets/games/kelas6/k.png"
+      },
+      {
+        "id": "t_auto_konsep_6_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_pjok"
+      },
+      {
+        "id": "t_auto_contoh_6_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_6_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Renang Penyelamatan sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Renang Penyelamatan."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "6_pjok_4",
+    "title": "Renang Penyelamatan",
+    "grade": 6,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🛟",
+    "instructions": "Alat bantu",
+    "draggableItems": [
+      {
+        "id": "pelampung",
+        "label": "Pelampung",
+        "image": "/assets/games/kelas6/pelampung.png"
+      },
+      {
+        "id": "batu",
+        "label": "Batu",
+        "image": "/assets/games/kelas6/batu.png"
+      },
+      {
+        "id": "auto_konsep_6_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_pelampung",
+        "label": "Alat Penyelamat",
+        "correctItem": "pelampung",
+        "image": "/assets/games/kelas6/b.png"
+      },
+      {
+        "id": "t_batu",
+        "label": "Bisa Tenggelam",
+        "correctItem": "batu",
+        "image": "/assets/games/kelas6/s.png"
+      },
+      {
+        "id": "t_auto_konsep_6_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_pjok"
+      },
+      {
+        "id": "t_auto_contoh_6_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_6_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Memilih Hidup yang Menyehatkan",
+    "cp": "Murid mampu berpartisipasi dalam aktivitas jasmani dan menjelaskan pengaruh aktivitas jasmani yang teratur terhadap kesehatan; mengidentifikasi rekomendasi aktivitas jasmani serta pencegahan perilaku sedenter.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Bahaya Narkoba sesuai elemen Pemanfaatan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Bahaya Narkoba."
+    ],
+    "game": [
+      "Drag pola hidup sehat"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "6_pjok_5",
+    "title": "Bahaya Narkoba",
+    "grade": 6,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🚫",
+    "instructions": "Dampak buruk",
+    "draggableItems": [
+      {
+        "id": "candu",
+        "label": "Kecanduan / Sakit",
+        "image": "/assets/games/kelas6/candu.png"
+      },
+      {
+        "id": "sehat",
+        "label": "Jadi Sehat",
+        "image": "/assets/games/kelas6/sehat.png"
+      },
+      {
+        "id": "auto_konsep_6_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_candu",
+        "label": "Dampak Narkoba",
+        "correctItem": "candu",
+        "image": "/assets/games/kelas6/b.png"
+      },
+      {
+        "id": "t_sehat",
+        "label": "Bukan Dampak",
+        "correctItem": "sehat",
+        "image": "/assets/games/kelas6/s.png"
+      },
+      {
+        "id": "t_auto_konsep_6_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_pjok"
+      },
+      {
+        "id": "t_auto_contoh_6_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_6_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_pjok"
+      }
+    ]
+  }
+]

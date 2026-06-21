@@ -1,0 +1,413 @@
+[
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami teks tulis pendek sederhana atau teks multimodal tentang kehidupan sehari-hari dan meresponsnya secara verbal or non-verbal sesuai konteks.\n(Understand simple short texts or multimodal texts about everyday life and respond to them verbally or non-verbally in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Numbers 11–20 sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Numbers 11–20."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "2_eng_1",
+    "title": "Numbers 11–20",
+    "grade": 2,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🔢",
+    "instructions": "Drag the English number to match the amount!",
+    "draggableItems": [
+      {
+        "id": "eleven",
+        "label": "Eleven",
+        "image": "/assets/games/kelas2/eleven.png"
+      },
+      {
+        "id": "twelve",
+        "label": "Twelve",
+        "image": "/assets/games/kelas2/twelve.png"
+      },
+      {
+        "id": "fifteen",
+        "label": "Fifteen",
+        "image": "/assets/games/kelas2/fifteen.png"
+      },
+      {
+        "id": "eighteen",
+        "label": "Eighteen",
+        "image": "/assets/games/kelas2/eighteen.png"
+      },
+      {
+        "id": "twenty",
+        "label": "Twenty",
+        "image": "/assets/games/kelas2/twenty.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_eleven",
+        "label": "⭐x11",
+        "correctItem": "eleven",
+        "image": "/assets/games/kelas2/t11.png"
+      },
+      {
+        "id": "t_twelve",
+        "label": "⭐x12",
+        "correctItem": "twelve",
+        "image": "/assets/games/kelas2/t12.png"
+      },
+      {
+        "id": "t_fifteen",
+        "label": "⭐x15",
+        "correctItem": "fifteen",
+        "image": "/assets/games/kelas2/t15.png"
+      },
+      {
+        "id": "t_eighteen",
+        "label": "⭐x18",
+        "correctItem": "eighteen",
+        "image": "/assets/games/kelas2/t18.png"
+      },
+      {
+        "id": "t_twenty",
+        "label": "⭐x20",
+        "correctItem": "twenty",
+        "image": "/assets/games/kelas2/t20.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami teks tulis pendek sederhana atau teks multimodal tentang kehidupan sehari-hari dan meresponsnya secara verbal or non-verbal sesuai konteks.\n(Understand simple short texts or multimodal texts about everyday life and respond to them verbally or non-verbally in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Family Members sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Family Members."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "2_eng_2",
+    "title": "Family Members",
+    "grade": 2,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "👨‍👩‍👧‍👦",
+    "instructions": "Match family member to their role!",
+    "draggableItems": [
+      {
+        "id": "father",
+        "label": "Father",
+        "image": "/assets/games/kelas2/father.png"
+      },
+      {
+        "id": "mother",
+        "label": "Mother",
+        "image": "/assets/games/kelas2/mother.png"
+      },
+      {
+        "id": "brother",
+        "label": "Brother",
+        "image": "/assets/games/kelas2/brother.png"
+      },
+      {
+        "id": "sister",
+        "label": "Sister",
+        "image": "/assets/games/kelas2/sister.png"
+      },
+      {
+        "id": "grandma",
+        "label": "Grandma",
+        "image": "/assets/games/kelas2/grandma.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_father",
+        "label": "Male parent",
+        "correctItem": "father",
+        "image": "/assets/games/kelas2/f_dad.png"
+      },
+      {
+        "id": "t_mother",
+        "label": "Female parent",
+        "correctItem": "mother",
+        "image": "/assets/games/kelas2/f_mom.png"
+      },
+      {
+        "id": "t_brother",
+        "label": "Male sibling",
+        "correctItem": "brother",
+        "image": "/assets/games/kelas2/f_bro.png"
+      },
+      {
+        "id": "t_sister",
+        "label": "Female sibling",
+        "correctItem": "sister",
+        "image": "/assets/games/kelas2/f_sis.png"
+      },
+      {
+        "id": "t_grandma",
+        "label": "Mother's/Father's mom",
+        "correctItem": "grandma",
+        "image": "/assets/games/kelas2/f_grandma.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami teks tulis pendek sederhana atau teks multimodal tentang kehidupan sehari-hari dan meresponsnya secara verbal or non-verbal sesuai konteks.\n(Understand simple short texts or multimodal texts about everyday life and respond to them verbally or non-verbally in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Classroom Objects sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Classroom Objects."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "2_eng_3",
+    "title": "Classroom Objects",
+    "grade": 2,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🏫",
+    "instructions": "Drag object name to the picture!",
+    "draggableItems": [
+      {
+        "id": "book_e",
+        "label": "Book",
+        "image": "/assets/games/kelas2/book_e.png"
+      },
+      {
+        "id": "pencil_e",
+        "label": "Pencil",
+        "image": "/assets/games/kelas2/pencil_e.png"
+      },
+      {
+        "id": "eraser",
+        "label": "Eraser",
+        "image": "/assets/games/kelas2/eraser.png"
+      },
+      {
+        "id": "ruler",
+        "label": "Ruler",
+        "image": "/assets/games/kelas2/ruler.png"
+      },
+      {
+        "id": "bag",
+        "label": "School Bag",
+        "image": "/assets/games/kelas2/bag.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_book_e",
+        "label": "📚 For reading",
+        "correctItem": "book_e",
+        "image": "/assets/games/kelas2/t_book.png"
+      },
+      {
+        "id": "t_pencil_e",
+        "label": "✏️ For writing",
+        "correctItem": "pencil_e",
+        "image": "/assets/games/kelas2/t_pencil.png"
+      },
+      {
+        "id": "t_eraser",
+        "label": "🧽 To remove pencil marks",
+        "correctItem": "eraser",
+        "image": "/assets/games/kelas2/t_eraser.png"
+      },
+      {
+        "id": "t_ruler",
+        "label": "📏 To measure straight lines",
+        "correctItem": "ruler",
+        "image": "/assets/games/kelas2/t_ruler.png"
+      },
+      {
+        "id": "t_bag",
+        "label": "🎒 To carry books",
+        "correctItem": "bag",
+        "image": "/assets/games/kelas2/t_bag.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami teks tulis pendek sederhana atau teks multimodal tentang kehidupan sehari-hari dan meresponsnya secara verbal or non-verbal sesuai konteks.\n(Understand simple short texts or multimodal texts about everyday life and respond to them verbally or non-verbally in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Directions (Kiri/Kanan) sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Directions (Kiri/Kanan)."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "2_eng_4",
+    "title": "Directions (Kiri/Kanan)",
+    "grade": 2,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🧭",
+    "instructions": "Match direction word to the arrow!",
+    "draggableItems": [
+      {
+        "id": "left",
+        "label": "Left",
+        "image": "/assets/games/kelas2/left.png"
+      },
+      {
+        "id": "right",
+        "label": "Right",
+        "image": "/assets/games/kelas2/right.png"
+      },
+      {
+        "id": "forward",
+        "label": "Forward",
+        "image": "/assets/games/kelas2/forward.png"
+      },
+      {
+        "id": "backward",
+        "label": "Backward",
+        "image": "/assets/games/kelas2/backward.png"
+      },
+      {
+        "id": "auto_konsep_2_bahasa_inggris",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_left",
+        "label": "⬅️ Kiri",
+        "correctItem": "left",
+        "image": "/assets/games/kelas2/t_left.png"
+      },
+      {
+        "id": "t_right",
+        "label": "➡️ Kanan",
+        "correctItem": "right",
+        "image": "/assets/games/kelas2/t_right.png"
+      },
+      {
+        "id": "t_forward",
+        "label": "⬆️ Maju",
+        "correctItem": "forward",
+        "image": "/assets/games/kelas2/t_forward.png"
+      },
+      {
+        "id": "t_backward",
+        "label": "⬇️ Mundur",
+        "correctItem": "backward",
+        "image": "/assets/games/kelas2/t_backward.png"
+      },
+      {
+        "id": "t_auto_konsep_2_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_2_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami teks tulis pendek sederhana atau teks multimodal tentang kehidupan sehari-hari dan meresponsnya secara verbal or non-verbal sesuai konteks.\n(Understand simple short texts or multimodal texts about everyday life and respond to them verbally or non-verbally in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Daily Routines sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Daily Routines."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "2_eng_5",
+    "title": "Daily Routines",
+    "grade": 2,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "⏰",
+    "instructions": "Match activity to time of day!",
+    "draggableItems": [
+      {
+        "id": "brush_teeth",
+        "label": "Brush teeth",
+        "image": "/assets/games/kelas2/brush_teeth.png"
+      },
+      {
+        "id": "have_breakfast",
+        "label": "Have breakfast",
+        "image": "/assets/games/kelas2/have_breakfast.png"
+      },
+      {
+        "id": "go_to_school",
+        "label": "Go to school",
+        "image": "/assets/games/kelas2/go_to_school.png"
+      },
+      {
+        "id": "do_homework",
+        "label": "Do homework",
+        "image": "/assets/games/kelas2/do_homework.png"
+      },
+      {
+        "id": "auto_konsep_2_bahasa_inggris",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_brush_teeth",
+        "label": "🌅 Morning routine: Brush teeth",
+        "correctItem": "brush_teeth",
+        "image": "/assets/games/kelas2/t_morning.png"
+      },
+      {
+        "id": "t_have_breakfast",
+        "label": "🌅 Morning routine: Have breakfast",
+        "correctItem": "have_breakfast",
+        "image": "/assets/games/kelas2/t_morning.png"
+      },
+      {
+        "id": "t_go_to_school",
+        "label": "☀️ Daytime",
+        "correctItem": "go_to_school",
+        "image": "/assets/games/kelas2/t_day.png"
+      },
+      {
+        "id": "t_do_homework",
+        "label": "🌆 Evening",
+        "correctItem": "do_homework",
+        "image": "/assets/games/kelas2/t_evening.png"
+      },
+      {
+        "id": "t_auto_konsep_2_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_2_bahasa_inggris"
+      }
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu Memahami kronologi sejarah kelahiran Pancasila; meneladani sikap para perumus Pancasila dan menerapkan di lingkungan masyarakat; menghubungkan sila-sila dalam Pancasila sebagai suatu kesatuan yang utuh; menguraikan makna nilai-nilai Pancasila sebagai dasar negara, dan pandangan hidup bangsa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sila Ke-5 sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sila Ke-5."
+    ],
+    "game": [
+      "Drag simbol sila"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "5_ppkn_1",
+    "title": "Sila Ke-5",
+    "grade": 5,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "⚖️",
+    "instructions": "Pilih contoh pengamalan Sila ke-5",
+    "draggableItems": [
+      {
+        "id": "adil",
+        "label": "Bersikap adil",
+        "image": "/assets/games/kelas5/adil.png"
+      },
+      {
+        "id": "boros",
+        "label": "Hidup boros",
+        "image": "/assets/games/kelas5/boros.png"
+      },
+      {
+        "id": "auto_konsep_5_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_adil",
+        "label": "Sesuai",
+        "correctItem": "adil",
+        "image": "/assets/games/kelas5/benar.png"
+      },
+      {
+        "id": "t_boros",
+        "label": "Tidak Sesuai",
+        "correctItem": "boros",
+        "image": "/assets/games/kelas5/salah.png"
+      },
+      {
+        "id": "t_auto_konsep_5_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_5_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_5_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+    "cp": "Murid mampu mengimplementasikan bentuk-bentuk norma, hak, dan kewajiban dalam kedudukannya sebagai warga negara; mengenal Pembukaan\n\nUndang-Undang Dasar Negara Republik Indonesia tahun 1945; mempraktikkan musyawarah untuk membuat kesepakatan dan aturan bersama, serta menerapkannya dalam lingkungan keluarga dan sekolah.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Hak Anak sesuai elemen Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Hak Anak."
+    ],
+    "game": [
+      "Drag hak dan kewajiban"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "5_ppkn_2",
+    "title": "Hak Anak",
+    "grade": 5,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🧒",
+    "instructions": "Hak di rumah",
+    "draggableItems": [
+      {
+        "id": "sayang",
+        "label": "Kasih Sayang",
+        "image": "/assets/games/kelas5/sayang.png"
+      },
+      {
+        "id": "cuci",
+        "label": "Cuci Piring",
+        "image": "/assets/games/kelas5/cuci.png"
+      },
+      {
+        "id": "auto_konsep_5_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_sayang",
+        "label": "Hak",
+        "correctItem": "sayang",
+        "image": "/assets/games/kelas5/hak.png"
+      },
+      {
+        "id": "t_cuci",
+        "label": "Kewajiban",
+        "correctItem": "cuci",
+        "image": "/assets/games/kelas5/kewajiban.png"
+      },
+      {
+        "id": "t_auto_konsep_5_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_5_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_5_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Bhinneka Tunggal Ika",
+    "cp": "Murid mampu menyajikan hasil identifikasi sikap menghormati, menjaga, dan melestarikan keberagaman budaya sesuai semboyan dalam bingkai Bhinneka Tunggal Ika di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Keberagaman sesuai elemen Bhinneka Tunggal Ika.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Keberagaman."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "5_ppkn_3",
+    "title": "Keberagaman",
+    "grade": 5,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🇮🇩",
+    "instructions": "Sikap menghadapi perbedaan",
+    "draggableItems": [
+      {
+        "id": "toleransi",
+        "label": "Toleransi",
+        "image": "/assets/games/kelas5/toleransi.png"
+      },
+      {
+        "id": "ejek",
+        "label": "Mengejek",
+        "image": "/assets/games/kelas5/ejek.png"
+      },
+      {
+        "id": "auto_konsep_5_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_toleransi",
+        "label": "Sikap Baik",
+        "correctItem": "toleransi",
+        "image": "/assets/games/kelas5/baik.png"
+      },
+      {
+        "id": "t_ejek",
+        "label": "Sikap Buruk",
+        "correctItem": "ejek",
+        "image": "/assets/games/kelas5/buruk.png"
+      },
+      {
+        "id": "t_auto_konsep_5_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_5_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_5_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu Memahami kronologi sejarah kelahiran Pancasila; meneladani sikap para perumus Pancasila dan menerapkan di lingkungan masyarakat; menghubungkan sila-sila dalam Pancasila sebagai suatu kesatuan yang utuh; menguraikan makna nilai-nilai Pancasila sebagai dasar negara, dan pandangan hidup bangsa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Organisasi sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Organisasi."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "5_ppkn_4",
+    "title": "Organisasi",
+    "grade": 5,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "👥",
+    "instructions": "Organisasi sekolah",
+    "draggableItems": [
+      {
+        "id": "osis",
+        "label": "OSIS",
+        "image": "/assets/games/kelas5/osis.png"
+      },
+      {
+        "id": "posyandu",
+        "label": "Posyandu",
+        "image": "/assets/games/kelas5/posyandu.png"
+      },
+      {
+        "id": "auto_konsep_5_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_osis",
+        "label": "Di Sekolah",
+        "correctItem": "osis",
+        "image": "/assets/games/kelas5/sekolah.png"
+      },
+      {
+        "id": "t_posyandu",
+        "label": "Di Masyarakat",
+        "correctItem": "posyandu",
+        "image": "/assets/games/kelas5/masyarakat.png"
+      },
+      {
+        "id": "t_auto_konsep_5_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_5_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_5_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu Memahami kronologi sejarah kelahiran Pancasila; meneladani sikap para perumus Pancasila dan menerapkan di lingkungan masyarakat; menghubungkan sila-sila dalam Pancasila sebagai suatu kesatuan yang utuh; menguraikan makna nilai-nilai Pancasila sebagai dasar negara, dan pandangan hidup bangsa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Keputusan Bersama sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Keputusan Bersama."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "5_ppkn_5",
+    "title": "Keputusan Bersama",
+    "grade": 5,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🤝",
+    "instructions": "Cara mengambil keputusan",
+    "draggableItems": [
+      {
+        "id": "musyawarah",
+        "label": "Musyawarah",
+        "image": "/assets/games/kelas5/musyawarah.png"
+      },
+      {
+        "id": "voting",
+        "label": "Pemungutan Suara",
+        "image": "/assets/games/kelas5/voting.png"
+      },
+      {
+        "id": "auto_konsep_5_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_musyawarah",
+        "label": "Cara Utama",
+        "correctItem": "musyawarah",
+        "image": "/assets/games/kelas5/utama.png"
+      },
+      {
+        "id": "t_voting",
+        "label": "Alternatif",
+        "correctItem": "voting",
+        "image": "/assets/games/kelas5/alternatif.png"
+      },
+      {
+        "id": "t_auto_konsep_5_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_5_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_5_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_ppkn"
+      }
+    ]
+  }
+]

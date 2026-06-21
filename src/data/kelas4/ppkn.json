@@ -1,0 +1,393 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+    "cp": "Murid mampu mengidentifikasi dan melaksanakan aturan di sekolah dan lingkungan tempat tinggal; mengidentifikasi dan menerapkan hak yang didapat dan kewajiban sebagai anggota keluarga dan sebagai warga sekolah.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Hak & Kewajiban di Masyarakat sesuai elemen Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Hak & Kewajiban di Masyarakat."
+    ],
+    "game": [
+      "Drag hak dan kewajiban"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "4_ppkn_1",
+    "title": "Hak & Kewajiban di Masyarakat",
+    "grade": 4,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🏘️",
+    "instructions": "Kelompokkan tindakan warga!",
+    "draggableItems": [
+      {
+        "id": "kerja_bakti",
+        "label": "Ikut Kerja Bakti",
+        "image": "/assets/games/kelas4/kerja_bakti.png"
+      },
+      {
+        "id": "pajak",
+        "label": "Membayar Pajak",
+        "image": "/assets/games/kelas4/pajak.png"
+      },
+      {
+        "id": "aman",
+        "label": "Mendapat Lingkungan Aman",
+        "image": "/assets/games/kelas4/aman.png"
+      },
+      {
+        "id": "auto_konsep_4_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_ppkn",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_kerja_bakti",
+        "label": "Kewajiban Warga: Ikut Kerja Bakti",
+        "correctItem": "kerja_bakti",
+        "image": "/assets/games/kelas4/kewajiban.png"
+      },
+      {
+        "id": "t_pajak",
+        "label": "Kewajiban Warga: Membayar Pajak",
+        "correctItem": "pajak",
+        "image": "/assets/games/kelas4/kewajiban.png"
+      },
+      {
+        "id": "t_aman",
+        "label": "Hak Warga: Mendapat Lingkungan Aman",
+        "correctItem": "aman",
+        "image": "/assets/games/kelas4/hak.png"
+      },
+      {
+        "id": "t_auto_konsep_4_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_4_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Bhinneka Tunggal Ika",
+    "cp": "Murid mampu Mmembedakan dan menghargai identitas, keluarga, dan teman-temannya sesuai budaya, suku bangsa, bahasa, agama dan kepercayaannya di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Keberagaman Budaya sesuai elemen Bhinneka Tunggal Ika.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Keberagaman Budaya."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "4_ppkn_2",
+    "title": "Keberagaman Budaya",
+    "grade": 4,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🎭",
+    "instructions": "Pasangkan rumah adat dengan asalnya!",
+    "draggableItems": [
+      {
+        "id": "gadang",
+        "label": "Rumah Gadang",
+        "image": "/assets/games/kelas4/gadang.png"
+      },
+      {
+        "id": "joglo",
+        "label": "Joglo",
+        "image": "/assets/games/kelas4/joglo.png"
+      },
+      {
+        "id": "honai",
+        "label": "Honai",
+        "image": "/assets/games/kelas4/honai.png"
+      },
+      {
+        "id": "auto_konsep_4_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_ppkn",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_gadang",
+        "label": "Sumatera Barat",
+        "correctItem": "gadang",
+        "image": "/assets/games/kelas4/t_padang.png"
+      },
+      {
+        "id": "t_joglo",
+        "label": "Jawa Tengah",
+        "correctItem": "joglo",
+        "image": "/assets/games/kelas4/t_jawa.png"
+      },
+      {
+        "id": "t_honai",
+        "label": "Papua",
+        "correctItem": "honai",
+        "image": "/assets/games/kelas4/t_papua.png"
+      },
+      {
+        "id": "t_auto_konsep_4_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_4_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu mengidentifikasi makna sila-sila Pancasila, dan penerapannya dalam kehidupan sehari-hari; mengenal karakter para perumus Pancasila; menunjukkan sikap bangga menjadi anak Indonesia yang memiliki bahasa Indonesia sebagai bahasa persatuan di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sila Pancasila ke-4 sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sila Pancasila ke-4."
+    ],
+    "game": [
+      "Drag simbol sila"
+    ],
+    "vr": [
+      "Museum Pancasila"
+    ],
+    "id": "4_ppkn_3",
+    "title": "Sila Pancasila ke-4",
+    "grade": 4,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🗳️",
+    "instructions": "Mana yang sesuai Sila ke-4?",
+    "draggableItems": [
+      {
+        "id": "musyawarah",
+        "label": "Musyawarah mufakat",
+        "image": "/assets/games/kelas4/musyawarah.png"
+      },
+      {
+        "id": "paksa",
+        "label": "Memaksakan kehendak",
+        "image": "/assets/games/kelas4/paksa.png"
+      },
+      {
+        "id": "auto_konsep_4_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_musyawarah",
+        "label": "Sesuai Sila 4",
+        "correctItem": "musyawarah",
+        "image": "/assets/games/kelas4/sesuai.png"
+      },
+      {
+        "id": "t_paksa",
+        "label": "Tidak Sesuai",
+        "correctItem": "paksa",
+        "image": "/assets/games/kelas4/tidak.png"
+      },
+      {
+        "id": "t_auto_konsep_4_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_4_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_4_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu mengidentifikasi makna sila-sila Pancasila, dan penerapannya dalam kehidupan sehari-hari; mengenal karakter para perumus Pancasila; menunjukkan sikap bangga menjadi anak Indonesia yang memiliki bahasa Indonesia sebagai bahasa persatuan di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pahlawan Nasional sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pahlawan Nasional."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "4_ppkn_4",
+    "title": "Pahlawan Nasional",
+    "grade": 4,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🦸",
+    "instructions": "Pasangkan pahlawan dengan daerah asalnya!",
+    "draggableItems": [
+      {
+        "id": "pattimura",
+        "label": "Kapitan Pattimura",
+        "image": "/assets/games/kelas4/pattimura.png"
+      },
+      {
+        "id": "diponegoro",
+        "label": "Pangeran Diponegoro",
+        "image": "/assets/games/kelas4/diponegoro.png"
+      },
+      {
+        "id": "auto_konsep_4_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_pattimura",
+        "label": "Maluku",
+        "correctItem": "pattimura",
+        "image": "/assets/games/kelas4/t_maluku.png"
+      },
+      {
+        "id": "t_diponegoro",
+        "label": "Jawa",
+        "correctItem": "diponegoro",
+        "image": "/assets/games/kelas4/t_jawa.png"
+      },
+      {
+        "id": "t_auto_konsep_4_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_4_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_4_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+    "cp": "Murid mampu mengidentifikasi dan melaksanakan aturan di sekolah dan lingkungan tempat tinggal; mengidentifikasi dan menerapkan hak yang didapat dan kewajiban sebagai anggota keluarga dan sebagai warga sekolah.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Aturan Lalu Lintas sesuai elemen Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Aturan Lalu Lintas."
+    ],
+    "game": [
+      "Drag hak dan kewajiban"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "4_ppkn_5",
+    "title": "Aturan Lalu Lintas",
+    "grade": 4,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🚦",
+    "instructions": "Pasangkan warna lampu lalu lintas!",
+    "draggableItems": [
+      {
+        "id": "merah",
+        "label": "Merah",
+        "image": "/assets/games/kelas4/merah.png"
+      },
+      {
+        "id": "hijau",
+        "label": "Hijau",
+        "image": "/assets/games/kelas4/hijau.png"
+      },
+      {
+        "id": "kuning",
+        "label": "Kuning",
+        "image": "/assets/games/kelas4/kuning.png"
+      },
+      {
+        "id": "auto_konsep_4_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_ppkn",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_merah",
+        "label": "Berhenti",
+        "correctItem": "merah",
+        "image": "/assets/games/kelas4/t_berhenti.png"
+      },
+      {
+        "id": "t_hijau",
+        "label": "Jalan",
+        "correctItem": "hijau",
+        "image": "/assets/games/kelas4/t_jalan.png"
+      },
+      {
+        "id": "t_kuning",
+        "label": "Hati-hati",
+        "correctItem": "kuning",
+        "image": "/assets/games/kelas4/t_hati.png"
+      },
+      {
+        "id": "t_auto_konsep_4_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_4_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_ppkn"
+      }
+    ]
+  }
+]

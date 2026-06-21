@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu membuat karya seni rupa dengan mengembangkan gaya pribadi melalui penggunaan teknik/media secara kreatif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Reklame sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Reklame."
+    ],
+    "game": [
+      "Drag unsur seni"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "6_sen_1",
+    "title": "Reklame",
+    "grade": 6,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🖼️",
+    "instructions": "Jenis Reklame",
+    "draggableItems": [
+      {
+        "id": "poster",
+        "label": "Poster",
+        "image": "/assets/games/kelas6/poster.png"
+      },
+      {
+        "id": "spanduk",
+        "label": "Spanduk",
+        "image": "/assets/games/kelas6/spanduk.png"
+      },
+      {
+        "id": "auto_konsep_6_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_poster",
+        "label": "Ditempel di dinding",
+        "correctItem": "poster",
+        "image": "/assets/games/kelas6/p.png"
+      },
+      {
+        "id": "t_spanduk",
+        "label": "Kain direntangkan",
+        "correctItem": "spanduk",
+        "image": "/assets/games/kelas6/s.png"
+      },
+      {
+        "id": "t_auto_konsep_6_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_6_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_6_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Seni Musik",
+    "elemenCP": "Mengalami",
+    "cp": "Murid mampu mengenali dan menerapkan unsur-unsur musik (nada, irama dan melodi) menggunakan alat musik ritmis dan melodis serta menunjukkan tingkat kepekaan akan unsur-unsur musik dengan menggunakan alat musik ritmis dan melodis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Interval Nada sesuai elemen Mengalami.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Interval Nada."
+    ],
+    "game": [
+      "Drag tinggi rendah nada"
+    ],
+    "vr": [
+      "Studio Musik Virtual"
+    ],
+    "id": "6_sen_2",
+    "title": "Interval Nada",
+    "grade": 6,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🎹",
+    "instructions": "Jarak nada",
+    "draggableItems": [
+      {
+        "id": "satu",
+        "label": "Do ke Re",
+        "image": "/assets/games/kelas6/satu.png"
+      },
+      {
+        "id": "setengah",
+        "label": "Mi ke Fa",
+        "image": "/assets/games/kelas6/setengah.png"
+      },
+      {
+        "id": "auto_konsep_6_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_satu",
+        "label": "Berjarak 1",
+        "correctItem": "satu",
+        "image": "/assets/games/kelas6/1.png"
+      },
+      {
+        "id": "t_setengah",
+        "label": "Berjarak 1/2",
+        "correctItem": "setengah",
+        "image": "/assets/games/kelas6/12.png"
+      },
+      {
+        "id": "t_auto_konsep_6_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_6_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_6_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Seni Tari",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu mementaskan tari kreasi nusantara dengan iringan pola lantai dan penjiwaan karakter tari daerah secara kreatif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Tari Kreasi sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Tari Kreasi."
+    ],
+    "game": [
+      "Drag gerak tari"
+    ],
+    "vr": [
+      "Panggung Tari Nusantara"
+    ],
+    "id": "6_sen_3",
+    "title": "Tari Kreasi",
+    "grade": 6,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "👯",
+    "instructions": "Tari daerah vs modern",
+    "draggableItems": [
+      {
+        "id": "kecak",
+        "label": "Tari Kecak",
+        "image": "/assets/games/kelas6/kecak.png"
+      },
+      {
+        "id": "hiphop",
+        "label": "Hip Hop",
+        "image": "/assets/games/kelas6/hiphop.png"
+      },
+      {
+        "id": "auto_konsep_6_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_kecak",
+        "label": "Tari Tradisional",
+        "correctItem": "kecak",
+        "image": "/assets/games/kelas6/t.png"
+      },
+      {
+        "id": "t_hiphop",
+        "label": "Tari Modern",
+        "correctItem": "hiphop",
+        "image": "/assets/games/kelas6/m.png"
+      },
+      {
+        "id": "t_auto_konsep_6_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_6_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_6_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu membuat karya seni rupa dengan mengembangkan gaya pribadi melalui penggunaan teknik/media secara kreatif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Patung Nusantara sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Patung Nusantara."
+    ],
+    "game": [
+      "Drag bentuk"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "6_sen_4",
+    "title": "Patung Nusantara",
+    "grade": 6,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🗿",
+    "instructions": "Bahan patung",
+    "draggableItems": [
+      {
+        "id": "lunak",
+        "label": "Tanah Liat",
+        "image": "/assets/games/kelas6/lunak.png"
+      },
+      {
+        "id": "keras",
+        "label": "Batu",
+        "image": "/assets/games/kelas6/keras.png"
+      },
+      {
+        "id": "auto_konsep_6_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_lunak",
+        "label": "Bahan Lunak",
+        "correctItem": "lunak",
+        "image": "/assets/games/kelas6/l.png"
+      },
+      {
+        "id": "t_keras",
+        "label": "Bahan Keras",
+        "correctItem": "keras",
+        "image": "/assets/games/kelas6/k.png"
+      },
+      {
+        "id": "t_auto_konsep_6_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_6_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_6_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu membuat karya seni rupa dengan mengembangkan gaya pribadi melalui penggunaan teknik/media secara kreatif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pameran sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pameran."
+    ],
+    "game": [
+      "Drag unsur seni"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "6_sen_5",
+    "title": "Pameran",
+    "grade": 6,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🎪",
+    "instructions": "Fungsi pameran",
+    "draggableItems": [
+      {
+        "id": "apresiasi",
+        "label": "Apresiasi Karya",
+        "image": "/assets/games/kelas6/apresiasi.png"
+      },
+      {
+        "id": "tidur",
+        "label": "Tempat Tidur",
+        "image": "/assets/games/kelas6/tidur.png"
+      },
+      {
+        "id": "auto_konsep_6_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_apresiasi",
+        "label": "Tujuan Pameran",
+        "correctItem": "apresiasi",
+        "image": "/assets/games/kelas6/b.png"
+      },
+      {
+        "id": "t_tidur",
+        "label": "Bukan Tujuan",
+        "correctItem": "tidur",
+        "image": "/assets/games/kelas6/s.png"
+      },
+      {
+        "id": "t_auto_konsep_6_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_6_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_6_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_seni_budaya"
+      }
+    ]
+  }
+]

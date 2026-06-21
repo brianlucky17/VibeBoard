@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu Memahami kronologi sejarah kelahiran Pancasila; meneladani sikap para perumus Pancasila dan menerapkan di lingkungan masyarakat; menghubungkan sila-sila dalam Pancasila sebagai suatu kesatuan yang utuh; menguraikan makna nilai-nilai Pancasila sebagai dasar negara, dan pandangan hidup bangsa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pancasila sbg Ideologi sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pancasila sbg Ideologi."
+    ],
+    "game": [
+      "Drag simbol sila"
+    ],
+    "vr": [
+      "Museum Pancasila"
+    ],
+    "id": "6_ppkn_1",
+    "title": "Pancasila sbg Ideologi",
+    "grade": 6,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🇮🇩",
+    "instructions": "Penerapan nilai juang",
+    "draggableItems": [
+      {
+        "id": "rela",
+        "label": "Rela Berkorban",
+        "image": "/assets/games/kelas6/rela.png"
+      },
+      {
+        "id": "egois",
+        "label": "Egois",
+        "image": "/assets/games/kelas6/egois.png"
+      },
+      {
+        "id": "auto_konsep_6_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_rela",
+        "label": "Sikap Pahlawan",
+        "correctItem": "rela",
+        "image": "/assets/games/kelas6/r.png"
+      },
+      {
+        "id": "t_egois",
+        "label": "Sikap Tercela",
+        "correctItem": "egois",
+        "image": "/assets/games/kelas6/e.png"
+      },
+      {
+        "id": "t_auto_konsep_6_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_6_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_6_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu Memahami kronologi sejarah kelahiran Pancasila; meneladani sikap para perumus Pancasila dan menerapkan di lingkungan masyarakat; menghubungkan sila-sila dalam Pancasila sebagai suatu kesatuan yang utuh; menguraikan makna nilai-nilai Pancasila sebagai dasar negara, dan pandangan hidup bangsa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar ASEAN sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi ASEAN."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "6_ppkn_2",
+    "title": "ASEAN",
+    "grade": 6,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🤝",
+    "instructions": "Negara pendiri ASEAN",
+    "draggableItems": [
+      {
+        "id": "indo",
+        "label": "Indonesia",
+        "image": "/assets/games/kelas6/indo.png"
+      },
+      {
+        "id": "jepang",
+        "label": "Jepang",
+        "image": "/assets/games/kelas6/jepang.png"
+      },
+      {
+        "id": "auto_konsep_6_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_indo",
+        "label": "Anggota ASEAN",
+        "correctItem": "indo",
+        "image": "/assets/games/kelas6/a.png"
+      },
+      {
+        "id": "t_jepang",
+        "label": "Bukan Anggota",
+        "correctItem": "jepang",
+        "image": "/assets/games/kelas6/b.png"
+      },
+      {
+        "id": "t_auto_konsep_6_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_6_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_6_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu Memahami kronologi sejarah kelahiran Pancasila; meneladani sikap para perumus Pancasila dan menerapkan di lingkungan masyarakat; menghubungkan sila-sila dalam Pancasila sebagai suatu kesatuan yang utuh; menguraikan makna nilai-nilai Pancasila sebagai dasar negara, dan pandangan hidup bangsa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pemilu sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pemilu."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "6_ppkn_3",
+    "title": "Pemilu",
+    "grade": 6,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🗳️",
+    "instructions": "Asas Pemilu LUBER",
+    "draggableItems": [
+      {
+        "id": "langsung",
+        "label": "Langsung",
+        "image": "/assets/games/kelas6/langsung.png"
+      },
+      {
+        "id": "rahasia",
+        "label": "Rahasia",
+        "image": "/assets/games/kelas6/rahasia.png"
+      },
+      {
+        "id": "auto_konsep_6_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_langsung",
+        "label": "Pemilih memilih sendiri",
+        "correctItem": "langsung",
+        "image": "/assets/games/kelas6/l.png"
+      },
+      {
+        "id": "t_rahasia",
+        "label": "Pilihan tidak diketahui",
+        "correctItem": "rahasia",
+        "image": "/assets/games/kelas6/r.png"
+      },
+      {
+        "id": "t_auto_konsep_6_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_6_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_6_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+    "cp": "Murid mampu mengimplementasikan bentuk-bentuk norma, hak, dan kewajiban dalam kedudukannya sebagai warga negara; mengenal Pembukaan\n\nUndang-Undang Dasar Negara Republik Indonesia tahun 1945; mempraktikkan musyawarah untuk membuat kesepakatan dan aturan bersama, serta menerapkannya dalam lingkungan keluarga dan sekolah.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kewajiban Negara sesuai elemen Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kewajiban Negara."
+    ],
+    "game": [
+      "Drag hak dan kewajiban"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "6_ppkn_4",
+    "title": "Kewajiban Negara",
+    "grade": 6,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🏛️",
+    "instructions": "Pajak",
+    "draggableItems": [
+      {
+        "id": "bayar",
+        "label": "Membayar Pajak",
+        "image": "/assets/games/kelas6/bayar.png"
+      },
+      {
+        "id": "fasilitas",
+        "label": "Menikmati Jalan Raya",
+        "image": "/assets/games/kelas6/fasilitas.png"
+      },
+      {
+        "id": "auto_konsep_6_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bayar",
+        "label": "Kewajiban Warga",
+        "correctItem": "bayar",
+        "image": "/assets/games/kelas6/k.png"
+      },
+      {
+        "id": "t_fasilitas",
+        "label": "Hak Warga",
+        "correctItem": "fasilitas",
+        "image": "/assets/games/kelas6/h.png"
+      },
+      {
+        "id": "t_auto_konsep_6_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_6_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_6_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu Memahami kronologi sejarah kelahiran Pancasila; meneladani sikap para perumus Pancasila dan menerapkan di lingkungan masyarakat; menghubungkan sila-sila dalam Pancasila sebagai suatu kesatuan yang utuh; menguraikan makna nilai-nilai Pancasila sebagai dasar negara, dan pandangan hidup bangsa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Globalisasi sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Globalisasi."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "6_ppkn_5",
+    "title": "Globalisasi",
+    "grade": 6,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🌍",
+    "instructions": "Dampak Globalisasi",
+    "draggableItems": [
+      {
+        "id": "positif",
+        "label": "Mudah komunikasi",
+        "image": "/assets/games/kelas6/positif.png"
+      },
+      {
+        "id": "negatif",
+        "label": "Lupa budaya sendiri",
+        "image": "/assets/games/kelas6/negatif.png"
+      },
+      {
+        "id": "auto_konsep_6_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_positif",
+        "label": "Dampak Positif",
+        "correctItem": "positif",
+        "image": "/assets/games/kelas6/p.png"
+      },
+      {
+        "id": "t_negatif",
+        "label": "Dampak Negatif",
+        "correctItem": "negatif",
+        "image": "/assets/games/kelas6/n.png"
+      },
+      {
+        "id": "t_auto_konsep_6_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_6_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_6_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_ppkn"
+      }
+    ]
+  }
+]

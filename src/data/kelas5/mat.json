@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukkan pemahaman dan intuisi bilangan (number sense) pada bilangan cacah sampai 1.000.000; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan; menyelesaikan masalah yang berkaitan dengan uang; melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah sampai 100.000; serta menyelesaikan masalah yang berkaitan dengan KPK dan FPB. Murid mampu membandingkan dan mengurutkan berbagai pecahan termasuk pecahan campuran, melakukan operasi penjumlahan dan pengurangan pecahan, serta melakukan operasi perkalian dan pembagian pecahan dengan bilangan asli; mengubah pecahan menjadi berbagai bentuk pecahan lain, serta membandingkan dan mengurutkan bilangan desimal (satu angka di belakang koma).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Penjumlahan Pecahan sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Penjumlahan Pecahan."
+    ],
+    "game": [
+      "Drag angka"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "5_mat_1",
+    "title": "Penjumlahan Pecahan",
+    "grade": 5,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "➕",
+    "instructions": "Hasil 1/2 + 1/4",
+    "draggableItems": [
+      {
+        "id": "34",
+        "label": "3/4",
+        "image": "/assets/games/kelas5/34.png"
+      },
+      {
+        "id": "26",
+        "label": "2/6",
+        "image": "/assets/games/kelas5/26.png"
+      },
+      {
+        "id": "auto_konsep_5_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_34",
+        "label": "Jawaban Benar",
+        "correctItem": "34",
+        "image": "/assets/games/kelas5/benar.png"
+      },
+      {
+        "id": "t_26",
+        "label": "Jawaban Salah",
+        "correctItem": "26",
+        "image": "/assets/games/kelas5/salah.png"
+      },
+      {
+        "id": "t_auto_konsep_5_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_matematika"
+      },
+      {
+        "id": "t_auto_contoh_5_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_5_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukkan pemahaman dan intuisi bilangan (number sense) pada bilangan cacah sampai 1.000.000; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan; menyelesaikan masalah yang berkaitan dengan uang; melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah sampai 100.000; serta menyelesaikan masalah yang berkaitan dengan KPK dan FPB. Murid mampu membandingkan dan mengurutkan berbagai pecahan termasuk pecahan campuran, melakukan operasi penjumlahan dan pengurangan pecahan, serta melakukan operasi perkalian dan pembagian pecahan dengan bilangan asli; mengubah pecahan menjadi berbagai bentuk pecahan lain, serta membandingkan dan mengurutkan bilangan desimal (satu angka di belakang koma).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kecepatan sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kecepatan."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "5_mat_2",
+    "title": "Kecepatan",
+    "grade": 5,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "🏎️",
+    "instructions": "Rumus kecepatan",
+    "draggableItems": [
+      {
+        "id": "jarak",
+        "label": "Jarak",
+        "image": "/assets/games/kelas5/jarak.png"
+      },
+      {
+        "id": "waktu",
+        "label": "Waktu",
+        "image": "/assets/games/kelas5/waktu.png"
+      },
+      {
+        "id": "auto_konsep_5_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_jarak",
+        "label": "... dibagi Waktu",
+        "correctItem": "jarak",
+        "image": "/assets/games/kelas5/bagi.png"
+      },
+      {
+        "id": "t_waktu",
+        "label": "Jarak dibagi ...",
+        "correctItem": "waktu",
+        "image": "/assets/games/kelas5/pembagi.png"
+      },
+      {
+        "id": "t_auto_konsep_5_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_matematika"
+      },
+      {
+        "id": "t_auto_contoh_5_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_5_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Geometri",
+    "cp": "Murid mampu mengkonstruksi dan mengurai bangun ruang (kubus, balok, dan gabungannya) dan mengenali visualisasi spasial (bangun depan, atas, dan samping); membandingkan karakteristik antar bangun datar dan antar bangun ruang; serta menentukan lokasi pada peta yang menggunakan sistem berpetak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Volume Kubus sesuai elemen Geometri.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Volume Kubus."
+    ],
+    "game": [
+      "Drag bangun ruang"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "5_mat_3",
+    "title": "Volume Kubus",
+    "grade": 5,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "🧊",
+    "instructions": "Rumus volume kubus",
+    "draggableItems": [
+      {
+        "id": "sss",
+        "label": "s x s x s",
+        "image": "/assets/games/kelas5/sss.png"
+      },
+      {
+        "id": "plt",
+        "label": "p x l x t",
+        "image": "/assets/games/kelas5/plt.png"
+      },
+      {
+        "id": "auto_konsep_5_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_sss",
+        "label": "Volume Kubus",
+        "correctItem": "sss",
+        "image": "/assets/games/kelas5/kubus.png"
+      },
+      {
+        "id": "t_plt",
+        "label": "Volume Balok",
+        "correctItem": "plt",
+        "image": "/assets/games/kelas5/balok.png"
+      },
+      {
+        "id": "t_auto_konsep_5_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_matematika"
+      },
+      {
+        "id": "t_auto_contoh_5_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_5_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukkan pemahaman dan intuisi bilangan (number sense) pada bilangan cacah sampai 1.000.000; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan; menyelesaikan masalah yang berkaitan dengan uang; melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah sampai 100.000; serta menyelesaikan masalah yang berkaitan dengan KPK dan FPB. Murid mampu membandingkan dan mengurutkan berbagai pecahan termasuk pecahan campuran, melakukan operasi penjumlahan dan pengurangan pecahan, serta melakukan operasi perkalian dan pembagian pecahan dengan bilangan asli; mengubah pecahan menjadi berbagai bentuk pecahan lain, serta membandingkan dan mengurutkan bilangan desimal (satu angka di belakang koma).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Skala sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Skala."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "5_mat_4",
+    "title": "Skala",
+    "grade": 5,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "🗺️",
+    "instructions": "Rumus Skala",
+    "draggableItems": [
+      {
+        "id": "jp",
+        "label": "Jarak Peta",
+        "image": "/assets/games/kelas5/jp.png"
+      },
+      {
+        "id": "js",
+        "label": "Jarak Sebenarnya",
+        "image": "/assets/games/kelas5/js.png"
+      },
+      {
+        "id": "auto_konsep_5_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_jp",
+        "label": "... dibagi JS",
+        "correctItem": "jp",
+        "image": "/assets/games/kelas5/atas.png"
+      },
+      {
+        "id": "t_js",
+        "label": "JP dibagi ...",
+        "correctItem": "js",
+        "image": "/assets/games/kelas5/bawah.png"
+      },
+      {
+        "id": "t_auto_konsep_5_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_matematika"
+      },
+      {
+        "id": "t_auto_contoh_5_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_5_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukkan pemahaman dan intuisi bilangan (number sense) pada bilangan cacah sampai 1.000.000; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan; menyelesaikan masalah yang berkaitan dengan uang; melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah sampai 100.000; serta menyelesaikan masalah yang berkaitan dengan KPK dan FPB. Murid mampu membandingkan dan mengurutkan berbagai pecahan termasuk pecahan campuran, melakukan operasi penjumlahan dan pengurangan pecahan, serta melakukan operasi perkalian dan pembagian pecahan dengan bilangan asli; mengubah pecahan menjadi berbagai bentuk pecahan lain, serta membandingkan dan mengurutkan bilangan desimal (satu angka di belakang koma).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Persen sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Persen."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "5_mat_5",
+    "title": "Persen",
+    "grade": 5,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "💯",
+    "instructions": "Ubah ke persen",
+    "draggableItems": [
+      {
+        "id": "50",
+        "label": "50%",
+        "image": "/assets/games/kelas5/50.png"
+      },
+      {
+        "id": "25",
+        "label": "25%",
+        "image": "/assets/games/kelas5/25.png"
+      },
+      {
+        "id": "auto_konsep_5_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_50",
+        "label": "1/2",
+        "correctItem": "50",
+        "image": "/assets/games/kelas5/12.png"
+      },
+      {
+        "id": "t_25",
+        "label": "1/4",
+        "correctItem": "25",
+        "image": "/assets/games/kelas5/14.png"
+      },
+      {
+        "id": "t_auto_konsep_5_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_matematika"
+      },
+      {
+        "id": "t_auto_contoh_5_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_5_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_matematika"
+      }
+    ]
+  }
+]

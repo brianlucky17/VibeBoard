@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pantun sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pantun."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "5_bi_1",
+    "title": "Pantun",
+    "grade": 5,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📝",
+    "instructions": "Bagian pantun",
+    "draggableItems": [
+      {
+        "id": "sampiran",
+        "label": "Baris 1 & 2",
+        "image": "/assets/games/kelas5/sampiran.png"
+      },
+      {
+        "id": "isi",
+        "label": "Baris 3 & 4",
+        "image": "/assets/games/kelas5/isi.png"
+      },
+      {
+        "id": "auto_konsep_5_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_sampiran",
+        "label": "Sampiran",
+        "correctItem": "sampiran",
+        "image": "/assets/games/kelas5/s.png"
+      },
+      {
+        "id": "t_isi",
+        "label": "Isi",
+        "correctItem": "isi",
+        "image": "/assets/games/kelas5/i.png"
+      },
+      {
+        "id": "t_auto_konsep_5_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_5_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_5_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Iklan sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Iklan."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "5_bi_2",
+    "title": "Iklan",
+    "grade": 5,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📺",
+    "instructions": "Jenis iklan",
+    "draggableItems": [
+      {
+        "id": "komersial",
+        "label": "Jual Produk",
+        "image": "/assets/games/kelas5/komersial.png"
+      },
+      {
+        "id": "layanan",
+        "label": "Himbauan",
+        "image": "/assets/games/kelas5/layanan.png"
+      },
+      {
+        "id": "auto_konsep_5_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_komersial",
+        "label": "Iklan Komersial",
+        "correctItem": "komersial",
+        "image": "/assets/games/kelas5/k.png"
+      },
+      {
+        "id": "t_layanan",
+        "label": "Layanan Masyarakat",
+        "correctItem": "layanan",
+        "image": "/assets/games/kelas5/l.png"
+      },
+      {
+        "id": "t_auto_konsep_5_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_5_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_5_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Surat Undangan sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Surat Undangan."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "5_bi_3",
+    "title": "Surat Undangan",
+    "grade": 5,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "✉️",
+    "instructions": "Resmi vs Tidak Resmi",
+    "draggableItems": [
+      {
+        "id": "dinas",
+        "label": "Undangan Rapat Dinas",
+        "image": "/assets/games/kelas5/dinas.png"
+      },
+      {
+        "id": "ultah",
+        "label": "Undangan Ulang Tahun",
+        "image": "/assets/games/kelas5/ultah.png"
+      },
+      {
+        "id": "auto_konsep_5_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_dinas",
+        "label": "Surat Resmi",
+        "correctItem": "dinas",
+        "image": "/assets/games/kelas5/resmi.png"
+      },
+      {
+        "id": "t_ultah",
+        "label": "Surat Tidak Resmi",
+        "correctItem": "ultah",
+        "image": "/assets/games/kelas5/tidak.png"
+      },
+      {
+        "id": "t_auto_konsep_5_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_5_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_5_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Teks Eksplanasi sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Teks Eksplanasi."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "5_bi_4",
+    "title": "Teks Eksplanasi",
+    "grade": 5,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📖",
+    "instructions": "Isi teks eksplanasi",
+    "draggableItems": [
+      {
+        "id": "fakta",
+        "label": "Fakta Ilmiah",
+        "image": "/assets/games/kelas5/fakta.png"
+      },
+      {
+        "id": "fiksi",
+        "label": "Cerita Khayalan",
+        "image": "/assets/games/kelas5/fiksi.png"
+      },
+      {
+        "id": "auto_konsep_5_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_fakta",
+        "label": "Teks Eksplanasi",
+        "correctItem": "fakta",
+        "image": "/assets/games/kelas5/eksplanasi.png"
+      },
+      {
+        "id": "t_fiksi",
+        "label": "Dongeng",
+        "correctItem": "fiksi",
+        "image": "/assets/games/kelas5/dongeng.png"
+      },
+      {
+        "id": "t_auto_konsep_5_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_5_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_5_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kata Baku sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kata Baku."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "5_bi_5",
+    "title": "Kata Baku",
+    "grade": 5,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "✅",
+    "instructions": "Pilih kata baku",
+    "draggableItems": [
+      {
+        "id": "apotek",
+        "label": "Apotek",
+        "image": "/assets/games/kelas5/apotek.png"
+      },
+      {
+        "id": "apotik",
+        "label": "Apotik",
+        "image": "/assets/games/kelas5/apotik.png"
+      },
+      {
+        "id": "auto_konsep_5_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_apotek",
+        "label": "Kata Baku",
+        "correctItem": "apotek",
+        "image": "/assets/games/kelas5/baku.png"
+      },
+      {
+        "id": "t_apotik",
+        "label": "Tidak Baku",
+        "correctItem": "apotik",
+        "image": "/assets/games/kelas5/tidak.png"
+      },
+      {
+        "id": "t_auto_konsep_5_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_5_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_5_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_bahasa_indonesia"
+      }
+    ]
+  }
+]

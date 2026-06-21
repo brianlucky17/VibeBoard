@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu menganalisis informasi penting, gagasan utama, dan detail dari teks tulis pendek atau teks multimodal secara kritis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Daily Activities sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Daily Activities."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "5_eng_1",
+    "title": "Daily Activities",
+    "grade": 5,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "⏰",
+    "instructions": "Translate",
+    "draggableItems": [
+      {
+        "id": "wake",
+        "label": "Bangun tidur",
+        "image": "/assets/games/kelas5/wake.png"
+      },
+      {
+        "id": "sleep",
+        "label": "Tidur",
+        "image": "/assets/games/kelas5/sleep.png"
+      },
+      {
+        "id": "auto_konsep_5_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_wake",
+        "label": "Wake up",
+        "correctItem": "wake",
+        "image": "/assets/games/kelas5/w.png"
+      },
+      {
+        "id": "t_sleep",
+        "label": "Sleep",
+        "correctItem": "sleep",
+        "image": "/assets/games/kelas5/s.png"
+      },
+      {
+        "id": "t_auto_konsep_5_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_5_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_5_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu menganalisis informasi penting, gagasan utama, dan detail dari teks tulis pendek atau teks multimodal secara kritis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Telling Time sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Telling Time."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "5_eng_2",
+    "title": "Telling Time",
+    "grade": 5,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "⌚",
+    "instructions": "What time is it?",
+    "draggableItems": [
+      {
+        "id": "half",
+        "label": "Half past seven",
+        "image": "/assets/games/kelas5/half.png"
+      },
+      {
+        "id": "oclock",
+        "label": "Seven o'clock",
+        "image": "/assets/games/kelas5/oclock.png"
+      },
+      {
+        "id": "auto_konsep_5_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_half",
+        "label": "07:30",
+        "correctItem": "half",
+        "image": "/assets/games/kelas5/730.png"
+      },
+      {
+        "id": "t_oclock",
+        "label": "07:00",
+        "correctItem": "oclock",
+        "image": "/assets/games/kelas5/700.png"
+      },
+      {
+        "id": "t_auto_konsep_5_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_5_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_5_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu menganalisis informasi penting, gagasan utama, dan detail dari teks tulis pendek atau teks multimodal secara kritis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Professions sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Professions."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "5_eng_3",
+    "title": "Professions",
+    "grade": 5,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "👨‍⚕️",
+    "instructions": "Match job to place",
+    "draggableItems": [
+      {
+        "id": "doctor",
+        "label": "Doctor",
+        "image": "/assets/games/kelas5/doctor.png"
+      },
+      {
+        "id": "teacher",
+        "label": "Teacher",
+        "image": "/assets/games/kelas5/teacher.png"
+      },
+      {
+        "id": "auto_konsep_5_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_doctor",
+        "label": "Hospital",
+        "correctItem": "doctor",
+        "image": "/assets/games/kelas5/hospital.png"
+      },
+      {
+        "id": "t_teacher",
+        "label": "School",
+        "correctItem": "teacher",
+        "image": "/assets/games/kelas5/school.png"
+      },
+      {
+        "id": "t_auto_konsep_5_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_5_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_5_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu menganalisis informasi penting, gagasan utama, dan detail dari teks tulis pendek atau teks multimodal secara kritis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Prepositions sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Prepositions."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "5_eng_4",
+    "title": "Prepositions",
+    "grade": 5,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "📦",
+    "instructions": "Where is the cat?",
+    "draggableItems": [
+      {
+        "id": "in",
+        "label": "Di dalam",
+        "image": "/assets/games/kelas5/in.png"
+      },
+      {
+        "id": "on",
+        "label": "Di atas",
+        "image": "/assets/games/kelas5/on.png"
+      },
+      {
+        "id": "auto_konsep_5_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_in",
+        "label": "In",
+        "correctItem": "in",
+        "image": "/assets/games/kelas5/t_in.png"
+      },
+      {
+        "id": "t_on",
+        "label": "On",
+        "correctItem": "on",
+        "image": "/assets/games/kelas5/t_on.png"
+      },
+      {
+        "id": "t_auto_konsep_5_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_5_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_5_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu menganalisis informasi penting, gagasan utama, dan detail dari teks tulis pendek atau teks multimodal secara kritis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Hobbies sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Hobbies."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "5_eng_5",
+    "title": "Hobbies",
+    "grade": 5,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "⚽",
+    "instructions": "What do you like doing?",
+    "draggableItems": [
+      {
+        "id": "read",
+        "label": "Reading",
+        "image": "/assets/games/kelas5/read.png"
+      },
+      {
+        "id": "swim",
+        "label": "Swimming",
+        "image": "/assets/games/kelas5/swim.png"
+      },
+      {
+        "id": "auto_konsep_5_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_read",
+        "label": "Membaca buku",
+        "correctItem": "read",
+        "image": "/assets/games/kelas5/buku.png"
+      },
+      {
+        "id": "t_swim",
+        "label": "Berenang",
+        "correctItem": "swim",
+        "image": "/assets/games/kelas5/air.png"
+      },
+      {
+        "id": "t_auto_konsep_5_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_5_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_5_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_bahasa_inggris"
+      }
+    ]
+  }
+]

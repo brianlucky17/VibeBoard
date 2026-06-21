@@ -1,0 +1,389 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Letak Geografis sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Letak Geografis."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "5_ips_1",
+    "title": "Letak Geografis",
+    "grade": 5,
+    "subject": "IPS",
+    "level": "Sedang",
+    "emoji": "🌏",
+    "instructions": "Samudra pengapit Indonesia",
+    "draggableItems": [
+      {
+        "id": "hindia",
+        "label": "Hindia",
+        "image": "/assets/games/kelas5/hindia.png"
+      },
+      {
+        "id": "pasifik",
+        "label": "Pasifik",
+        "image": "/assets/games/kelas5/pasifik.png"
+      },
+      {
+        "id": "atlantik",
+        "label": "Atlantik",
+        "image": "/assets/games/kelas5/atlantik.png"
+      },
+      {
+        "id": "auto_konsep_5_ips",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_ips",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_hindia",
+        "label": "Samudra Hindia",
+        "correctItem": "hindia",
+        "image": "/assets/games/kelas5/h.png"
+      },
+      {
+        "id": "t_pasifik",
+        "label": "Samudra Pasifik",
+        "correctItem": "pasifik",
+        "image": "/assets/games/kelas5/p.png"
+      },
+      {
+        "id": "t_atlantik",
+        "label": "Pasangkan: Atlantik",
+        "correctItem": "atlantik",
+        "image": "/assets/games/kelas5/atlantik.png"
+      },
+      {
+        "id": "t_auto_konsep_5_ips",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_ips"
+      },
+      {
+        "id": "t_auto_contoh_5_ips",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_ips"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kegiatan Ekonomi sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kegiatan Ekonomi."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "5_ips_2",
+    "title": "Kegiatan Ekonomi",
+    "grade": 5,
+    "subject": "IPS",
+    "level": "Sedang",
+    "emoji": "💰",
+    "instructions": "Produksi, Distribusi, Konsumsi",
+    "draggableItems": [
+      {
+        "id": "pabrik",
+        "label": "Pabrik Sepatu",
+        "image": "/assets/games/kelas5/pabrik.png"
+      },
+      {
+        "id": "kurir",
+        "label": "Kurir Paket",
+        "image": "/assets/games/kelas5/kurir.png"
+      },
+      {
+        "id": "auto_konsep_5_ips",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_ips",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_ips",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_pabrik",
+        "label": "Produksi",
+        "correctItem": "pabrik",
+        "image": "/assets/games/kelas5/prod.png"
+      },
+      {
+        "id": "t_kurir",
+        "label": "Distribusi",
+        "correctItem": "kurir",
+        "image": "/assets/games/kelas5/dist.png"
+      },
+      {
+        "id": "t_auto_konsep_5_ips",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_ips"
+      },
+      {
+        "id": "t_auto_contoh_5_ips",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_ips"
+      },
+      {
+        "id": "t_auto_manfaat_5_ips",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_ips"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Interaksi Sosial sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Interaksi Sosial."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "5_ips_3",
+    "title": "Interaksi Sosial",
+    "grade": 5,
+    "subject": "IPS",
+    "level": "Sedang",
+    "emoji": "🗣️",
+    "instructions": "Bentuk interaksi",
+    "draggableItems": [
+      {
+        "id": "individu",
+        "label": "Ibu menasihati anak",
+        "image": "/assets/games/kelas5/individu.png"
+      },
+      {
+        "id": "kelompok",
+        "label": "Pertandingan bola",
+        "image": "/assets/games/kelas5/kelompok.png"
+      },
+      {
+        "id": "auto_konsep_5_ips",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_ips",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_ips",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_individu",
+        "label": "Individu ke Individu",
+        "correctItem": "individu",
+        "image": "/assets/games/kelas5/i.png"
+      },
+      {
+        "id": "t_kelompok",
+        "label": "Kelompok ke Kelompok",
+        "correctItem": "kelompok",
+        "image": "/assets/games/kelas5/k.png"
+      },
+      {
+        "id": "t_auto_konsep_5_ips",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_ips"
+      },
+      {
+        "id": "t_auto_contoh_5_ips",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_ips"
+      },
+      {
+        "id": "t_auto_manfaat_5_ips",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_ips"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Penjajahan Belanda sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Penjajahan Belanda."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "5_ips_4",
+    "title": "Penjajahan Belanda",
+    "grade": 5,
+    "subject": "IPS",
+    "level": "Sedang",
+    "emoji": "🚢",
+    "instructions": "Tokoh Perlawanan",
+    "draggableItems": [
+      {
+        "id": "diponegoro",
+        "label": "Perang Jawa",
+        "image": "/assets/games/kelas5/diponegoro.png"
+      },
+      {
+        "id": "hasanuddin",
+        "label": "Makassar",
+        "image": "/assets/games/kelas5/hasanuddin.png"
+      },
+      {
+        "id": "auto_konsep_5_ips",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_ips",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_ips",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_diponegoro",
+        "label": "Pangeran Diponegoro",
+        "correctItem": "diponegoro",
+        "image": "/assets/games/kelas5/d.png"
+      },
+      {
+        "id": "t_hasanuddin",
+        "label": "Sultan Hasanuddin",
+        "correctItem": "hasanuddin",
+        "image": "/assets/games/kelas5/h.png"
+      },
+      {
+        "id": "t_auto_konsep_5_ips",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_ips"
+      },
+      {
+        "id": "t_auto_contoh_5_ips",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_ips"
+      },
+      {
+        "id": "t_auto_manfaat_5_ips",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_ips"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sumpah Pemuda sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sumpah Pemuda."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "5_ips_5",
+    "title": "Sumpah Pemuda",
+    "grade": 5,
+    "subject": "IPS",
+    "level": "Sedang",
+    "emoji": "🇮🇩",
+    "instructions": "Tanggal Sumpah Pemuda",
+    "draggableItems": [
+      {
+        "id": "28okt",
+        "label": "28 Oktober 1928",
+        "image": "/assets/games/kelas5/28okt.png"
+      },
+      {
+        "id": "17ags",
+        "label": "17 Agustus 1945",
+        "image": "/assets/games/kelas5/17ags.png"
+      },
+      {
+        "id": "auto_konsep_5_ips",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_ips",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_ips",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_28okt",
+        "label": "Sumpah Pemuda",
+        "correctItem": "28okt",
+        "image": "/assets/games/kelas5/sp.png"
+      },
+      {
+        "id": "t_17ags",
+        "label": "Kemerdekaan",
+        "correctItem": "17ags",
+        "image": "/assets/games/kelas5/merdeka.png"
+      },
+      {
+        "id": "t_auto_konsep_5_ips",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_ips"
+      },
+      {
+        "id": "t_auto_contoh_5_ips",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_ips"
+      },
+      {
+        "id": "t_auto_manfaat_5_ips",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_ips"
+      }
+    ]
+  }
+]

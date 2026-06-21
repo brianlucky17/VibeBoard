@@ -1,0 +1,397 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu memiliki pemahaman dan instuisi bilangan (number sense) pada bilangan cacah sampai 10.000; membaca, menulis, membandingkan, dan mengurutkan bilangan; menentukan dan menggunakan nilai tempat; melakukan komposisi dan dekomposisi bilangan cacah sampai 10.000. Murid dapat melakukan dan menyelesaikan masalah operasi bilangan penjumlahan dan pengurangan bilangan cacah sampai 1.000; melakukan dan menyelesaikan masalah operasi perkalian dan pembagian bilangan cacah sampai 100 dengan bantuan benda konkret, gambar dan simbol; mengenal kelipatan dan faktor. Murid dapat melakukan perbandingan dan penguatan pecahan dengan pembilang atau dua antar pecahan dengan penyebut yang sama; mengenal urutan pecahan dan pecahan senilai, memiliki intuisi pecahan dan desimal, serta dapat menentukan pecahan sebagai desimal dan persen.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Perkalian Dasar (1-10) sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Perkalian Dasar (1-10)."
+    ],
+    "game": [
+      "Drag operasi hitung"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "3_mat_1",
+    "title": "Perkalian Dasar (1-10)",
+    "grade": 3,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "✖️",
+    "instructions": "Pasangkan soal perkalian dengan hasilnya!",
+    "draggableItems": [
+      {
+        "id": "h15",
+        "label": "15",
+        "image": "/assets/games/kelas3/h15.png"
+      },
+      {
+        "id": "h24",
+        "label": "24",
+        "image": "/assets/games/kelas3/h24.png"
+      },
+      {
+        "id": "h49",
+        "label": "49",
+        "image": "/assets/games/kelas3/h49.png"
+      },
+      {
+        "id": "auto_konsep_3_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_matematika",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_h15",
+        "label": "3 x 5 = ?",
+        "correctItem": "h15",
+        "image": "/assets/games/kelas3/s3x5.png"
+      },
+      {
+        "id": "t_h24",
+        "label": "4 x 6 = ?",
+        "correctItem": "h24",
+        "image": "/assets/games/kelas3/s4x6.png"
+      },
+      {
+        "id": "t_h49",
+        "label": "7 x 7 = ?",
+        "correctItem": "h49",
+        "image": "/assets/games/kelas3/s7x7.png"
+      },
+      {
+        "id": "t_auto_konsep_3_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_matematika"
+      },
+      {
+        "id": "t_auto_contoh_3_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu memiliki pemahaman dan instuisi bilangan (number sense) pada bilangan cacah sampai 10.000; membaca, menulis, membandingkan, dan mengurutkan bilangan; menentukan dan menggunakan nilai tempat; melakukan komposisi dan dekomposisi bilangan cacah sampai 10.000. Murid dapat melakukan dan menyelesaikan masalah operasi bilangan penjumlahan dan pengurangan bilangan cacah sampai 1.000; melakukan dan menyelesaikan masalah operasi perkalian dan pembagian bilangan cacah sampai 100 dengan bantuan benda konkret, gambar dan simbol; mengenal kelipatan dan faktor. Murid dapat melakukan perbandingan dan penguatan pecahan dengan pembilang atau dua antar pecahan dengan penyebut yang sama; mengenal urutan pecahan dan pecahan senilai, memiliki intuisi pecahan dan desimal, serta dapat menentukan pecahan sebagai desimal dan persen.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pembagian Dasar sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pembagian Dasar."
+    ],
+    "game": [
+      "Drag operasi hitung"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "3_mat_2",
+    "title": "Pembagian Dasar",
+    "grade": 3,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "➗",
+    "instructions": "Pasangkan soal pembagian dengan hasilnya!",
+    "draggableItems": [
+      {
+        "id": "h4",
+        "label": "4",
+        "image": "/assets/games/kelas3/h4.png"
+      },
+      {
+        "id": "h7",
+        "label": "7",
+        "image": "/assets/games/kelas3/h7.png"
+      },
+      {
+        "id": "h9",
+        "label": "9",
+        "image": "/assets/games/kelas3/h9.png"
+      },
+      {
+        "id": "auto_konsep_3_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_matematika",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_h4",
+        "label": "20 ÷ 5 = ?",
+        "correctItem": "h4",
+        "image": "/assets/games/kelas3/s20d5.png"
+      },
+      {
+        "id": "t_h7",
+        "label": "42 ÷ 6 = ?",
+        "correctItem": "h7",
+        "image": "/assets/games/kelas3/s42d6.png"
+      },
+      {
+        "id": "t_h9",
+        "label": "81 ÷ 9 = ?",
+        "correctItem": "h9",
+        "image": "/assets/games/kelas3/s81d9.png"
+      },
+      {
+        "id": "t_auto_konsep_3_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_matematika"
+      },
+      {
+        "id": "t_auto_contoh_3_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu memiliki pemahaman dan instuisi bilangan (number sense) pada bilangan cacah sampai 10.000; membaca, menulis, membandingkan, dan mengurutkan bilangan; menentukan dan menggunakan nilai tempat; melakukan komposisi dan dekomposisi bilangan cacah sampai 10.000. Murid dapat melakukan dan menyelesaikan masalah operasi bilangan penjumlahan dan pengurangan bilangan cacah sampai 1.000; melakukan dan menyelesaikan masalah operasi perkalian dan pembagian bilangan cacah sampai 100 dengan bantuan benda konkret, gambar dan simbol; mengenal kelipatan dan faktor. Murid dapat melakukan perbandingan dan penguatan pecahan dengan pembilang atau dua antar pecahan dengan penyebut yang sama; mengenal urutan pecahan dan pecahan senilai, memiliki intuisi pecahan dan desimal, serta dapat menentukan pecahan sebagai desimal dan persen.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pecahan Sederhana sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pecahan Sederhana."
+    ],
+    "game": [
+      "Drag angka"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "3_mat_3",
+    "title": "Pecahan Sederhana",
+    "grade": 3,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "🍕",
+    "instructions": "Cocokkan gambar pecahan dengan nilainya!",
+    "draggableItems": [
+      {
+        "id": "p12",
+        "label": "1/2",
+        "image": "/assets/games/kelas3/p12.png"
+      },
+      {
+        "id": "p14",
+        "label": "1/4",
+        "image": "/assets/games/kelas3/p14.png"
+      },
+      {
+        "id": "p34",
+        "label": "3/4",
+        "image": "/assets/games/kelas3/p34.png"
+      },
+      {
+        "id": "auto_konsep_3_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_matematika",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_p12",
+        "label": "Setengah bagian",
+        "correctItem": "p12",
+        "image": "/assets/games/kelas3/s_setengah.png"
+      },
+      {
+        "id": "t_p14",
+        "label": "Satu per empat bagian",
+        "correctItem": "p14",
+        "image": "/assets/games/kelas3/s_seperempat.png"
+      },
+      {
+        "id": "t_p34",
+        "label": "Tiga per empat bagian",
+        "correctItem": "p34",
+        "image": "/assets/games/kelas3/s_tigaperempat.png"
+      },
+      {
+        "id": "t_auto_konsep_3_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_matematika"
+      },
+      {
+        "id": "t_auto_contoh_3_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Pengukuran",
+    "cp": "Murid mampu mengukur panjang dan berat benda menggunakan satuan baku; menentukan hubungan antar-satuan baku panjang (cm, m) dan antar-satuan berat (g, kg); serta mengukur dan mengestimasi luas dan volume menggunakan satuan tidak baku dan satuan baku berupa bilangan cacah.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Satuan Panjang (m & cm) sesuai elemen Pengukuran.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Satuan Panjang (m & cm)."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "3_mat_4",
+    "title": "Satuan Panjang (m & cm)",
+    "grade": 3,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "📏",
+    "instructions": "Konversikan satuan panjang berikut!",
+    "draggableItems": [
+      {
+        "id": "c100",
+        "label": "100 cm",
+        "image": "/assets/games/kelas3/c100.png"
+      },
+      {
+        "id": "c200",
+        "label": "200 cm",
+        "image": "/assets/games/kelas3/c200.png"
+      },
+      {
+        "id": "c300",
+        "label": "300 cm",
+        "image": "/assets/games/kelas3/c300.png"
+      },
+      {
+        "id": "auto_konsep_3_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_matematika",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_c100",
+        "label": "1 meter = ?",
+        "correctItem": "c100",
+        "image": "/assets/games/kelas3/m1.png"
+      },
+      {
+        "id": "t_c200",
+        "label": "2 meter = ?",
+        "correctItem": "c200",
+        "image": "/assets/games/kelas3/m2.png"
+      },
+      {
+        "id": "t_c300",
+        "label": "3 meter = ?",
+        "correctItem": "c300",
+        "image": "/assets/games/kelas3/m3.png"
+      },
+      {
+        "id": "t_auto_konsep_3_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_matematika"
+      },
+      {
+        "id": "t_auto_contoh_3_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu memiliki pemahaman dan instuisi bilangan (number sense) pada bilangan cacah sampai 10.000; membaca, menulis, membandingkan, dan mengurutkan bilangan; menentukan dan menggunakan nilai tempat; melakukan komposisi dan dekomposisi bilangan cacah sampai 10.000. Murid dapat melakukan dan menyelesaikan masalah operasi bilangan penjumlahan dan pengurangan bilangan cacah sampai 1.000; melakukan dan menyelesaikan masalah operasi perkalian dan pembagian bilangan cacah sampai 100 dengan bantuan benda konkret, gambar dan simbol; mengenal kelipatan dan faktor. Murid dapat melakukan perbandingan dan penguatan pecahan dengan pembilang atau dua antar pecahan dengan penyebut yang sama; mengenal urutan pecahan dan pecahan senilai, memiliki intuisi pecahan dan desimal, serta dapat menentukan pecahan sebagai desimal dan persen.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Satuan Berat (kg & gram) sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Satuan Berat (kg & gram)."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "3_mat_5",
+    "title": "Satuan Berat (kg & gram)",
+    "grade": 3,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "⚖️",
+    "instructions": "Konversikan satuan berat berikut!",
+    "draggableItems": [
+      {
+        "id": "g1000",
+        "label": "1000 gram",
+        "image": "/assets/games/kelas3/g1000.png"
+      },
+      {
+        "id": "g2000",
+        "label": "2000 gram",
+        "image": "/assets/games/kelas3/g2000.png"
+      },
+      {
+        "id": "g5000",
+        "label": "5000 gram",
+        "image": "/assets/games/kelas3/g5000.png"
+      },
+      {
+        "id": "auto_konsep_3_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_matematika",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_g1000",
+        "label": "1 kg = ?",
+        "correctItem": "g1000",
+        "image": "/assets/games/kelas3/kg1.png"
+      },
+      {
+        "id": "t_g2000",
+        "label": "2 kg = ?",
+        "correctItem": "g2000",
+        "image": "/assets/games/kelas3/kg2.png"
+      },
+      {
+        "id": "t_g5000",
+        "label": "5 kg = ?",
+        "correctItem": "g5000",
+        "image": "/assets/games/kelas3/kg5.png"
+      },
+      {
+        "id": "t_auto_konsep_3_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_matematika"
+      },
+      {
+        "id": "t_auto_contoh_3_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_matematika"
+      }
+    ]
+  }
+]

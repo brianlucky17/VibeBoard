@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukkan pemahaman dan intuisi bilangan (number sense) pada bilangan cacah sampai 1.000.000; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan; menyelesaikan masalah yang berkaitan dengan uang; melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah sampai 100.000; serta menyelesaikan masalah yang berkaitan dengan KPK dan FPB. Murid mampu membandingkan dan mengurutkan berbagai pecahan termasuk pecahan campuran, melakukan operasi penjumlahan dan pengurangan pecahan, serta melakukan operasi perkalian dan pembagian pecahan dengan bilangan asli; mengubah pecahan menjadi berbagai bentuk pecahan lain, serta membandingkan dan mengurutkan bilangan desimal (satu angka di belakang koma).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Bilangan Bulat Negatif sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Bilangan Bulat Negatif."
+    ],
+    "game": [
+      "Drag angka"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "6_mat_1",
+    "title": "Bilangan Bulat Negatif",
+    "grade": 6,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "➖",
+    "instructions": "Hitung!",
+    "draggableItems": [
+      {
+        "id": "m5",
+        "label": "-5",
+        "image": "/assets/games/kelas6/m5.png"
+      },
+      {
+        "id": "p5",
+        "label": "5",
+        "image": "/assets/games/kelas6/p5.png"
+      },
+      {
+        "id": "auto_konsep_6_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_m5",
+        "label": "-10 + 5 =",
+        "correctItem": "m5",
+        "image": "/assets/games/kelas6/h1.png"
+      },
+      {
+        "id": "t_p5",
+        "label": "10 - 5 =",
+        "correctItem": "p5",
+        "image": "/assets/games/kelas6/h2.png"
+      },
+      {
+        "id": "t_auto_konsep_6_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_matematika"
+      },
+      {
+        "id": "t_auto_contoh_6_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_6_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Pengukuran",
+    "cp": "Murid mampu menentukan keliling dan luas berbagai bentuk bangun datar (segitiga, segiempat, dan segi banyak) serta gabungannya; menghitung durasi waktu dan mengukur besar sudut pada bangun datar atau yang dibentuk dari dua garis berpotongan.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Luas Lingkaran sesuai elemen Pengukuran.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Luas Lingkaran."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "6_mat_2",
+    "title": "Luas Lingkaran",
+    "grade": 6,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "⭕",
+    "instructions": "Rumus Lingkaran",
+    "draggableItems": [
+      {
+        "id": "luas",
+        "label": "π x r x r",
+        "image": "/assets/games/kelas6/luas.png"
+      },
+      {
+        "id": "kel",
+        "label": "π x d",
+        "image": "/assets/games/kelas6/kel.png"
+      },
+      {
+        "id": "auto_konsep_6_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_luas",
+        "label": "Luas Lingkaran",
+        "correctItem": "luas",
+        "image": "/assets/games/kelas6/l.png"
+      },
+      {
+        "id": "t_kel",
+        "label": "Keliling Lingkaran",
+        "correctItem": "kel",
+        "image": "/assets/games/kelas6/k.png"
+      },
+      {
+        "id": "t_auto_konsep_6_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_matematika"
+      },
+      {
+        "id": "t_auto_contoh_6_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_6_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Geometri",
+    "cp": "Murid mampu mengkonstruksi dan mengurai bangun ruang (kubus, balok, dan gabungannya) dan mengenali visualisasi spasial (bangun depan, atas, dan samping); membandingkan karakteristik antar bangun datar dan antar bangun ruang; serta menentukan lokasi pada peta yang menggunakan sistem berpetak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Volume Tabung sesuai elemen Geometri.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Volume Tabung."
+    ],
+    "game": [
+      "Drag bangun ruang"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "6_mat_3",
+    "title": "Volume Tabung",
+    "grade": 6,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "🛢️",
+    "instructions": "Rumus Tabung",
+    "draggableItems": [
+      {
+        "id": "vol",
+        "label": "Luas Alas x Tinggi",
+        "image": "/assets/games/kelas6/vol.png"
+      },
+      {
+        "id": "alas",
+        "label": "π x r x r",
+        "image": "/assets/games/kelas6/alas.png"
+      },
+      {
+        "id": "auto_konsep_6_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_vol",
+        "label": "Volume Tabung",
+        "correctItem": "vol",
+        "image": "/assets/games/kelas6/v.png"
+      },
+      {
+        "id": "t_alas",
+        "label": "Luas Alas Tabung",
+        "correctItem": "alas",
+        "image": "/assets/games/kelas6/a.png"
+      },
+      {
+        "id": "t_auto_konsep_6_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_matematika"
+      },
+      {
+        "id": "t_auto_contoh_6_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_6_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukkan pemahaman dan intuisi bilangan (number sense) pada bilangan cacah sampai 1.000.000; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan; menyelesaikan masalah yang berkaitan dengan uang; melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah sampai 100.000; serta menyelesaikan masalah yang berkaitan dengan KPK dan FPB. Murid mampu membandingkan dan mengurutkan berbagai pecahan termasuk pecahan campuran, melakukan operasi penjumlahan dan pengurangan pecahan, serta melakukan operasi perkalian dan pembagian pecahan dengan bilangan asli; mengubah pecahan menjadi berbagai bentuk pecahan lain, serta membandingkan dan mengurutkan bilangan desimal (satu angka di belakang koma).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Mean, Median, Modus sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Mean, Median, Modus."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "6_mat_4",
+    "title": "Mean, Median, Modus",
+    "grade": 6,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "📊",
+    "instructions": "Istilah statistik",
+    "draggableItems": [
+      {
+        "id": "mean",
+        "label": "Rata-rata",
+        "image": "/assets/games/kelas6/mean.png"
+      },
+      {
+        "id": "modus",
+        "label": "Paling sering muncul",
+        "image": "/assets/games/kelas6/modus.png"
+      },
+      {
+        "id": "auto_konsep_6_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_mean",
+        "label": "Mean",
+        "correctItem": "mean",
+        "image": "/assets/games/kelas6/me.png"
+      },
+      {
+        "id": "t_modus",
+        "label": "Modus",
+        "correctItem": "modus",
+        "image": "/assets/games/kelas6/mo.png"
+      },
+      {
+        "id": "t_auto_konsep_6_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_matematika"
+      },
+      {
+        "id": "t_auto_contoh_6_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_6_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukkan pemahaman dan intuisi bilangan (number sense) pada bilangan cacah sampai 1.000.000; membaca, menulis, menentukan nilai tempat, membandingkan, mengurutkan, melakukan komposisi dan dekomposisi bilangan; menyelesaikan masalah yang berkaitan dengan uang; melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah sampai 100.000; serta menyelesaikan masalah yang berkaitan dengan KPK dan FPB. Murid mampu membandingkan dan mengurutkan berbagai pecahan termasuk pecahan campuran, melakukan operasi penjumlahan dan pengurangan pecahan, serta melakukan operasi perkalian dan pembagian pecahan dengan bilangan asli; mengubah pecahan menjadi berbagai bentuk pecahan lain, serta membandingkan dan mengurutkan bilangan desimal (satu angka di belakang koma).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Peluang Dasar sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Peluang Dasar."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "6_mat_5",
+    "title": "Peluang Dasar",
+    "grade": 6,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "🎲",
+    "instructions": "Dadu dilempar",
+    "draggableItems": [
+      {
+        "id": "ganjil",
+        "label": "1, 3, 5",
+        "image": "/assets/games/kelas6/ganjil.png"
+      },
+      {
+        "id": "genap",
+        "label": "2, 4, 6",
+        "image": "/assets/games/kelas6/genap.png"
+      },
+      {
+        "id": "auto_konsep_6_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_ganjil",
+        "label": "Angka Ganjil",
+        "correctItem": "ganjil",
+        "image": "/assets/games/kelas6/g1.png"
+      },
+      {
+        "id": "t_genap",
+        "label": "Angka Genap",
+        "correctItem": "genap",
+        "image": "/assets/games/kelas6/g2.png"
+      },
+      {
+        "id": "t_auto_konsep_6_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_matematika"
+      },
+      {
+        "id": "t_auto_contoh_6_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_6_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_matematika"
+      }
+    ]
+  }
+]

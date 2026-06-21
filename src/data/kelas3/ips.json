@@ -1,0 +1,401 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Lingkungan Alam & Buatan sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Lingkungan Alam & Buatan."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "3_ips_1",
+    "title": "Lingkungan Alam & Buatan",
+    "grade": 3,
+    "subject": "Ilmu Pengetahuan Sosial",
+    "level": "Sedang",
+    "emoji": "🏞️",
+    "instructions": "Kelompokkan jenis lingkungan!",
+    "draggableItems": [
+      {
+        "id": "gunung",
+        "label": "Gunung",
+        "image": "/assets/games/kelas3/gunung.png"
+      },
+      {
+        "id": "sungai",
+        "label": "Sungai",
+        "image": "/assets/games/kelas3/sungai.png"
+      },
+      {
+        "id": "waduk",
+        "label": "Waduk",
+        "image": "/assets/games/kelas3/waduk.png"
+      },
+      {
+        "id": "jalan",
+        "label": "Jalan Raya",
+        "image": "/assets/games/kelas3/jalan.png"
+      },
+      {
+        "id": "auto_konsep_3_ilmu_pengetahuan_sosial",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_gunung",
+        "label": "Lingkungan Alam: Gunung",
+        "correctItem": "gunung",
+        "image": "/assets/games/kelas3/alam.png"
+      },
+      {
+        "id": "t_sungai",
+        "label": "Lingkungan Alam: Sungai",
+        "correctItem": "sungai",
+        "image": "/assets/games/kelas3/alam.png"
+      },
+      {
+        "id": "t_waduk",
+        "label": "Lingkungan Buatan: Waduk",
+        "correctItem": "waduk",
+        "image": "/assets/games/kelas3/buatan.png"
+      },
+      {
+        "id": "t_jalan",
+        "label": "Lingkungan Buatan: Jalan Raya",
+        "correctItem": "jalan",
+        "image": "/assets/games/kelas3/buatan.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ilmu_pengetahuan_sosial",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ilmu_pengetahuan_sosial"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Denah & Mata Angin sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Denah & Mata Angin."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "3_ips_2",
+    "title": "Denah & Mata Angin",
+    "grade": 3,
+    "subject": "Ilmu Pengetahuan Sosial",
+    "level": "Sedang",
+    "emoji": "🧭",
+    "instructions": "Pasangkan arah mata angin yang berlawanan!",
+    "draggableItems": [
+      {
+        "id": "selatan",
+        "label": "Selatan",
+        "image": "/assets/games/kelas3/selatan.png"
+      },
+      {
+        "id": "barat",
+        "label": "Barat",
+        "image": "/assets/games/kelas3/barat.png"
+      },
+      {
+        "id": "timur",
+        "label": "Timur",
+        "image": "/assets/games/kelas3/timur.png"
+      },
+      {
+        "id": "auto_konsep_3_ilmu_pengetahuan_sosial",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_ilmu_pengetahuan_sosial",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_selatan",
+        "label": "Utara berlawanan dengan",
+        "correctItem": "selatan",
+        "image": "/assets/games/kelas3/u.png"
+      },
+      {
+        "id": "t_barat",
+        "label": "Timur berlawanan dengan",
+        "correctItem": "barat",
+        "image": "/assets/games/kelas3/b.png"
+      },
+      {
+        "id": "t_timur",
+        "label": "Pasangkan: Timur",
+        "correctItem": "timur",
+        "image": "/assets/games/kelas3/timur.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ilmu_pengetahuan_sosial",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ilmu_pengetahuan_sosial"
+      },
+      {
+        "id": "t_auto_contoh_3_ilmu_pengetahuan_sosial",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_ilmu_pengetahuan_sosial"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pekerjaan Penghasil Barang/Jasa sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pekerjaan Penghasil Barang/Jasa."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "3_ips_3",
+    "title": "Pekerjaan Penghasil Barang/Jasa",
+    "grade": 3,
+    "subject": "Ilmu Pengetahuan Sosial",
+    "level": "Sedang",
+    "emoji": "👨‍🌾",
+    "instructions": "Kelompokkan pekerjaan berdasarkan hasilnya!",
+    "draggableItems": [
+      {
+        "id": "petani",
+        "label": "Petani",
+        "image": "/assets/games/kelas3/petani.png"
+      },
+      {
+        "id": "nelayan",
+        "label": "Nelayan",
+        "image": "/assets/games/kelas3/nelayan.png"
+      },
+      {
+        "id": "guru",
+        "label": "Guru",
+        "image": "/assets/games/kelas3/guru.png"
+      },
+      {
+        "id": "dokter",
+        "label": "Dokter",
+        "image": "/assets/games/kelas3/dokter.png"
+      },
+      {
+        "id": "auto_konsep_3_ilmu_pengetahuan_sosial",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_petani",
+        "label": "Menghasilkan Barang: Petani",
+        "correctItem": "petani",
+        "image": "/assets/games/kelas3/barang.png"
+      },
+      {
+        "id": "t_nelayan",
+        "label": "Menghasilkan Barang: Nelayan",
+        "correctItem": "nelayan",
+        "image": "/assets/games/kelas3/barang.png"
+      },
+      {
+        "id": "t_guru",
+        "label": "Menghasilkan Jasa: Guru",
+        "correctItem": "guru",
+        "image": "/assets/games/kelas3/jasa.png"
+      },
+      {
+        "id": "t_dokter",
+        "label": "Menghasilkan Jasa: Dokter",
+        "correctItem": "dokter",
+        "image": "/assets/games/kelas3/jasa.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ilmu_pengetahuan_sosial",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ilmu_pengetahuan_sosial"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kerja Sama di Lingkungan sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kerja Sama di Lingkungan."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "3_ips_4",
+    "title": "Kerja Sama di Lingkungan",
+    "grade": 3,
+    "subject": "Ilmu Pengetahuan Sosial",
+    "level": "Sedang",
+    "emoji": "🤝",
+    "instructions": "Pilih contoh kerja sama yang baik!",
+    "draggableItems": [
+      {
+        "id": "bersih",
+        "label": "Kerja bakti membersihkan desa",
+        "image": "/assets/games/kelas3/bersih.png"
+      },
+      {
+        "id": "ronda",
+        "label": "Ronda malam",
+        "image": "/assets/games/kelas3/ronda.png"
+      },
+      {
+        "id": "nyontek",
+        "label": "Menyontek saat ujian",
+        "image": "/assets/games/kelas3/nyontek.png"
+      },
+      {
+        "id": "auto_konsep_3_ilmu_pengetahuan_sosial",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_ilmu_pengetahuan_sosial",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bersih",
+        "label": "Kerja Sama Baik: Kerja bakti membersihkan desa",
+        "correctItem": "bersih",
+        "image": "/assets/games/kelas3/baik.png"
+      },
+      {
+        "id": "t_ronda",
+        "label": "Kerja Sama Baik: Ronda malam",
+        "correctItem": "ronda",
+        "image": "/assets/games/kelas3/baik.png"
+      },
+      {
+        "id": "t_nyontek",
+        "label": "Kerja Sama Buruk: Menyontek saat ujian",
+        "correctItem": "nyontek",
+        "image": "/assets/games/kelas3/buruk.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ilmu_pengetahuan_sosial",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ilmu_pengetahuan_sosial"
+      },
+      {
+        "id": "t_auto_contoh_3_ilmu_pengetahuan_sosial",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_ilmu_pengetahuan_sosial"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kebutuhan Pokok sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kebutuhan Pokok."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "3_ips_5",
+    "title": "Kebutuhan Pokok",
+    "grade": 3,
+    "subject": "Ilmu Pengetahuan Sosial",
+    "level": "Sedang",
+    "emoji": "🏠",
+    "instructions": "Pasangkan kebutuhan dengan contohnya!",
+    "draggableItems": [
+      {
+        "id": "sandang",
+        "label": "Pakaian",
+        "image": "/assets/games/kelas3/sandang.png"
+      },
+      {
+        "id": "pangan",
+        "label": "Makanan",
+        "image": "/assets/games/kelas3/pangan.png"
+      },
+      {
+        "id": "papan",
+        "label": "Rumah",
+        "image": "/assets/games/kelas3/papan.png"
+      },
+      {
+        "id": "auto_konsep_3_ilmu_pengetahuan_sosial",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_ilmu_pengetahuan_sosial",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_sandang",
+        "label": "Sandang",
+        "correctItem": "sandang",
+        "image": "/assets/games/kelas3/t_sandang.png"
+      },
+      {
+        "id": "t_pangan",
+        "label": "Pangan",
+        "correctItem": "pangan",
+        "image": "/assets/games/kelas3/t_pangan.png"
+      },
+      {
+        "id": "t_papan",
+        "label": "Papan",
+        "correctItem": "papan",
+        "image": "/assets/games/kelas3/t_papan.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ilmu_pengetahuan_sosial",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ilmu_pengetahuan_sosial"
+      },
+      {
+        "id": "t_auto_contoh_3_ilmu_pengetahuan_sosial",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_ilmu_pengetahuan_sosial"
+      }
+    ]
+  }
+]

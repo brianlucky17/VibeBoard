@@ -1,0 +1,19 @@
+/* Global playful styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Nunito', 'Comic Sans MS', cursive;
+  overflow-x: hidden;
+}
+
+/* Responsive for tablets/mobile */
+@media (max-width: 768px) {
+  .btn-playful {
+    @apply px-5 py-3 text-base;
+  }
+  .game-card {
+    @apply p-5;
+  }
+}

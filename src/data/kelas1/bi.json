@@ -1,0 +1,411 @@
+[
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Huruf Vokal & Konsonan sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Huruf Vokal & Konsonan."
+    ],
+    "game": [
+      "Drag huruf"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "1_bi_1",
+    "title": "Huruf Vokal & Konsonan",
+    "grade": 1,
+    "subject": "Bahasa Indonesia",
+    "level": "Mudah",
+    "emoji": "🔤",
+    "instructions": "Seret huruf ke kotak VOKAL atau KONSONAN!",
+    "draggableItems": [
+      {
+        "id": "ha",
+        "label": "A",
+        "image": "/assets/games/kelas1/ha.png"
+      },
+      {
+        "id": "he",
+        "label": "E",
+        "image": "/assets/games/kelas1/he.png"
+      },
+      {
+        "id": "hi",
+        "label": "I",
+        "image": "/assets/games/kelas1/hi.png"
+      },
+      {
+        "id": "ho",
+        "label": "O",
+        "image": "/assets/games/kelas1/ho.png"
+      },
+      {
+        "id": "hb",
+        "label": "B",
+        "image": "/assets/games/kelas1/hb.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_ha",
+        "label": "🎵 VOKAL: A",
+        "correctItem": "ha",
+        "image": "/assets/games/kelas1/vokal.png"
+      },
+      {
+        "id": "t_he",
+        "label": "🎵 VOKAL: E",
+        "correctItem": "he",
+        "image": "/assets/games/kelas1/vokal.png"
+      },
+      {
+        "id": "t_hi",
+        "label": "🎵 VOKAL: I",
+        "correctItem": "hi",
+        "image": "/assets/games/kelas1/vokal.png"
+      },
+      {
+        "id": "t_ho",
+        "label": "🎵 VOKAL: O",
+        "correctItem": "ho",
+        "image": "/assets/games/kelas1/vokal.png"
+      },
+      {
+        "id": "t_hb",
+        "label": "🔵 KONSONAN: B",
+        "correctItem": "hb",
+        "image": "/assets/games/kelas1/konsonan.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Suku Kata Jadi Kata sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Suku Kata Jadi Kata."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "1_bi_2",
+    "title": "Suku Kata Jadi Kata",
+    "grade": 1,
+    "subject": "Bahasa Indonesia",
+    "level": "Mudah",
+    "emoji": "🗣️",
+    "instructions": "Cocokkan dua suku kata yang membentuk kata!",
+    "draggableItems": [
+      {
+        "id": "ba",
+        "label": "ba-",
+        "image": "/assets/games/kelas1/ba.png"
+      },
+      {
+        "id": "su",
+        "label": "su-",
+        "image": "/assets/games/kelas1/su.png"
+      },
+      {
+        "id": "ca",
+        "label": "ca-",
+        "image": "/assets/games/kelas1/ca.png"
+      },
+      {
+        "id": "ju",
+        "label": "ju-",
+        "image": "/assets/games/kelas1/ju.png"
+      },
+      {
+        "id": "auto_konsep_1_bahasa_indonesia",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_ba",
+        "label": "_ + -ju = baju",
+        "correctItem": "ba",
+        "image": "/assets/games/kelas1/t_baju.png"
+      },
+      {
+        "id": "t_su",
+        "label": "_ + -su = susu",
+        "correctItem": "su",
+        "image": "/assets/games/kelas1/t_susu.png"
+      },
+      {
+        "id": "t_ca",
+        "label": "_ + -ca = caca",
+        "correctItem": "ca",
+        "image": "/assets/games/kelas1/t_caca.png"
+      },
+      {
+        "id": "t_ju",
+        "label": "_ + -ri = juri",
+        "correctItem": "ju",
+        "image": "/assets/games/kelas1/t_juri.png"
+      },
+      {
+        "id": "t_auto_konsep_1_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Nama Benda Sehari-hari sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Nama Benda Sehari-hari."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "1_bi_3",
+    "title": "Nama Benda Sehari-hari",
+    "grade": 1,
+    "subject": "Bahasa Indonesia",
+    "level": "Mudah",
+    "emoji": "📚",
+    "instructions": "Seret nama benda ke gambar yang sesuai!",
+    "draggableItems": [
+      {
+        "id": "buku",
+        "label": "📖 Buku",
+        "image": "/assets/games/kelas1/buku.png"
+      },
+      {
+        "id": "pensil",
+        "label": "✏️ Pensil",
+        "image": "/assets/games/kelas1/pensil.png"
+      },
+      {
+        "id": "tas",
+        "label": "🎒 Tas",
+        "image": "/assets/games/kelas1/tas.png"
+      },
+      {
+        "id": "kursi",
+        "label": "🪑 Kursi",
+        "image": "/assets/games/kelas1/kursi.png"
+      },
+      {
+        "id": "meja",
+        "label": "🪵 Meja",
+        "image": "/assets/games/kelas1/meja.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_buku",
+        "label": "Benda untuk membaca",
+        "correctItem": "buku",
+        "image": "/assets/games/kelas1/t_buku.png"
+      },
+      {
+        "id": "t_pensil",
+        "label": "Benda untuk menulis",
+        "correctItem": "pensil",
+        "image": "/assets/games/kelas1/t_pensil.png"
+      },
+      {
+        "id": "t_tas",
+        "label": "Benda untuk membawa buku",
+        "correctItem": "tas",
+        "image": "/assets/games/kelas1/t_tas.png"
+      },
+      {
+        "id": "t_kursi",
+        "label": "Benda untuk duduk",
+        "correctItem": "kursi",
+        "image": "/assets/games/kelas1/t_kursi.png"
+      },
+      {
+        "id": "t_meja",
+        "label": "Pasangkan: 🪵 Meja",
+        "correctItem": "meja",
+        "image": "/assets/games/kelas1/meja.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kata Sapaan sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kata Sapaan."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "1_bi_4",
+    "title": "Kata Sapaan",
+    "grade": 1,
+    "subject": "Bahasa Indonesia",
+    "level": "Mudah",
+    "emoji": "👋",
+    "instructions": "Seret sapaan yang tepat ke waktu yang sesuai!",
+    "draggableItems": [
+      {
+        "id": "pagi",
+        "label": "🌅 Selamat Pagi",
+        "image": "/assets/games/kelas1/pagi.png"
+      },
+      {
+        "id": "siang",
+        "label": "☀️ Selamat Siang",
+        "image": "/assets/games/kelas1/siang.png"
+      },
+      {
+        "id": "sore",
+        "label": "🌇 Selamat Sore",
+        "image": "/assets/games/kelas1/sore.png"
+      },
+      {
+        "id": "malam",
+        "label": "🌙 Selamat Malam",
+        "image": "/assets/games/kelas1/malam.png"
+      },
+      {
+        "id": "auto_konsep_1_bahasa_indonesia",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_pagi",
+        "label": "⏰ Pukul 07.00",
+        "correctItem": "pagi",
+        "image": "/assets/games/kelas1/t_pagi.png"
+      },
+      {
+        "id": "t_siang",
+        "label": "⏰ Pukul 12.00",
+        "correctItem": "siang",
+        "image": "/assets/games/kelas1/t_siang.png"
+      },
+      {
+        "id": "t_sore",
+        "label": "⏰ Pukul 17.00",
+        "correctItem": "sore",
+        "image": "/assets/games/kelas1/t_sore.png"
+      },
+      {
+        "id": "t_malam",
+        "label": "⏰ Pukul 20.00",
+        "correctItem": "malam",
+        "image": "/assets/games/kelas1/t_malam.png"
+      },
+      {
+        "id": "t_auto_konsep_1_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Urutan Kegiatan Pagi Hari sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Urutan Kegiatan Pagi Hari."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "1_bi_5",
+    "title": "Urutan Kegiatan Pagi Hari",
+    "grade": 1,
+    "subject": "Bahasa Indonesia",
+    "level": "Mudah",
+    "emoji": "🌅",
+    "instructions": "Urutkan kegiatan pagi hari dari pertama sampai terakhir!",
+    "draggableItems": [
+      {
+        "id": "bangun",
+        "label": "😴 Bangun tidur",
+        "image": "/assets/games/kelas1/bangun.png"
+      },
+      {
+        "id": "mandi",
+        "label": "🚿 Mandi",
+        "image": "/assets/games/kelas1/mandi.png"
+      },
+      {
+        "id": "sarapan",
+        "label": "🍳 Sarapan",
+        "image": "/assets/games/kelas1/sarapan.png"
+      },
+      {
+        "id": "sekolah",
+        "label": "🏫 Berangkat sekolah",
+        "image": "/assets/games/kelas1/sekolah.png"
+      },
+      {
+        "id": "auto_konsep_1_bahasa_indonesia",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bangun",
+        "label": "1️⃣ Pertama",
+        "correctItem": "bangun",
+        "image": "/assets/games/kelas1/urut1.png"
+      },
+      {
+        "id": "t_mandi",
+        "label": "2️⃣ Kedua",
+        "correctItem": "mandi",
+        "image": "/assets/games/kelas1/urut2.png"
+      },
+      {
+        "id": "t_sarapan",
+        "label": "3️⃣ Ketiga",
+        "correctItem": "sarapan",
+        "image": "/assets/games/kelas1/urut3.png"
+      },
+      {
+        "id": "t_sekolah",
+        "label": "4️⃣ Keempat",
+        "correctItem": "sekolah",
+        "image": "/assets/games/kelas1/urut4.png"
+      },
+      {
+        "id": "t_auto_konsep_1_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_bahasa_indonesia"
+      }
+    ]
+  }
+]

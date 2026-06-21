@@ -1,0 +1,407 @@
+[
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Mengalami",
+    "cp": "Murid mampu mengidentifikasi unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Warna Primer & Campuran sesuai elemen Mengalami.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Warna Primer & Campuran."
+    ],
+    "game": [
+      "Drag warna"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "1_sen_1",
+    "title": "Warna Primer & Campuran",
+    "grade": 1,
+    "subject": "Seni Budaya",
+    "level": "Mudah",
+    "emoji": "🎨",
+    "instructions": "Seret dua warna primer ke campurannya yang benar!",
+    "draggableItems": [
+      {
+        "id": "merah_s_2",
+        "matchId": "merah_s",
+        "label": "🔴 Merah",
+        "image": "/assets/games/kelas1/merah_s.png"
+      },
+      {
+        "id": "biru_s_2",
+        "matchId": "biru_s",
+        "label": "🔵 Biru",
+        "image": "/assets/games/kelas1/biru_s.png"
+      },
+      {
+        "id": "kuning_s_2",
+        "matchId": "kuning_s",
+        "label": "🟡 Kuning",
+        "image": "/assets/games/kelas1/kuning_s.png"
+      },
+      {
+        "id": "auto_konsep_1_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_1_seni_budaya",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_merah_s_2",
+        "label": "🟣 Merah + Biru = ?: 🔴 Merah",
+        "correctItem": "merah_s",
+        "image": "/assets/games/kelas1/ungu.png"
+      },
+      {
+        "id": "t_biru_s_2",
+        "label": "🟣 Merah + Biru = ?: 🔵 Biru",
+        "correctItem": "biru_s",
+        "image": "/assets/games/kelas1/ungu.png"
+      },
+      {
+        "id": "t_kuning_s_2",
+        "label": "🟢 Biru + Kuning = ?: 🟡 Kuning",
+        "correctItem": "kuning_s",
+        "image": "/assets/games/kelas1/hijau.png"
+      },
+      {
+        "id": "t_auto_konsep_1_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_1_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_1_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Seni Musik",
+    "elemenCP": "Berpikir dan Bekerja Artistik",
+    "cp": "Murid mampu menirukan pola irama dan nada menggunakan alat musik ritmis atau melodis; mengenali ragam alat musik dan bunyi yang dihasilkan; mengenali cara memainkan dan membersihkan instrumen/alat musik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Alat Musik & Cara Memainkan sesuai elemen Berpikir dan Bekerja Artistik.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Alat Musik & Cara Memainkan."
+    ],
+    "game": [
+      "Drag alat musik"
+    ],
+    "vr": [
+      "Studio Musik Virtual"
+    ],
+    "id": "1_sen_2",
+    "title": "Alat Musik & Cara Memainkan",
+    "grade": 1,
+    "subject": "Seni Budaya",
+    "level": "Mudah",
+    "emoji": "🎵",
+    "instructions": "Cocokkan alat musik ke cara memainkannya!",
+    "draggableItems": [
+      {
+        "id": "gendang",
+        "label": "🥁 Gendang",
+        "image": "/assets/games/kelas1/gendang.png"
+      },
+      {
+        "id": "seruling",
+        "label": "🪈 Seruling",
+        "image": "/assets/games/kelas1/seruling.png"
+      },
+      {
+        "id": "gitar",
+        "label": "🎸 Gitar",
+        "image": "/assets/games/kelas1/gitar.png"
+      },
+      {
+        "id": "angklung",
+        "label": "🎋 Angklung",
+        "image": "/assets/games/kelas1/angklung.png"
+      },
+      {
+        "id": "auto_konsep_1_seni_budaya",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_gendang",
+        "label": "👊 Dipukul: 🥁 Gendang",
+        "correctItem": "gendang",
+        "image": "/assets/games/kelas1/dipukul.png"
+      },
+      {
+        "id": "t_seruling",
+        "label": "💨 Ditiup: 🪈 Seruling",
+        "correctItem": "seruling",
+        "image": "/assets/games/kelas1/ditiup.png"
+      },
+      {
+        "id": "t_gitar",
+        "label": "🤌 Dipetik: 🎸 Gitar",
+        "correctItem": "gitar",
+        "image": "/assets/games/kelas1/dipetik.png"
+      },
+      {
+        "id": "t_angklung",
+        "label": "🤝 Digoyang: 🎋 Angklung",
+        "correctItem": "angklung",
+        "image": "/assets/games/kelas1/digoyang.png"
+      },
+      {
+        "id": "t_auto_konsep_1_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Seni Teater",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu menirukan ekspresi wajah, suara, dan tingkah laku tokoh cerita sederhana secara imajinatif melalui permainan peran kreatif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Ekspresi Wajah sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Ekspresi Wajah."
+    ],
+    "game": [
+      "Drag ekspresi"
+    ],
+    "vr": [
+      "Teater Virtual"
+    ],
+    "id": "1_sen_3",
+    "title": "Ekspresi Wajah",
+    "grade": 1,
+    "subject": "Seni Budaya",
+    "level": "Mudah",
+    "emoji": "😊",
+    "instructions": "Cocokkan label ekspresi ke gambar wajah yang tepat!",
+    "draggableItems": [
+      {
+        "id": "senang",
+        "label": "Senang",
+        "image": "/assets/games/kelas1/senang.png"
+      },
+      {
+        "id": "sedih",
+        "label": "Sedih",
+        "image": "/assets/games/kelas1/sedih.png"
+      },
+      {
+        "id": "marah",
+        "label": "Marah",
+        "image": "/assets/games/kelas1/marah.png"
+      },
+      {
+        "id": "kaget",
+        "label": "Kaget",
+        "image": "/assets/games/kelas1/kaget.png"
+      },
+      {
+        "id": "auto_konsep_1_seni_budaya",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_senang",
+        "label": "😄 Tertawa lebar",
+        "correctItem": "senang",
+        "image": "/assets/games/kelas1/t_senang.png"
+      },
+      {
+        "id": "t_sedih",
+        "label": "😢 Menangis",
+        "correctItem": "sedih",
+        "image": "/assets/games/kelas1/t_sedih.png"
+      },
+      {
+        "id": "t_marah",
+        "label": "😠 Alis turun muka merah",
+        "correctItem": "marah",
+        "image": "/assets/games/kelas1/t_marah.png"
+      },
+      {
+        "id": "t_kaget",
+        "label": "😲 Mata & mulut terbuka lebar",
+        "correctItem": "kaget",
+        "image": "/assets/games/kelas1/t_kaget.png"
+      },
+      {
+        "id": "t_auto_konsep_1_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Mengalami",
+    "cp": "Murid mampu mengidentifikasi unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Melengkapi Pola Warna sesuai elemen Mengalami.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Melengkapi Pola Warna."
+    ],
+    "game": [
+      "Drag warna"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "1_sen_4",
+    "title": "Melengkapi Pola Warna",
+    "grade": 1,
+    "subject": "Seni Budaya",
+    "level": "Mudah",
+    "emoji": "🌈",
+    "instructions": "Seret warna yang tepat untuk melengkapi pola!",
+    "draggableItems": [
+      {
+        "id": "p_merah_2",
+        "matchId": "p_merah",
+        "label": "🔴 Merah",
+        "image": "/assets/games/kelas1/p_merah.png"
+      },
+      {
+        "id": "p_kuning",
+        "label": "🟡 Kuning",
+        "image": "/assets/games/kelas1/p_kuning.png"
+      },
+      {
+        "id": "p_biru",
+        "label": "🔵 Biru",
+        "image": "/assets/games/kelas1/p_biru.png"
+      },
+      {
+        "id": "auto_konsep_1_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_1_seni_budaya",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_p_merah_2",
+        "label": "🔴🔵🔴🔵 → ?",
+        "correctItem": "p_merah",
+        "image": "/assets/games/kelas1/pola1.png"
+      },
+      {
+        "id": "t_p_kuning",
+        "label": "🟡🔵🟡🔵 → ?",
+        "correctItem": "p_kuning",
+        "image": "/assets/games/kelas1/pola2.png"
+      },
+      {
+        "id": "t_p_biru",
+        "label": "Pasangkan: 🔵 Biru",
+        "correctItem": "p_biru",
+        "image": "/assets/games/kelas1/p_biru.png"
+      },
+      {
+        "id": "t_auto_konsep_1_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_1_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_1_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu membuat karya seni rupa berdasarkan pengalaman dan hasil pengamatan terhadap lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Alat Seni & Kegunaannya sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Alat Seni & Kegunaannya."
+    ],
+    "game": [
+      "Drag unsur seni"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "1_sen_5",
+    "title": "Alat Seni & Kegunaannya",
+    "grade": 1,
+    "subject": "Seni Budaya",
+    "level": "Mudah",
+    "emoji": "🖼️",
+    "instructions": "Cocokkan alat seni ke kegiatan yang sesuai!",
+    "draggableItems": [
+      {
+        "id": "kuas_s",
+        "label": "🖌️ Kuas",
+        "image": "/assets/games/kelas1/kuas_s.png"
+      },
+      {
+        "id": "krayon",
+        "label": "🖍️ Krayon",
+        "image": "/assets/games/kelas1/krayon.png"
+      },
+      {
+        "id": "pensil_s",
+        "label": "✏️ Pensil",
+        "image": "/assets/games/kelas1/pensil_s.png"
+      },
+      {
+        "id": "cat_air",
+        "label": "🎨 Cat Air",
+        "image": "/assets/games/kelas1/cat_air.png"
+      },
+      {
+        "id": "auto_konsep_1_seni_budaya",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_kuas_s",
+        "label": "🖼️ Melukis di kanvas",
+        "correctItem": "kuas_s",
+        "image": "/assets/games/kelas1/melukis.png"
+      },
+      {
+        "id": "t_krayon",
+        "label": "🌈 Mewarnai gambar",
+        "correctItem": "krayon",
+        "image": "/assets/games/kelas1/mewarnai.png"
+      },
+      {
+        "id": "t_pensil_s",
+        "label": "✏️ Menggambar sketsa",
+        "correctItem": "pensil_s",
+        "image": "/assets/games/kelas1/menggambar.png"
+      },
+      {
+        "id": "t_cat_air",
+        "label": "💧 Melukis dengan cat cair",
+        "correctItem": "cat_air",
+        "image": "/assets/games/kelas1/cat_lukis.png"
+      },
+      {
+        "id": "t_auto_konsep_1_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_seni_budaya"
+      }
+    ]
+  }
+]

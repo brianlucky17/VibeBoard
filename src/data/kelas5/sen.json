@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Seni Musik",
+    "elemenCP": "Mengalami",
+    "cp": "Murid mampu mengenali dan menerapkan unsur-unsur musik (nada, irama dan melodi) menggunakan alat musik ritmis dan melodis serta menunjukkan tingkat kepekaan akan unsur-unsur musik dengan menggunakan alat musik ritmis dan melodis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Tangga Nada sesuai elemen Mengalami.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Tangga Nada."
+    ],
+    "game": [
+      "Drag tinggi rendah nada"
+    ],
+    "vr": [
+      "Studio Musik Virtual"
+    ],
+    "id": "5_sen_1",
+    "title": "Tangga Nada",
+    "grade": 5,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🎼",
+    "instructions": "Mayor vs Minor",
+    "draggableItems": [
+      {
+        "id": "mayor",
+        "label": "Riang gembira",
+        "image": "/assets/games/kelas5/mayor.png"
+      },
+      {
+        "id": "minor",
+        "label": "Sedih",
+        "image": "/assets/games/kelas5/minor.png"
+      },
+      {
+        "id": "auto_konsep_5_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_mayor",
+        "label": "Tangga Nada Mayor",
+        "correctItem": "mayor",
+        "image": "/assets/games/kelas5/ma.png"
+      },
+      {
+        "id": "t_minor",
+        "label": "Tangga Nada Minor",
+        "correctItem": "minor",
+        "image": "/assets/games/kelas5/mi.png"
+      },
+      {
+        "id": "t_auto_konsep_5_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_5_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_5_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Seni Tari",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu mementaskan tari kreasi nusantara dengan iringan pola lantai dan penjiwaan karakter tari daerah secara kreatif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pola Lantai sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pola Lantai."
+    ],
+    "game": [
+      "Drag gerak tari"
+    ],
+    "vr": [
+      "Panggung Tari Nusantara"
+    ],
+    "id": "5_sen_2",
+    "title": "Pola Lantai",
+    "grade": 5,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🕺",
+    "instructions": "Bentuk pola lantai",
+    "draggableItems": [
+      {
+        "id": "lurus",
+        "label": "Horizontal",
+        "image": "/assets/games/kelas5/lurus.png"
+      },
+      {
+        "id": "melengkung",
+        "label": "Lingkaran",
+        "image": "/assets/games/kelas5/melengkung.png"
+      },
+      {
+        "id": "auto_konsep_5_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_lurus",
+        "label": "Garis Lurus",
+        "correctItem": "lurus",
+        "image": "/assets/games/kelas5/lu.png"
+      },
+      {
+        "id": "t_melengkung",
+        "label": "Garis Melengkung",
+        "correctItem": "melengkung",
+        "image": "/assets/games/kelas5/me.png"
+      },
+      {
+        "id": "t_auto_konsep_5_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_5_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_5_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu membuat karya seni rupa dengan mengembangkan gaya pribadi melalui penggunaan teknik/media secara kreatif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Batik sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Batik."
+    ],
+    "game": [
+      "Drag unsur seni"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "5_sen_3",
+    "title": "Batik",
+    "grade": 5,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "👘",
+    "instructions": "Alat membatik",
+    "draggableItems": [
+      {
+        "id": "canting",
+        "label": "Canting",
+        "image": "/assets/games/kelas5/canting.png"
+      },
+      {
+        "id": "kuas",
+        "label": "Kuas",
+        "image": "/assets/games/kelas5/kuas.png"
+      },
+      {
+        "id": "auto_konsep_5_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_canting",
+        "label": "Alat Utama Batik Tulis",
+        "correctItem": "canting",
+        "image": "/assets/games/kelas5/b.png"
+      },
+      {
+        "id": "t_kuas",
+        "label": "Alat Melukis Biasa",
+        "correctItem": "kuas",
+        "image": "/assets/games/kelas5/l.png"
+      },
+      {
+        "id": "t_auto_konsep_5_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_5_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_5_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu membuat karya seni rupa dengan mengembangkan gaya pribadi melalui penggunaan teknik/media secara kreatif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Topeng sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Topeng."
+    ],
+    "game": [
+      "Drag bentuk"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "5_sen_4",
+    "title": "Topeng",
+    "grade": 5,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "👺",
+    "instructions": "Karakter topeng",
+    "draggableItems": [
+      {
+        "id": "merah",
+        "label": "Pemarah / Jahat",
+        "image": "/assets/games/kelas5/merah.png"
+      },
+      {
+        "id": "putih",
+        "label": "Suci / Baik",
+        "image": "/assets/games/kelas5/putih.png"
+      },
+      {
+        "id": "auto_konsep_5_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_merah",
+        "label": "Topeng Merah",
+        "correctItem": "merah",
+        "image": "/assets/games/kelas5/m.png"
+      },
+      {
+        "id": "t_putih",
+        "label": "Topeng Putih",
+        "correctItem": "putih",
+        "image": "/assets/games/kelas5/p.png"
+      },
+      {
+        "id": "t_auto_konsep_5_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_5_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_5_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu membuat karya seni rupa dengan mengembangkan gaya pribadi melalui penggunaan teknik/media secara kreatif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Gambar Cerita sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Gambar Cerita."
+    ],
+    "game": [
+      "Drag warna"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "5_sen_5",
+    "title": "Gambar Cerita",
+    "grade": 5,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🖼️",
+    "instructions": "Contoh gambar cerita",
+    "draggableItems": [
+      {
+        "id": "komik",
+        "label": "Komik",
+        "image": "/assets/games/kelas5/komik.png"
+      },
+      {
+        "id": "abstrak",
+        "label": "Lukisan Abstrak",
+        "image": "/assets/games/kelas5/abstrak.png"
+      },
+      {
+        "id": "auto_konsep_5_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_komik",
+        "label": "Ada alur cerita",
+        "correctItem": "komik",
+        "image": "/assets/games/kelas5/k.png"
+      },
+      {
+        "id": "t_abstrak",
+        "label": "Tidak bercerita jelas",
+        "correctItem": "abstrak",
+        "image": "/assets/games/kelas5/a.png"
+      },
+      {
+        "id": "t_auto_konsep_5_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_5_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_5_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_seni_budaya"
+      }
+    ]
+  }
+]

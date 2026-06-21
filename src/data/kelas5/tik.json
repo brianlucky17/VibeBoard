@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "elemenCP": "Algoritma dan Pemrograman",
+    "cp": "Murid mampu menerapkan berpikir komputasional dalam menyelesaikan persoalan sehari-hari secara sistematis, membuat program visual sederhana (koding), dan mengenali pola kecerdasan artifisial dasar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Microsoft Excel sesuai elemen Algoritma dan Pemrograman.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Microsoft Excel."
+    ],
+    "game": [
+      "Drag blok coding"
+    ],
+    "vr": [
+      "Coding Lab"
+    ],
+    "id": "5_tik_1",
+    "title": "Microsoft Excel",
+    "grade": 5,
+    "subject": "TIK",
+    "level": "Sedang",
+    "emoji": "📊",
+    "instructions": "Fungsi Excel",
+    "draggableItems": [
+      {
+        "id": "angka",
+        "label": "Mengolah Angka",
+        "image": "/assets/games/kelas5/angka.png"
+      },
+      {
+        "id": "kata",
+        "label": "Mengolah Kata",
+        "image": "/assets/games/kelas5/kata.png"
+      },
+      {
+        "id": "auto_konsep_5_tik",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_tik",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_tik",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_angka",
+        "label": "MS Excel",
+        "correctItem": "angka",
+        "image": "/assets/games/kelas5/e.png"
+      },
+      {
+        "id": "t_kata",
+        "label": "MS Word",
+        "correctItem": "kata",
+        "image": "/assets/games/kelas5/w.png"
+      },
+      {
+        "id": "t_auto_konsep_5_tik",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_tik"
+      },
+      {
+        "id": "t_auto_contoh_5_tik",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_tik"
+      },
+      {
+        "id": "t_auto_manfaat_5_tik",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_tik"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "elemenCP": "Algoritma dan Pemrograman",
+    "cp": "Murid mampu menerapkan berpikir komputasional dalam menyelesaikan persoalan sehari-hari secara sistematis, membuat program visual sederhana (koding), dan mengenali pola kecerdasan artifisial dasar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Rumus Excel sesuai elemen Algoritma dan Pemrograman.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Rumus Excel."
+    ],
+    "game": [
+      "Drag blok coding"
+    ],
+    "vr": [
+      "Coding Lab"
+    ],
+    "id": "5_tik_2",
+    "title": "Rumus Excel",
+    "grade": 5,
+    "subject": "TIK",
+    "level": "Sedang",
+    "emoji": "🧮",
+    "instructions": "Rumus dasar",
+    "draggableItems": [
+      {
+        "id": "sum",
+        "label": "=SUM()",
+        "image": "/assets/games/kelas5/sum.png"
+      },
+      {
+        "id": "average",
+        "label": "=AVERAGE()",
+        "image": "/assets/games/kelas5/average.png"
+      },
+      {
+        "id": "auto_konsep_5_tik",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_tik",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_tik",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_sum",
+        "label": "Menjumlahkan",
+        "correctItem": "sum",
+        "image": "/assets/games/kelas5/s.png"
+      },
+      {
+        "id": "t_average",
+        "label": "Mencari Rata-rata",
+        "correctItem": "average",
+        "image": "/assets/games/kelas5/a.png"
+      },
+      {
+        "id": "t_auto_konsep_5_tik",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_tik"
+      },
+      {
+        "id": "t_auto_contoh_5_tik",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_tik"
+      },
+      {
+        "id": "t_auto_manfaat_5_tik",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_tik"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "elemenCP": "Algoritma dan Pemrograman",
+    "cp": "Murid mampu menerapkan berpikir komputasional dalam menyelesaikan persoalan sehari-hari secara sistematis, membuat program visual sederhana (koding), dan mengenali pola kecerdasan artifisial dasar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Internet sesuai elemen Algoritma dan Pemrograman.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Internet."
+    ],
+    "game": [
+      "Drag pola AI sederhana"
+    ],
+    "vr": [
+      "Coding Lab"
+    ],
+    "id": "5_tik_3",
+    "title": "Internet",
+    "grade": 5,
+    "subject": "TIK",
+    "level": "Sedang",
+    "emoji": "🌐",
+    "instructions": "Mesin Pencari",
+    "draggableItems": [
+      {
+        "id": "google",
+        "label": "Google",
+        "image": "/assets/games/kelas5/google.png"
+      },
+      {
+        "id": "wa",
+        "label": "WhatsApp",
+        "image": "/assets/games/kelas5/wa.png"
+      },
+      {
+        "id": "auto_konsep_5_tik",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_tik",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_tik",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_google",
+        "label": "Search Engine",
+        "correctItem": "google",
+        "image": "/assets/games/kelas5/g.png"
+      },
+      {
+        "id": "t_wa",
+        "label": "Aplikasi Chat",
+        "correctItem": "wa",
+        "image": "/assets/games/kelas5/w.png"
+      },
+      {
+        "id": "t_auto_konsep_5_tik",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_tik"
+      },
+      {
+        "id": "t_auto_contoh_5_tik",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_tik"
+      },
+      {
+        "id": "t_auto_manfaat_5_tik",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_tik"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "elemenCP": "Algoritma dan Pemrograman",
+    "cp": "Murid mampu menerapkan berpikir komputasional dalam menyelesaikan persoalan sehari-hari secara sistematis, membuat program visual sederhana (koding), dan mengenali pola kecerdasan artifisial dasar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Email sesuai elemen Algoritma dan Pemrograman.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Email."
+    ],
+    "game": [
+      "Drag pola AI sederhana"
+    ],
+    "vr": [
+      "AI Learning Center"
+    ],
+    "id": "5_tik_4",
+    "title": "Email",
+    "grade": 5,
+    "subject": "TIK",
+    "level": "Sedang",
+    "emoji": "📧",
+    "instructions": "Istilah Email",
+    "draggableItems": [
+      {
+        "id": "inbox",
+        "label": "Kotak Masuk",
+        "image": "/assets/games/kelas5/inbox.png"
+      },
+      {
+        "id": "sent",
+        "label": "Pesan Terkirim",
+        "image": "/assets/games/kelas5/sent.png"
+      },
+      {
+        "id": "auto_konsep_5_tik",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_tik",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_tik",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_inbox",
+        "label": "Inbox",
+        "correctItem": "inbox",
+        "image": "/assets/games/kelas5/i.png"
+      },
+      {
+        "id": "t_sent",
+        "label": "Sent Items",
+        "correctItem": "sent",
+        "image": "/assets/games/kelas5/s.png"
+      },
+      {
+        "id": "t_auto_konsep_5_tik",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_tik"
+      },
+      {
+        "id": "t_auto_contoh_5_tik",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_tik"
+      },
+      {
+        "id": "t_auto_manfaat_5_tik",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_tik"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "elemenCP": "Algoritma dan Pemrograman",
+    "cp": "Murid mampu menerapkan berpikir komputasional dalam menyelesaikan persoalan sehari-hari secara sistematis, membuat program visual sederhana (koding), dan mengenali pola kecerdasan artifisial dasar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Keamanan Digital sesuai elemen Algoritma dan Pemrograman.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Keamanan Digital."
+    ],
+    "game": [
+      "Drag pola AI sederhana"
+    ],
+    "vr": [
+      "AI Learning Center"
+    ],
+    "id": "5_tik_5",
+    "title": "Keamanan Digital",
+    "grade": 5,
+    "subject": "TIK",
+    "level": "Sedang",
+    "emoji": "🔒",
+    "instructions": "Kata Sandi",
+    "draggableItems": [
+      {
+        "id": "kuat",
+        "label": "Campuran huruf & angka",
+        "image": "/assets/games/kelas5/kuat.png"
+      },
+      {
+        "id": "lemah",
+        "label": "Tanggal lahir",
+        "image": "/assets/games/kelas5/lemah.png"
+      },
+      {
+        "id": "auto_konsep_5_tik",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_tik",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_tik",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_kuat",
+        "label": "Password Kuat",
+        "correctItem": "kuat",
+        "image": "/assets/games/kelas5/k.png"
+      },
+      {
+        "id": "t_lemah",
+        "label": "Password Lemah",
+        "correctItem": "lemah",
+        "image": "/assets/games/kelas5/l.png"
+      },
+      {
+        "id": "t_auto_konsep_5_tik",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_tik"
+      },
+      {
+        "id": "t_auto_contoh_5_tik",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_tik"
+      },
+      {
+        "id": "t_auto_manfaat_5_tik",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_tik"
+      }
+    ]
+  }
+]

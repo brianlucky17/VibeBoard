@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu menganalisis informasi penting, gagasan utama, dan detail dari teks tulis pendek atau teks multimodal secara kritis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Directions sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Directions."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "6_eng_1",
+    "title": "Directions",
+    "grade": 6,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🗺️",
+    "instructions": "Giving directions",
+    "draggableItems": [
+      {
+        "id": "left",
+        "label": "Turn Left",
+        "image": "/assets/games/kelas6/left.png"
+      },
+      {
+        "id": "right",
+        "label": "Turn Right",
+        "image": "/assets/games/kelas6/right.png"
+      },
+      {
+        "id": "auto_konsep_6_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_left",
+        "label": "Belok Kiri",
+        "correctItem": "left",
+        "image": "/assets/games/kelas6/kiri.png"
+      },
+      {
+        "id": "t_right",
+        "label": "Belok Kanan",
+        "correctItem": "right",
+        "image": "/assets/games/kelas6/kanan.png"
+      },
+      {
+        "id": "t_auto_konsep_6_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_6_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_6_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu menganalisis informasi penting, gagasan utama, dan detail dari teks tulis pendek atau teks multimodal secara kritis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Past Tense sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Past Tense."
+    ],
+    "game": [
+      "Drag sentence arrangement"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "6_eng_2",
+    "title": "Past Tense",
+    "grade": 6,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🕰️",
+    "instructions": "Verb 2",
+    "draggableItems": [
+      {
+        "id": "went",
+        "label": "Went",
+        "image": "/assets/games/kelas6/went.png"
+      },
+      {
+        "id": "ate",
+        "label": "Ate",
+        "image": "/assets/games/kelas6/ate.png"
+      },
+      {
+        "id": "auto_konsep_6_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_went",
+        "label": "Go -> ...",
+        "correctItem": "went",
+        "image": "/assets/games/kelas6/g.png"
+      },
+      {
+        "id": "t_ate",
+        "label": "Eat -> ...",
+        "correctItem": "ate",
+        "image": "/assets/games/kelas6/e.png"
+      },
+      {
+        "id": "t_auto_konsep_6_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_6_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_6_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu menganalisis informasi penting, gagasan utama, dan detail dari teks tulis pendek atau teks multimodal secara kritis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Degrees of Comparison sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Degrees of Comparison."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "6_eng_3",
+    "title": "Degrees of Comparison",
+    "grade": 6,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "📏",
+    "instructions": "Compare!",
+    "draggableItems": [
+      {
+        "id": "taller",
+        "label": "Taller",
+        "image": "/assets/games/kelas6/taller.png"
+      },
+      {
+        "id": "tallest",
+        "label": "Tallest",
+        "image": "/assets/games/kelas6/tallest.png"
+      },
+      {
+        "id": "auto_konsep_6_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_taller",
+        "label": "Lebih tinggi",
+        "correctItem": "taller",
+        "image": "/assets/games/kelas6/er.png"
+      },
+      {
+        "id": "t_tallest",
+        "label": "Paling tinggi",
+        "correctItem": "tallest",
+        "image": "/assets/games/kelas6/est.png"
+      },
+      {
+        "id": "t_auto_konsep_6_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_6_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_6_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu menganalisis informasi penting, gagasan utama, dan detail dari teks tulis pendek atau teks multimodal secara kritis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Seasons sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Seasons."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "6_eng_4",
+    "title": "Seasons",
+    "grade": 6,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🍂",
+    "instructions": "Match seasons",
+    "draggableItems": [
+      {
+        "id": "summer",
+        "label": "Summer",
+        "image": "/assets/games/kelas6/summer.png"
+      },
+      {
+        "id": "winter",
+        "label": "Winter",
+        "image": "/assets/games/kelas6/winter.png"
+      },
+      {
+        "id": "auto_konsep_6_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_summer",
+        "label": "Musim Panas",
+        "correctItem": "summer",
+        "image": "/assets/games/kelas6/panas.png"
+      },
+      {
+        "id": "t_winter",
+        "label": "Musim Dingin",
+        "correctItem": "winter",
+        "image": "/assets/games/kelas6/dingin.png"
+      },
+      {
+        "id": "t_auto_konsep_6_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_6_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_6_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu menganalisis informasi penting, gagasan utama, dan detail dari teks tulis pendek atau teks multimodal secara kritis.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Public Places sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Public Places."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "6_eng_5",
+    "title": "Public Places",
+    "grade": 6,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🏥",
+    "instructions": "Where do you go?",
+    "draggableItems": [
+      {
+        "id": "bank",
+        "label": "Save money",
+        "image": "/assets/games/kelas6/bank.png"
+      },
+      {
+        "id": "library",
+        "label": "Borrow books",
+        "image": "/assets/games/kelas6/library.png"
+      },
+      {
+        "id": "auto_konsep_6_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bank",
+        "label": "Bank",
+        "correctItem": "bank",
+        "image": "/assets/games/kelas6/b.png"
+      },
+      {
+        "id": "t_library",
+        "label": "Library",
+        "correctItem": "library",
+        "image": "/assets/games/kelas6/l.png"
+      },
+      {
+        "id": "t_auto_konsep_6_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_6_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_6_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_bahasa_inggris"
+      }
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu membuat karya seni rupa berdasarkan pengalaman dan/atau hasil pengamatan terhadap lingkungan sekitar melalui pengembangan imajinasi.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Seni Rupa 3D sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Seni Rupa 3D."
+    ],
+    "game": [
+      "Drag bentuk"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "4_sen_1",
+    "title": "Seni Rupa 3D",
+    "grade": 4,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🏺",
+    "instructions": "Mana karya 3 dimensi?",
+    "draggableItems": [
+      {
+        "id": "patung",
+        "label": "Patung",
+        "image": "/assets/games/kelas4/patung.png"
+      },
+      {
+        "id": "lukisan",
+        "label": "Lukisan",
+        "image": "/assets/games/kelas4/lukisan.png"
+      },
+      {
+        "id": "auto_konsep_4_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_patung",
+        "label": "3 Dimensi",
+        "correctItem": "patung",
+        "image": "/assets/games/kelas4/t_3d.png"
+      },
+      {
+        "id": "t_lukisan",
+        "label": "2 Dimensi",
+        "correctItem": "lukisan",
+        "image": "/assets/games/kelas4/t_2d.png"
+      },
+      {
+        "id": "t_auto_konsep_4_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_4_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_4_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Seni Musik",
+    "elemenCP": "Mengalami",
+    "cp": "Murid mampu mengenali nada dan pola irama menggunakan anggota tubuh maupun alat musik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Tempo Lagu sesuai elemen Mengalami.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Tempo Lagu."
+    ],
+    "game": [
+      "Drag tinggi rendah nada"
+    ],
+    "vr": [
+      "Studio Musik Virtual"
+    ],
+    "id": "4_sen_2",
+    "title": "Tempo Lagu",
+    "grade": 4,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🎵",
+    "instructions": "Pasangkan tempo!",
+    "draggableItems": [
+      {
+        "id": "cepat",
+        "label": "Allegro",
+        "image": "/assets/games/kelas4/cepat.png"
+      },
+      {
+        "id": "lambat",
+        "label": "Largo",
+        "image": "/assets/games/kelas4/lambat.png"
+      },
+      {
+        "id": "auto_konsep_4_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_cepat",
+        "label": "Cepat",
+        "correctItem": "cepat",
+        "image": "/assets/games/kelas4/t_c.png"
+      },
+      {
+        "id": "t_lambat",
+        "label": "Lambat",
+        "correctItem": "lambat",
+        "image": "/assets/games/kelas4/t_l.png"
+      },
+      {
+        "id": "t_auto_konsep_4_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_4_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_4_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Seni Tari",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu mempraktikkan gerak tari dengan menggunakan properti tari daerah dan pola lantai sederhana secara ekspresif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Properti Tari sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Properti Tari."
+    ],
+    "game": [
+      "Drag properti tari"
+    ],
+    "vr": [
+      "Panggung Tari Nusantara"
+    ],
+    "id": "4_sen_3",
+    "title": "Properti Tari",
+    "grade": 4,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🎭",
+    "instructions": "Properti tari?",
+    "draggableItems": [
+      {
+        "id": "piring",
+        "label": "Piring",
+        "image": "/assets/games/kelas4/piring.png"
+      },
+      {
+        "id": "payung",
+        "label": "Payung",
+        "image": "/assets/games/kelas4/payung.png"
+      },
+      {
+        "id": "auto_konsep_4_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_piring",
+        "label": "Tari Piring",
+        "correctItem": "piring",
+        "image": "/assets/games/kelas4/t_piring.png"
+      },
+      {
+        "id": "t_payung",
+        "label": "Tari Payung",
+        "correctItem": "payung",
+        "image": "/assets/games/kelas4/t_payung.png"
+      },
+      {
+        "id": "t_auto_konsep_4_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_4_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_4_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu membuat karya seni rupa berdasarkan pengalaman dan/atau hasil pengamatan terhadap lingkungan sekitar melalui pengembangan imajinasi.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Bahan Kolase sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Bahan Kolase."
+    ],
+    "game": [
+      "Drag unsur seni"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "4_sen_4",
+    "title": "Bahan Kolase",
+    "grade": 4,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "✂️",
+    "instructions": "Bahan membuat kolase?",
+    "draggableItems": [
+      {
+        "id": "biji",
+        "label": "Biji-bijian",
+        "image": "/assets/games/kelas4/biji.png"
+      },
+      {
+        "id": "cat",
+        "label": "Cat Air",
+        "image": "/assets/games/kelas4/cat.png"
+      },
+      {
+        "id": "auto_konsep_4_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_biji",
+        "label": "Bahan Kolase",
+        "correctItem": "biji",
+        "image": "/assets/games/kelas4/kolase.png"
+      },
+      {
+        "id": "t_cat",
+        "label": "Bahan Melukis",
+        "correctItem": "cat",
+        "image": "/assets/games/kelas4/lukis.png"
+      },
+      {
+        "id": "t_auto_konsep_4_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_4_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_4_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Seni Musik",
+    "elemenCP": "Berpikir dan Bekerja Artistik",
+    "cp": "Murid mampu menirukan pola irama dan melodi menggunakan alat musik ritmis atau melodis; menyebutkan karakteristik ragam alat musik dan bunyi yang dihasilkan; mengetahui cara memainkan dan merawat alat musik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Alat Musik Daerah sesuai elemen Berpikir dan Bekerja Artistik.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Alat Musik Daerah."
+    ],
+    "game": [
+      "Drag alat musik"
+    ],
+    "vr": [
+      "Studio Musik Virtual"
+    ],
+    "id": "4_sen_5",
+    "title": "Alat Musik Daerah",
+    "grade": 4,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🎶",
+    "instructions": "Dari mana asalnya?",
+    "draggableItems": [
+      {
+        "id": "angklung",
+        "label": "Angklung",
+        "image": "/assets/games/kelas4/angklung.png"
+      },
+      {
+        "id": "sasando",
+        "label": "Sasando",
+        "image": "/assets/games/kelas4/sasando.png"
+      },
+      {
+        "id": "auto_konsep_4_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_seni_budaya",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_seni_budaya",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_angklung",
+        "label": "Jabar",
+        "correctItem": "angklung",
+        "image": "/assets/games/kelas4/jabar.png"
+      },
+      {
+        "id": "t_sasando",
+        "label": "NTT",
+        "correctItem": "sasando",
+        "image": "/assets/games/kelas4/ntt.png"
+      },
+      {
+        "id": "t_auto_konsep_4_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_4_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_seni_budaya"
+      },
+      {
+        "id": "t_auto_manfaat_4_seni_budaya",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_seni_budaya"
+      }
+    ]
+  }
+]

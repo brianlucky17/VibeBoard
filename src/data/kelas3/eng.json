@@ -1,0 +1,403 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponsnnya sesuai konteks.\n(Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal text about everyday topics and respond in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Days of the Week sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Days of the Week."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "3_eng_1",
+    "title": "Days of the Week",
+    "grade": 3,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "📅",
+    "instructions": "Urutkan hari dalam seminggu!",
+    "draggableItems": [
+      {
+        "id": "mon",
+        "label": "Monday",
+        "image": "/assets/games/kelas3/mon.png"
+      },
+      {
+        "id": "tue",
+        "label": "Tuesday",
+        "image": "/assets/games/kelas3/tue.png"
+      },
+      {
+        "id": "wed",
+        "label": "Wednesday",
+        "image": "/assets/games/kelas3/wed.png"
+      },
+      {
+        "id": "thu",
+        "label": "Thursday",
+        "image": "/assets/games/kelas3/thu.png"
+      },
+      {
+        "id": "auto_konsep_3_bahasa_inggris",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_mon",
+        "label": "1st",
+        "correctItem": "mon",
+        "image": "/assets/games/kelas3/d1.png"
+      },
+      {
+        "id": "t_tue",
+        "label": "2nd",
+        "correctItem": "tue",
+        "image": "/assets/games/kelas3/d2.png"
+      },
+      {
+        "id": "t_wed",
+        "label": "3rd",
+        "correctItem": "wed",
+        "image": "/assets/games/kelas3/d3.png"
+      },
+      {
+        "id": "t_thu",
+        "label": "4th",
+        "correctItem": "thu",
+        "image": "/assets/games/kelas3/d4.png"
+      },
+      {
+        "id": "t_auto_konsep_3_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponsnnya sesuai konteks.\n(Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal text about everyday topics and respond in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Months of the Year sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Months of the Year."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "3_eng_2",
+    "title": "Months of the Year",
+    "grade": 3,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🗓️",
+    "instructions": "Pasangkan bulan dengan urutannya!",
+    "draggableItems": [
+      {
+        "id": "jan",
+        "label": "January",
+        "image": "/assets/games/kelas3/jan.png"
+      },
+      {
+        "id": "mar",
+        "label": "March",
+        "image": "/assets/games/kelas3/mar.png"
+      },
+      {
+        "id": "jun",
+        "label": "June",
+        "image": "/assets/games/kelas3/jun.png"
+      },
+      {
+        "id": "auto_konsep_3_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_bahasa_inggris",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_jan",
+        "label": "Bulan ke-1",
+        "correctItem": "jan",
+        "image": "/assets/games/kelas3/m1.png"
+      },
+      {
+        "id": "t_mar",
+        "label": "Bulan ke-3",
+        "correctItem": "mar",
+        "image": "/assets/games/kelas3/m3.png"
+      },
+      {
+        "id": "t_jun",
+        "label": "Bulan ke-6",
+        "correctItem": "jun",
+        "image": "/assets/games/kelas3/m6.png"
+      },
+      {
+        "id": "t_auto_konsep_3_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_3_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponsnnya sesuai konteks.\n(Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal text about everyday topics and respond in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Parts of the Body sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Parts of the Body."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "3_eng_3",
+    "title": "Parts of the Body",
+    "grade": 3,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "👁️",
+    "instructions": "Translate the body parts!",
+    "draggableItems": [
+      {
+        "id": "mata",
+        "label": "Eye",
+        "image": "/assets/games/kelas3/mata.png"
+      },
+      {
+        "id": "hidung",
+        "label": "Nose",
+        "image": "/assets/games/kelas3/hidung.png"
+      },
+      {
+        "id": "mulut",
+        "label": "Mouth",
+        "image": "/assets/games/kelas3/mulut.png"
+      },
+      {
+        "id": "telinga",
+        "label": "Ear",
+        "image": "/assets/games/kelas3/telinga.png"
+      },
+      {
+        "id": "auto_konsep_3_bahasa_inggris",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_mata",
+        "label": "Mata",
+        "correctItem": "mata",
+        "image": "/assets/games/kelas3/t_mata.png"
+      },
+      {
+        "id": "t_hidung",
+        "label": "Hidung",
+        "correctItem": "hidung",
+        "image": "/assets/games/kelas3/t_hidung.png"
+      },
+      {
+        "id": "t_mulut",
+        "label": "Mulut",
+        "correctItem": "mulut",
+        "image": "/assets/games/kelas3/t_mulut.png"
+      },
+      {
+        "id": "t_telinga",
+        "label": "Telinga",
+        "correctItem": "telinga",
+        "image": "/assets/games/kelas3/t_telinga.png"
+      },
+      {
+        "id": "t_auto_konsep_3_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponsnnya sesuai konteks.\n(Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal text about everyday topics and respond in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Family Members sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Family Members."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "3_eng_4",
+    "title": "Family Members",
+    "grade": 3,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "👨‍👩‍👧",
+    "instructions": "Pasangkan anggota keluarga dalam Bahasa Inggris!",
+    "draggableItems": [
+      {
+        "id": "ayah",
+        "label": "Father",
+        "image": "/assets/games/kelas3/ayah.png"
+      },
+      {
+        "id": "ibu",
+        "label": "Mother",
+        "image": "/assets/games/kelas3/ibu.png"
+      },
+      {
+        "id": "kakak_lk",
+        "label": "Brother",
+        "image": "/assets/games/kelas3/kakak_lk.png"
+      },
+      {
+        "id": "kakak_pr",
+        "label": "Sister",
+        "image": "/assets/games/kelas3/kakak_pr.png"
+      },
+      {
+        "id": "auto_konsep_3_bahasa_inggris",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_ayah",
+        "label": "Ayah",
+        "correctItem": "ayah",
+        "image": "/assets/games/kelas3/t_ayah.png"
+      },
+      {
+        "id": "t_ibu",
+        "label": "Ibu",
+        "correctItem": "ibu",
+        "image": "/assets/games/kelas3/t_ibu.png"
+      },
+      {
+        "id": "t_kakak_lk",
+        "label": "Saudara Laki-laki",
+        "correctItem": "kakak_lk",
+        "image": "/assets/games/kelas3/t_kl.png"
+      },
+      {
+        "id": "t_kakak_pr",
+        "label": "Saudara Perempuan",
+        "correctItem": "kakak_pr",
+        "image": "/assets/games/kelas3/t_kp.png"
+      },
+      {
+        "id": "t_auto_konsep_3_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponsnnya sesuai konteks.\n(Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal text about everyday topics and respond in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Adjectives (Opposites) sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Adjectives (Opposites)."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "3_eng_5",
+    "title": "Adjectives (Opposites)",
+    "grade": 3,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "⚖️",
+    "instructions": "Match the opposites!",
+    "draggableItems": [
+      {
+        "id": "small",
+        "label": "Small",
+        "image": "/assets/games/kelas3/small.png"
+      },
+      {
+        "id": "cold",
+        "label": "Cold",
+        "image": "/assets/games/kelas3/cold.png"
+      },
+      {
+        "id": "slow",
+        "label": "Slow",
+        "image": "/assets/games/kelas3/slow.png"
+      },
+      {
+        "id": "auto_konsep_3_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_bahasa_inggris",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_small",
+        "label": "Big vs ...",
+        "correctItem": "small",
+        "image": "/assets/games/kelas3/big.png"
+      },
+      {
+        "id": "t_cold",
+        "label": "Hot vs ...",
+        "correctItem": "cold",
+        "image": "/assets/games/kelas3/hot.png"
+      },
+      {
+        "id": "t_slow",
+        "label": "Fast vs ...",
+        "correctItem": "slow",
+        "image": "/assets/games/kelas3/fast.png"
+      },
+      {
+        "id": "t_auto_konsep_3_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_3_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_bahasa_inggris"
+      }
+    ]
+  }
+]

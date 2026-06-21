@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "elemenCP": "Algoritma dan Pemrograman",
+    "cp": "Murid mampu menerapkan berpikir komputasional dalam menyelesaikan persoalan sehari-hari secara sistematis, membuat program visual sederhana (koding), dan mengenali pola kecerdasan artifisial dasar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Presentasi (PowerPoint) sesuai elemen Algoritma dan Pemrograman.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Presentasi (PowerPoint)."
+    ],
+    "game": [
+      "Drag pola AI sederhana"
+    ],
+    "vr": [
+      "Coding Lab"
+    ],
+    "id": "6_tik_1",
+    "title": "Presentasi (PowerPoint)",
+    "grade": 6,
+    "subject": "TIK",
+    "level": "Sedang",
+    "emoji": "📽️",
+    "instructions": "Fungsi PPT",
+    "draggableItems": [
+      {
+        "id": "slide",
+        "label": "Membuat Slide",
+        "image": "/assets/games/kelas6/slide.png"
+      },
+      {
+        "id": "hitung",
+        "label": "Menghitung",
+        "image": "/assets/games/kelas6/hitung.png"
+      },
+      {
+        "id": "auto_konsep_6_tik",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_tik",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_tik",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_slide",
+        "label": "PowerPoint",
+        "correctItem": "slide",
+        "image": "/assets/games/kelas6/p.png"
+      },
+      {
+        "id": "t_hitung",
+        "label": "Excel",
+        "correctItem": "hitung",
+        "image": "/assets/games/kelas6/e.png"
+      },
+      {
+        "id": "t_auto_konsep_6_tik",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_tik"
+      },
+      {
+        "id": "t_auto_contoh_6_tik",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_tik"
+      },
+      {
+        "id": "t_auto_manfaat_6_tik",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_tik"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "elemenCP": "Algoritma dan Pemrograman",
+    "cp": "Murid mampu menerapkan berpikir komputasional dalam menyelesaikan persoalan sehari-hari secara sistematis, membuat program visual sederhana (koding), dan mengenali pola kecerdasan artifisial dasar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Animasi PPT sesuai elemen Algoritma dan Pemrograman.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Animasi PPT."
+    ],
+    "game": [
+      "Drag blok coding"
+    ],
+    "vr": [
+      "Coding Lab"
+    ],
+    "id": "6_tik_2",
+    "title": "Animasi PPT",
+    "grade": 6,
+    "subject": "TIK",
+    "level": "Sedang",
+    "emoji": "✨",
+    "instructions": "Efek animasi",
+    "draggableItems": [
+      {
+        "id": "anim",
+        "label": "Animations",
+        "image": "/assets/games/kelas6/anim.png"
+      },
+      {
+        "id": "trans",
+        "label": "Transitions",
+        "image": "/assets/games/kelas6/trans.png"
+      },
+      {
+        "id": "auto_konsep_6_tik",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_tik",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_tik",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_anim",
+        "label": "Gerakan Objek",
+        "correctItem": "anim",
+        "image": "/assets/games/kelas6/a.png"
+      },
+      {
+        "id": "t_trans",
+        "label": "Pindah Slide",
+        "correctItem": "trans",
+        "image": "/assets/games/kelas6/t.png"
+      },
+      {
+        "id": "t_auto_konsep_6_tik",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_tik"
+      },
+      {
+        "id": "t_auto_contoh_6_tik",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_tik"
+      },
+      {
+        "id": "t_auto_manfaat_6_tik",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_tik"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "elemenCP": "Algoritma dan Pemrograman",
+    "cp": "Murid mampu menerapkan berpikir komputasional dalam menyelesaikan persoalan sehari-hari secara sistematis, membuat program visual sederhana (koding), dan mengenali pola kecerdasan artifisial dasar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Jaringan Internet sesuai elemen Algoritma dan Pemrograman.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Jaringan Internet."
+    ],
+    "game": [
+      "Drag algoritma"
+    ],
+    "vr": [
+      "Coding Lab"
+    ],
+    "id": "6_tik_3",
+    "title": "Jaringan Internet",
+    "grade": 6,
+    "subject": "TIK",
+    "level": "Sedang",
+    "emoji": "📶",
+    "instructions": "Koneksi",
+    "draggableItems": [
+      {
+        "id": "wifi",
+        "label": "Wi-Fi (Nirkabel)",
+        "image": "/assets/games/kelas6/wifi.png"
+      },
+      {
+        "id": "kabel",
+        "label": "Kabel LAN",
+        "image": "/assets/games/kelas6/kabel.png"
+      },
+      {
+        "id": "auto_konsep_6_tik",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_tik",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_tik",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_wifi",
+        "label": "Tanpa Kabel",
+        "correctItem": "wifi",
+        "image": "/assets/games/kelas6/w.png"
+      },
+      {
+        "id": "t_kabel",
+        "label": "Pakai Kabel",
+        "correctItem": "kabel",
+        "image": "/assets/games/kelas6/k.png"
+      },
+      {
+        "id": "t_auto_konsep_6_tik",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_tik"
+      },
+      {
+        "id": "t_auto_contoh_6_tik",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_tik"
+      },
+      {
+        "id": "t_auto_manfaat_6_tik",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_tik"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "elemenCP": "Algoritma dan Pemrograman",
+    "cp": "Murid mampu menerapkan berpikir komputasional dalam menyelesaikan persoalan sehari-hari secara sistematis, membuat program visual sederhana (koding), dan mengenali pola kecerdasan artifisial dasar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Etika Digital (Netiket) sesuai elemen Algoritma dan Pemrograman.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Etika Digital (Netiket)."
+    ],
+    "game": [
+      "Drag pola AI sederhana"
+    ],
+    "vr": [
+      "Coding Lab"
+    ],
+    "id": "6_tik_4",
+    "title": "Etika Digital (Netiket)",
+    "grade": 6,
+    "subject": "TIK",
+    "level": "Sedang",
+    "emoji": "💬",
+    "instructions": "Komentar di internet",
+    "draggableItems": [
+      {
+        "id": "sopan",
+        "label": "Bahasa Sopan",
+        "image": "/assets/games/kelas6/sopan.png"
+      },
+      {
+        "id": "kasar",
+        "label": "Kata Kasar/Bullying",
+        "image": "/assets/games/kelas6/kasar.png"
+      },
+      {
+        "id": "auto_konsep_6_tik",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_tik",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_tik",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_sopan",
+        "label": "Sikap Terpuji",
+        "correctItem": "sopan",
+        "image": "/assets/games/kelas6/b.png"
+      },
+      {
+        "id": "t_kasar",
+        "label": "Cyberbullying",
+        "correctItem": "kasar",
+        "image": "/assets/games/kelas6/s.png"
+      },
+      {
+        "id": "t_auto_konsep_6_tik",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_tik"
+      },
+      {
+        "id": "t_auto_contoh_6_tik",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_tik"
+      },
+      {
+        "id": "t_auto_manfaat_6_tik",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_tik"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Koding dan Kecerdasan Artifisial",
+    "elemenCP": "Algoritma dan Pemrograman",
+    "cp": "Murid mampu menerapkan berpikir komputasional dalam menyelesaikan persoalan sehari-hari secara sistematis, membuat program visual sederhana (koding), dan mengenali pola kecerdasan artifisial dasar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Blog & Website sesuai elemen Algoritma dan Pemrograman.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Blog & Website."
+    ],
+    "game": [
+      "Drag pola AI sederhana"
+    ],
+    "vr": [
+      "Coding Lab"
+    ],
+    "id": "6_tik_5",
+    "title": "Blog & Website",
+    "grade": 6,
+    "subject": "TIK",
+    "level": "Sedang",
+    "emoji": "🌐",
+    "instructions": "Pengertian",
+    "draggableItems": [
+      {
+        "id": "blogger",
+        "label": "Orang pembuat blog",
+        "image": "/assets/games/kelas6/blogger.png"
+      },
+      {
+        "id": "post",
+        "label": "Artikel yang ditulis",
+        "image": "/assets/games/kelas6/post.png"
+      },
+      {
+        "id": "auto_konsep_6_tik",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_tik",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_tik",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_blogger",
+        "label": "Penulis",
+        "correctItem": "blogger",
+        "image": "/assets/games/kelas6/b.png"
+      },
+      {
+        "id": "t_post",
+        "label": "Isi",
+        "correctItem": "post",
+        "image": "/assets/games/kelas6/p.png"
+      },
+      {
+        "id": "t_auto_konsep_6_tik",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_tik"
+      },
+      {
+        "id": "t_auto_contoh_6_tik",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_tik"
+      },
+      {
+        "id": "t_auto_manfaat_6_tik",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_tik"
+      }
+    ]
+  }
+]

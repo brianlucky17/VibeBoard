@@ -1,0 +1,389 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Wawancara sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Wawancara."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "4_bi_1",
+    "title": "Wawancara",
+    "grade": 4,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "🎤",
+    "instructions": "Pasangkan unsur wawancara!",
+    "draggableItems": [
+      {
+        "id": "narasumber",
+        "label": "Orang yang diwawancarai",
+        "image": "/assets/games/kelas4/narasumber.png"
+      },
+      {
+        "id": "pewawancara",
+        "label": "Orang yang bertanya",
+        "image": "/assets/games/kelas4/pewawancara.png"
+      },
+      {
+        "id": "auto_konsep_4_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_narasumber",
+        "label": "Narasumber",
+        "correctItem": "narasumber",
+        "image": "/assets/games/kelas4/t_n.png"
+      },
+      {
+        "id": "t_pewawancara",
+        "label": "Pewawancara",
+        "correctItem": "pewawancara",
+        "image": "/assets/games/kelas4/t_p.png"
+      },
+      {
+        "id": "t_auto_konsep_4_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_4_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_4_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Ide Pokok sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Ide Pokok."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "4_bi_2",
+    "title": "Ide Pokok",
+    "grade": 4,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "💡",
+    "instructions": "Di mana ide pokok bisa berada?",
+    "draggableItems": [
+      {
+        "id": "awal",
+        "label": "Di awal paragraf",
+        "image": "/assets/games/kelas4/awal.png"
+      },
+      {
+        "id": "akhir",
+        "label": "Di akhir paragraf",
+        "image": "/assets/games/kelas4/akhir.png"
+      },
+      {
+        "id": "tengah",
+        "label": "Hanya di tengah",
+        "image": "/assets/games/kelas4/tengah.png"
+      },
+      {
+        "id": "auto_konsep_4_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_bahasa_indonesia",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_awal",
+        "label": "Bisa jadi ide pokok: Di awal paragraf",
+        "correctItem": "awal",
+        "image": "/assets/games/kelas4/benar.png"
+      },
+      {
+        "id": "t_akhir",
+        "label": "Bisa jadi ide pokok: Di akhir paragraf",
+        "correctItem": "akhir",
+        "image": "/assets/games/kelas4/benar.png"
+      },
+      {
+        "id": "t_tengah",
+        "label": "Bukan patokan: Hanya di tengah",
+        "correctItem": "tengah",
+        "image": "/assets/games/kelas4/salah.png"
+      },
+      {
+        "id": "t_auto_konsep_4_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_4_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Puisi sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Puisi."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "4_bi_3",
+    "title": "Puisi",
+    "grade": 4,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📜",
+    "instructions": "Pasangkan istilah puisi!",
+    "draggableItems": [
+      {
+        "id": "rima",
+        "label": "Persamaan bunyi",
+        "image": "/assets/games/kelas4/rima.png"
+      },
+      {
+        "id": "bait",
+        "label": "Kumpulan baris",
+        "image": "/assets/games/kelas4/bait.png"
+      },
+      {
+        "id": "auto_konsep_4_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_rima",
+        "label": "Rima",
+        "correctItem": "rima",
+        "image": "/assets/games/kelas4/t_rima.png"
+      },
+      {
+        "id": "t_bait",
+        "label": "Bait",
+        "correctItem": "bait",
+        "image": "/assets/games/kelas4/t_bait.png"
+      },
+      {
+        "id": "t_auto_konsep_4_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_4_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_4_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kata Majemuk sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kata Majemuk."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "4_bi_4",
+    "title": "Kata Majemuk",
+    "grade": 4,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "➕",
+    "instructions": "Bentuk kata majemuk!",
+    "draggableItems": [
+      {
+        "id": "mata",
+        "label": "Mata",
+        "image": "/assets/games/kelas4/mata.png"
+      },
+      {
+        "id": "hari",
+        "label": "Hari",
+        "image": "/assets/games/kelas4/hari.png"
+      },
+      {
+        "id": "auto_konsep_4_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_mata",
+        "label": "1st",
+        "correctItem": "mata",
+        "image": "/assets/games/kelas4/t_mata.png"
+      },
+      {
+        "id": "t_hari",
+        "label": "2nd",
+        "correctItem": "hari",
+        "image": "/assets/games/kelas4/t_hari.png"
+      },
+      {
+        "id": "t_auto_konsep_4_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_4_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_4_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Surat Pribadi sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Surat Pribadi."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "4_bi_5",
+    "title": "Surat Pribadi",
+    "grade": 4,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "✉️",
+    "instructions": "Bagian surat pribadi?",
+    "draggableItems": [
+      {
+        "id": "salam",
+        "label": "Salam pembuka",
+        "image": "/assets/games/kelas4/salam.png"
+      },
+      {
+        "id": "kop",
+        "label": "Kop surat",
+        "image": "/assets/games/kelas4/kop.png"
+      },
+      {
+        "id": "auto_konsep_4_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_salam",
+        "label": "Ada di surat pribadi",
+        "correctItem": "salam",
+        "image": "/assets/games/kelas4/ada.png"
+      },
+      {
+        "id": "t_kop",
+        "label": "Hanya di surat resmi",
+        "correctItem": "kop",
+        "image": "/assets/games/kelas4/tidak.png"
+      },
+      {
+        "id": "t_auto_konsep_4_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_4_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_4_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_bahasa_indonesia"
+      }
+    ]
+  }
+]

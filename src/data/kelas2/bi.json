@@ -1,0 +1,409 @@
+[
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Suku Kata 2 & 3 Silabel sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Suku Kata 2 & 3 Silabel."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "2_bi_1",
+    "title": "Suku Kata 2 & 3 Silabel",
+    "grade": 2,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "🔤",
+    "instructions": "Gabungkan suku kata untuk membentuk kata!",
+    "draggableItems": [
+      {
+        "id": "me",
+        "label": "me-",
+        "image": "/assets/games/kelas2/me.png"
+      },
+      {
+        "id": "ja",
+        "label": "-ja",
+        "image": "/assets/games/kelas2/ja.png"
+      },
+      {
+        "id": "bu",
+        "label": "bu-",
+        "image": "/assets/games/kelas2/bu.png"
+      },
+      {
+        "id": "kit",
+        "label": "-kit",
+        "image": "/assets/games/kelas2/kit.png"
+      },
+      {
+        "id": "pe",
+        "label": "pe-",
+        "image": "/assets/games/kelas2/pe.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_me",
+        "label": "me- + -ja = ?: me-",
+        "correctItem": "me",
+        "image": "/assets/games/kelas2/t_mejas.png"
+      },
+      {
+        "id": "t_ja",
+        "label": "me- + -ja = ?: -ja",
+        "correctItem": "ja",
+        "image": "/assets/games/kelas2/t_mejas.png"
+      },
+      {
+        "id": "t_bu",
+        "label": "bu- + -kit = ?: bu-",
+        "correctItem": "bu",
+        "image": "/assets/games/kelas2/t_buku.png"
+      },
+      {
+        "id": "t_kit",
+        "label": "bu- + -kit = ?: -kit",
+        "correctItem": "kit",
+        "image": "/assets/games/kelas2/t_buku.png"
+      },
+      {
+        "id": "t_pe",
+        "label": "pe- + -nga = ?: pe-",
+        "correctItem": "pe",
+        "image": "/assets/games/kelas2/t_penga.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kata Lawan (Antonim) sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kata Lawan (Antonim)."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "2_bi_2",
+    "title": "Kata Lawan (Antonim)",
+    "grade": 2,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "🔄",
+    "instructions": "Seret kata lawan ke pasangannya!",
+    "draggableItems": [
+      {
+        "id": "besar_k",
+        "label": "Besar → ?",
+        "image": "/assets/games/kelas2/besar_k.png"
+      },
+      {
+        "id": "panas_k",
+        "label": "Panas → ?",
+        "image": "/assets/games/kelas2/panas_k.png"
+      },
+      {
+        "id": "cepat_k",
+        "label": "Cepat → ?",
+        "image": "/assets/games/kelas2/cepat_k.png"
+      },
+      {
+        "id": "atas_k",
+        "label": "Atas → ?",
+        "image": "/assets/games/kelas2/atas_k.png"
+      },
+      {
+        "id": "auto_konsep_2_bahasa_indonesia",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_besar_k",
+        "label": "Kecil",
+        "correctItem": "besar_k",
+        "image": "/assets/games/kelas2/t_besar.png"
+      },
+      {
+        "id": "t_panas_k",
+        "label": "Dingin",
+        "correctItem": "panas_k",
+        "image": "/assets/games/kelas2/t_panas.png"
+      },
+      {
+        "id": "t_cepat_k",
+        "label": "Lambat",
+        "correctItem": "cepat_k",
+        "image": "/assets/games/kelas2/t_cepat.png"
+      },
+      {
+        "id": "t_atas_k",
+        "label": "Bawah",
+        "correctItem": "atas_k",
+        "image": "/assets/games/kelas2/t_atas.png"
+      },
+      {
+        "id": "t_auto_konsep_2_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_2_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Berbicara dan Mempresentasikan",
+    "cp": "Murid mampu merespons dengan bertanya tentang sesuatu, menjawab, dan menanggapi komentar orang lain (teman, pendidik, dan/atau orang dewasa) dengan baik dan santun dalam suatu percakapan tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; mengungkapkan perasaan dan gagasan secara lisan dengan atau tanpa bantuan gambar; dan menceritakan kembali isi berbagai tipe teks yang dibaca, dipirsa, atau didengar tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kalimat & Lambang Titik sesuai elemen Berbicara dan Mempresentasikan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kalimat & Lambang Titik."
+    ],
+    "game": [
+      "Drag kalimat"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "2_bi_3",
+    "title": "Kalimat & Lambang Titik",
+    "grade": 2,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📝",
+    "instructions": "Cocokkan tanda baca akhir kalimat!",
+    "draggableItems": [
+      {
+        "id": "titik",
+        "label": ".",
+        "image": "/assets/games/kelas2/titik.png"
+      },
+      {
+        "id": "tanda_tanya",
+        "label": "?",
+        "image": "/assets/games/kelas2/tanda_tanya.png"
+      },
+      {
+        "id": "seru",
+        "label": "!",
+        "image": "/assets/games/kelas2/seru.png"
+      },
+      {
+        "id": "auto_konsep_2_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_2_bahasa_indonesia",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_titik",
+        "label": "Ayah pergi ke pasar",
+        "correctItem": "titik",
+        "image": "/assets/games/kelas2/p1.png"
+      },
+      {
+        "id": "t_tanda_tanya",
+        "label": "Di mana buku itu",
+        "correctItem": "tanda_tanya",
+        "image": "/assets/games/kelas2/p2.png"
+      },
+      {
+        "id": "t_seru",
+        "label": "Wah, hujan deras sekali",
+        "correctItem": "seru",
+        "image": "/assets/games/kelas2/p3.png"
+      },
+      {
+        "id": "t_auto_konsep_2_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_2_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_2_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_2_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kata Benda & Sifatnya sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kata Benda & Sifatnya."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "2_bi_4",
+    "title": "Kata Benda & Sifatnya",
+    "grade": 2,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "🏷️",
+    "instructions": "Pasangkan kata benda dengan sifatnya!",
+    "draggableItems": [
+      {
+        "id": "rumah_b",
+        "label": "Rumah besar",
+        "image": "/assets/games/kelas2/rumah_b.png"
+      },
+      {
+        "id": "mobil_c",
+        "label": "Mobil cepat",
+        "image": "/assets/games/kelas2/mobil_c.png"
+      },
+      {
+        "id": "buku_b",
+        "label": "Buku baru",
+        "image": "/assets/games/kelas2/buku_b.png"
+      },
+      {
+        "id": "kucing_g",
+        "label": "Kucing gemuk",
+        "image": "/assets/games/kelas2/kucing_g.png"
+      },
+      {
+        "id": "auto_konsep_2_bahasa_indonesia",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_rumah_b",
+        "label": "Rumah → besar",
+        "correctItem": "rumah_b",
+        "image": "/assets/games/kelas2/t_rumah.png"
+      },
+      {
+        "id": "t_mobil_c",
+        "label": "Mobil → cepat",
+        "correctItem": "mobil_c",
+        "image": "/assets/games/kelas2/t_mobil.png"
+      },
+      {
+        "id": "t_buku_b",
+        "label": "Buku → baru",
+        "correctItem": "buku_b",
+        "image": "/assets/games/kelas2/t_buku.png"
+      },
+      {
+        "id": "t_kucing_g",
+        "label": "Kucing → gemuk",
+        "correctItem": "kucing_g",
+        "image": "/assets/games/kelas2/t_kucing.png"
+      },
+      {
+        "id": "t_auto_konsep_2_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_2_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Golongan Kata (Daun/Hewan) sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Golongan Kata (Daun/Hewan)."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "2_bi_5",
+    "title": "Golongan Kata (Daun/Hewan)",
+    "grade": 2,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📂",
+    "instructions": "Kelompokkan kata ke golongannya!",
+    "draggableItems": [
+      {
+        "id": "daun",
+        "label": "Daun",
+        "image": "/assets/games/kelas2/daun.png"
+      },
+      {
+        "id": "mangga",
+        "label": "Mangga",
+        "image": "/assets/games/kelas2/mangga.png"
+      },
+      {
+        "id": "kelapa",
+        "label": "Kelapa",
+        "image": "/assets/games/kelas2/kelapa.png"
+      },
+      {
+        "id": "anjing",
+        "label": "Anjing",
+        "image": "/assets/games/kelas2/anjing.png"
+      },
+      {
+        "id": "singa",
+        "label": "Singa",
+        "image": "/assets/games/kelas2/singa.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_daun",
+        "label": "Tumbuhan: Daun",
+        "correctItem": "daun",
+        "image": "/assets/games/kelas2/tumbuhan.png"
+      },
+      {
+        "id": "t_mangga",
+        "label": "Tumbuhan: Mangga",
+        "correctItem": "mangga",
+        "image": "/assets/games/kelas2/tumbuhan.png"
+      },
+      {
+        "id": "t_kelapa",
+        "label": "Tumbuhan: Kelapa",
+        "correctItem": "kelapa",
+        "image": "/assets/games/kelas2/tumbuhan.png"
+      },
+      {
+        "id": "t_anjing",
+        "label": "Hewan: Anjing",
+        "correctItem": "anjing",
+        "image": "/assets/games/kelas2/hewan.png"
+      },
+      {
+        "id": "t_singa",
+        "label": "Hewan: Singa",
+        "correctItem": "singa",
+        "image": "/assets/games/kelas2/hewan.png"
+      }
+    ]
+  }
+]

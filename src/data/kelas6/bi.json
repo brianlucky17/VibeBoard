@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Berbicara dan Mempresentasikan",
+    "cp": "Murid mampu mempresentasikan gagasan dari berbagai tipe teks dengan efektif dan santun; dan menyampaikan perasaan berdasarkan fakta, imajinasi (dari diri sendiri dan orang lain) secara indah dan menarik dalam bentuk teks sastra dengan penggunaan kosakata secara kreatif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Teks Pidato sesuai elemen Berbicara dan Mempresentasikan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Teks Pidato."
+    ],
+    "game": [
+      "Drag kalimat"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "6_bi_1",
+    "title": "Teks Pidato",
+    "grade": 6,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "🎤",
+    "instructions": "Bagian Pidato",
+    "draggableItems": [
+      {
+        "id": "buka",
+        "label": "Salam Pembuka",
+        "image": "/assets/games/kelas6/buka.png"
+      },
+      {
+        "id": "isi",
+        "label": "Inti Pembicaraan",
+        "image": "/assets/games/kelas6/isi.png"
+      },
+      {
+        "id": "auto_konsep_6_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_buka",
+        "label": "Awal Pidato",
+        "correctItem": "buka",
+        "image": "/assets/games/kelas6/b.png"
+      },
+      {
+        "id": "t_isi",
+        "label": "Isi Pidato",
+        "correctItem": "isi",
+        "image": "/assets/games/kelas6/i.png"
+      },
+      {
+        "id": "t_auto_konsep_6_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_6_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_6_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Formulir sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Formulir."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "6_bi_2",
+    "title": "Formulir",
+    "grade": 6,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📄",
+    "instructions": "Isian formulir",
+    "draggableItems": [
+      {
+        "id": "nama",
+        "label": "Nama Lengkap",
+        "image": "/assets/games/kelas6/nama.png"
+      },
+      {
+        "id": "umur",
+        "label": "Usia",
+        "image": "/assets/games/kelas6/umur.png"
+      },
+      {
+        "id": "auto_konsep_6_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_nama",
+        "label": "Identitas Diri",
+        "correctItem": "nama",
+        "image": "/assets/games/kelas6/n.png"
+      },
+      {
+        "id": "t_umur",
+        "label": "Data Umur",
+        "correctItem": "umur",
+        "image": "/assets/games/kelas6/u.png"
+      },
+      {
+        "id": "t_auto_konsep_6_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_6_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_6_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kesimpulan sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kesimpulan."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "6_bi_3",
+    "title": "Kesimpulan",
+    "grade": 6,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📝",
+    "instructions": "Menarik kesimpulan",
+    "draggableItems": [
+      {
+        "id": "akhir",
+        "label": "Intisari teks",
+        "image": "/assets/games/kelas6/akhir.png"
+      },
+      {
+        "id": "semua",
+        "label": "Menyalin semua teks",
+        "image": "/assets/games/kelas6/semua.png"
+      },
+      {
+        "id": "auto_konsep_6_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_akhir",
+        "label": "Cara Benar",
+        "correctItem": "akhir",
+        "image": "/assets/games/kelas6/b.png"
+      },
+      {
+        "id": "t_semua",
+        "label": "Cara Salah",
+        "correctItem": "semua",
+        "image": "/assets/games/kelas6/s.png"
+      },
+      {
+        "id": "t_auto_konsep_6_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_6_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_6_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Teks Laporan sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Teks Laporan."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "6_bi_4",
+    "title": "Teks Laporan",
+    "grade": 6,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📊",
+    "instructions": "Sifat Laporan",
+    "draggableItems": [
+      {
+        "id": "fakta",
+        "label": "Berdasarkan Pengamatan",
+        "image": "/assets/games/kelas6/fakta.png"
+      },
+      {
+        "id": "khayal",
+        "label": "Karangan Bebas",
+        "image": "/assets/games/kelas6/khayal.png"
+      },
+      {
+        "id": "auto_konsep_6_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_fakta",
+        "label": "Teks Laporan",
+        "correctItem": "fakta",
+        "image": "/assets/games/kelas6/f.png"
+      },
+      {
+        "id": "t_khayal",
+        "label": "Cerita Fiksi",
+        "correctItem": "khayal",
+        "image": "/assets/games/kelas6/k.png"
+      },
+      {
+        "id": "t_auto_konsep_6_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_6_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_6_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sinonim & Antonim sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sinonim & Antonim."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "6_bi_5",
+    "title": "Sinonim & Antonim",
+    "grade": 6,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "🔄",
+    "instructions": "Lawan kata",
+    "draggableItems": [
+      {
+        "id": "untung",
+        "label": "Rugi",
+        "image": "/assets/games/kelas6/untung.png"
+      },
+      {
+        "id": "sukses",
+        "label": "Gagal",
+        "image": "/assets/games/kelas6/sukses.png"
+      },
+      {
+        "id": "auto_konsep_6_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_untung",
+        "label": "Lawan dari Untung",
+        "correctItem": "untung",
+        "image": "/assets/games/kelas6/u.png"
+      },
+      {
+        "id": "t_sukses",
+        "label": "Lawan dari Sukses",
+        "correctItem": "sukses",
+        "image": "/assets/games/kelas6/s.png"
+      },
+      {
+        "id": "t_auto_konsep_6_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_6_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_6_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_bahasa_indonesia"
+      }
+    ]
+  }
+]

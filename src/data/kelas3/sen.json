@@ -1,0 +1,403 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Mengalami",
+    "cp": "Murid mampu menjelaskan unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Unsur Seni Rupa sesuai elemen Mengalami.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Unsur Seni Rupa."
+    ],
+    "game": [
+      "Drag unsur seni"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "3_sen_1",
+    "title": "Unsur Seni Rupa",
+    "grade": 3,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🎨",
+    "instructions": "Kelompokkan warna primer dan sekunder!",
+    "draggableItems": [
+      {
+        "id": "merah",
+        "label": "Merah",
+        "image": "/assets/games/kelas3/merah.png"
+      },
+      {
+        "id": "biru",
+        "label": "Biru",
+        "image": "/assets/games/kelas3/biru.png"
+      },
+      {
+        "id": "ungu",
+        "label": "Ungu",
+        "image": "/assets/games/kelas3/ungu.png"
+      },
+      {
+        "id": "hijau",
+        "label": "Hijau",
+        "image": "/assets/games/kelas3/hijau.png"
+      },
+      {
+        "id": "auto_konsep_3_seni_budaya",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_merah",
+        "label": "Warna Primer: Merah",
+        "correctItem": "merah",
+        "image": "/assets/games/kelas3/primer.png"
+      },
+      {
+        "id": "t_biru",
+        "label": "Warna Primer: Biru",
+        "correctItem": "biru",
+        "image": "/assets/games/kelas3/primer.png"
+      },
+      {
+        "id": "t_ungu",
+        "label": "Warna Sekunder: Ungu",
+        "correctItem": "ungu",
+        "image": "/assets/games/kelas3/sekunder.png"
+      },
+      {
+        "id": "t_hijau",
+        "label": "Warna Sekunder: Hijau",
+        "correctItem": "hijau",
+        "image": "/assets/games/kelas3/sekunder.png"
+      },
+      {
+        "id": "t_auto_konsep_3_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Seni Musik",
+    "elemenCP": "Berpikir dan Bekerja Artistik",
+    "cp": "Murid mampu menirukan pola irama dan melodi menggunakan alat musik ritmis atau melodis; menyebutkan karakteristik ragam alat musik dan bunyi yang dihasilkan; mengetahui cara memainkan dan merawat alat musik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Alat Musik Ritmis & Melodis sesuai elemen Berpikir dan Bekerja Artistik.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Alat Musik Ritmis & Melodis."
+    ],
+    "game": [
+      "Drag alat musik"
+    ],
+    "vr": [
+      "Studio Musik Virtual"
+    ],
+    "id": "3_sen_2",
+    "title": "Alat Musik Ritmis & Melodis",
+    "grade": 3,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🥁",
+    "instructions": "Kelompokkan alat musik!",
+    "draggableItems": [
+      {
+        "id": "gendang",
+        "label": "Gendang",
+        "image": "/assets/games/kelas3/gendang.png"
+      },
+      {
+        "id": "tamborin",
+        "label": "Tamborin",
+        "image": "/assets/games/kelas3/tamborin.png"
+      },
+      {
+        "id": "gitar",
+        "label": "Gitar",
+        "image": "/assets/games/kelas3/gitar.png"
+      },
+      {
+        "id": "piano",
+        "label": "Piano",
+        "image": "/assets/games/kelas3/piano.png"
+      },
+      {
+        "id": "auto_konsep_3_seni_budaya",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_gendang",
+        "label": "Alat Musik Ritmis: Gendang",
+        "correctItem": "gendang",
+        "image": "/assets/games/kelas3/ritmis.png"
+      },
+      {
+        "id": "t_tamborin",
+        "label": "Alat Musik Ritmis: Tamborin",
+        "correctItem": "tamborin",
+        "image": "/assets/games/kelas3/ritmis.png"
+      },
+      {
+        "id": "t_gitar",
+        "label": "Alat Musik Melodis: Gitar",
+        "correctItem": "gitar",
+        "image": "/assets/games/kelas3/melodis.png"
+      },
+      {
+        "id": "t_piano",
+        "label": "Alat Musik Melodis: Piano",
+        "correctItem": "piano",
+        "image": "/assets/games/kelas3/melodis.png"
+      },
+      {
+        "id": "t_auto_konsep_3_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Mengalami",
+    "cp": "Murid mampu menjelaskan unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Bentuk Geometris sesuai elemen Mengalami.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Bentuk Geometris."
+    ],
+    "game": [
+      "Drag bentuk"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "3_sen_3",
+    "title": "Bentuk Geometris",
+    "grade": 3,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "📐",
+    "instructions": "Cocokkan nama dengan bentuknya!",
+    "draggableItems": [
+      {
+        "id": "bulat",
+        "label": "Lingkaran",
+        "image": "/assets/games/kelas3/bulat.png"
+      },
+      {
+        "id": "kotak",
+        "label": "Persegi",
+        "image": "/assets/games/kelas3/kotak.png"
+      },
+      {
+        "id": "tiga",
+        "label": "Segitiga",
+        "image": "/assets/games/kelas3/tiga.png"
+      },
+      {
+        "id": "auto_konsep_3_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_seni_budaya",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bulat",
+        "label": "Bentuk Bola",
+        "correctItem": "bulat",
+        "image": "/assets/games/kelas3/t_bulat.png"
+      },
+      {
+        "id": "t_kotak",
+        "label": "Bentuk Dadu",
+        "correctItem": "kotak",
+        "image": "/assets/games/kelas3/t_kotak.png"
+      },
+      {
+        "id": "t_tiga",
+        "label": "Bentuk Piramida",
+        "correctItem": "tiga",
+        "image": "/assets/games/kelas3/t_tiga.png"
+      },
+      {
+        "id": "t_auto_konsep_3_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_3_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Seni Rupa",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu membuat karya seni rupa berdasarkan pengalaman dan/atau hasil pengamatan terhadap lingkungan sekitar melalui pengembangan imajinasi.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Bahan Karya Seni sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Bahan Karya Seni."
+    ],
+    "game": [
+      "Drag unsur seni"
+    ],
+    "vr": [
+      "Galeri Seni Virtual"
+    ],
+    "id": "3_sen_4",
+    "title": "Bahan Karya Seni",
+    "grade": 3,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "🏺",
+    "instructions": "Kelompokkan bahan alam dan buatan!",
+    "draggableItems": [
+      {
+        "id": "daun",
+        "label": "Daun Kering",
+        "image": "/assets/games/kelas3/daun.png"
+      },
+      {
+        "id": "tanah",
+        "label": "Tanah Liat",
+        "image": "/assets/games/kelas3/tanah.png"
+      },
+      {
+        "id": "plastik",
+        "label": "Botol Plastik",
+        "image": "/assets/games/kelas3/plastik.png"
+      },
+      {
+        "id": "kertas",
+        "label": "Kertas Origami",
+        "image": "/assets/games/kelas3/kertas.png"
+      },
+      {
+        "id": "auto_konsep_3_seni_budaya",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_daun",
+        "label": "Bahan Alam: Daun Kering",
+        "correctItem": "daun",
+        "image": "/assets/games/kelas3/alam.png"
+      },
+      {
+        "id": "t_tanah",
+        "label": "Bahan Alam: Tanah Liat",
+        "correctItem": "tanah",
+        "image": "/assets/games/kelas3/alam.png"
+      },
+      {
+        "id": "t_plastik",
+        "label": "Bahan Buatan: Botol Plastik",
+        "correctItem": "plastik",
+        "image": "/assets/games/kelas3/buatan.png"
+      },
+      {
+        "id": "t_kertas",
+        "label": "Bahan Buatan: Kertas Origami",
+        "correctItem": "kertas",
+        "image": "/assets/games/kelas3/buatan.png"
+      },
+      {
+        "id": "t_auto_konsep_3_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_seni_budaya"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Seni Tari",
+    "elemenCP": "Menciptakan",
+    "cp": "Murid mampu mempraktikkan gerak tari dengan menggunakan properti tari daerah dan pola lantai sederhana secara ekspresif.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Tari Tradisional sesuai elemen Menciptakan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Tari Tradisional."
+    ],
+    "game": [
+      "Drag gerak tari"
+    ],
+    "vr": [
+      "Panggung Tari Nusantara"
+    ],
+    "id": "3_sen_5",
+    "title": "Tari Tradisional",
+    "grade": 3,
+    "subject": "Seni Budaya",
+    "level": "Sedang",
+    "emoji": "💃",
+    "instructions": "Pasangkan tarian dengan asalnya!",
+    "draggableItems": [
+      {
+        "id": "saman",
+        "label": "Tari Saman",
+        "image": "/assets/games/kelas3/saman.png"
+      },
+      {
+        "id": "pendet",
+        "label": "Tari Pendet",
+        "image": "/assets/games/kelas3/pendet.png"
+      },
+      {
+        "id": "jaipong",
+        "label": "Tari Jaipong",
+        "image": "/assets/games/kelas3/jaipong.png"
+      },
+      {
+        "id": "auto_konsep_3_seni_budaya",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_seni_budaya",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_saman",
+        "label": "Aceh",
+        "correctItem": "saman",
+        "image": "/assets/games/kelas3/aceh.png"
+      },
+      {
+        "id": "t_pendet",
+        "label": "Bali",
+        "correctItem": "pendet",
+        "image": "/assets/games/kelas3/bali.png"
+      },
+      {
+        "id": "t_jaipong",
+        "label": "Jawa Barat",
+        "correctItem": "jaipong",
+        "image": "/assets/games/kelas3/jabar.png"
+      },
+      {
+        "id": "t_auto_konsep_3_seni_budaya",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_seni_budaya"
+      },
+      {
+        "id": "t_auto_contoh_3_seni_budaya",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_seni_budaya"
+      }
+    ]
+  }
+]

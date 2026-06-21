@@ -1,0 +1,411 @@
+[
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukan dan memiliki intuisi bilangan (number sense) pada bilangan cacah sampai 100; membaca, menulis, menentukan, nilai tempat, membandingkan, mengurutkan, serta melakukan komposisi (menyusun) dan dekomposisi (mengurai) bilangan; melakukan operasi penjumlahan dan pengurangan menggunakan benda-benda konkret yang banyak sampai 20; dan menunjukan pemahaman pecahan sebagai bagian dari keseluruhan melalui konteks membagi sebuah benda atau kumpulan benda sama banyak (pecahan yang diperkenalkan adalah setengah dan seperempat).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Penjumlahan 1–10 sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Penjumlahan 1–10."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "1_mat_1",
+    "title": "Penjumlahan 1–10",
+    "grade": 1,
+    "subject": "Matematika",
+    "level": "Mudah",
+    "emoji": "➕",
+    "instructions": "Seret jawaban yang benar ke soal penjumlahan!",
+    "draggableItems": [
+      {
+        "id": "a5",
+        "label": "5",
+        "image": "/assets/games/kelas1/a5.png"
+      },
+      {
+        "id": "a7",
+        "label": "7",
+        "image": "/assets/games/kelas1/a7.png"
+      },
+      {
+        "id": "a9",
+        "label": "9",
+        "image": "/assets/games/kelas1/a9.png"
+      },
+      {
+        "id": "a3",
+        "label": "3",
+        "image": "/assets/games/kelas1/a3.png"
+      },
+      {
+        "id": "a6",
+        "label": "6",
+        "image": "/assets/games/kelas1/a6.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_a5",
+        "label": "3 + 2 = ?",
+        "correctItem": "a5",
+        "image": "/assets/games/kelas1/s1.png"
+      },
+      {
+        "id": "t_a7",
+        "label": "4 + 3 = ?",
+        "correctItem": "a7",
+        "image": "/assets/games/kelas1/s2.png"
+      },
+      {
+        "id": "t_a9",
+        "label": "5 + 4 = ?",
+        "correctItem": "a9",
+        "image": "/assets/games/kelas1/s3.png"
+      },
+      {
+        "id": "t_a3",
+        "label": "1 + 2 = ?",
+        "correctItem": "a3",
+        "image": "/assets/games/kelas1/s4.png"
+      },
+      {
+        "id": "t_a6",
+        "label": "Pasangkan: 6",
+        "correctItem": "a6",
+        "image": "/assets/games/kelas1/a6.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukan dan memiliki intuisi bilangan (number sense) pada bilangan cacah sampai 100; membaca, menulis, menentukan, nilai tempat, membandingkan, mengurutkan, serta melakukan komposisi (menyusun) dan dekomposisi (mengurai) bilangan; melakukan operasi penjumlahan dan pengurangan menggunakan benda-benda konkret yang banyak sampai 20; dan menunjukan pemahaman pecahan sebagai bagian dari keseluruhan melalui konteks membagi sebuah benda atau kumpulan benda sama banyak (pecahan yang diperkenalkan adalah setengah dan seperempat).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pengurangan 1–10 sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pengurangan 1–10."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "1_mat_2",
+    "title": "Pengurangan 1–10",
+    "grade": 1,
+    "subject": "Matematika",
+    "level": "Mudah",
+    "emoji": "➖",
+    "instructions": "Seret jawaban yang benar ke soal pengurangan!",
+    "draggableItems": [
+      {
+        "id": "b2",
+        "label": "2",
+        "image": "/assets/games/kelas1/b2.png"
+      },
+      {
+        "id": "b3",
+        "label": "3",
+        "image": "/assets/games/kelas1/b3.png"
+      },
+      {
+        "id": "b4",
+        "label": "4",
+        "image": "/assets/games/kelas1/b4.png"
+      },
+      {
+        "id": "b1",
+        "label": "1",
+        "image": "/assets/games/kelas1/b1.png"
+      },
+      {
+        "id": "b5",
+        "label": "5",
+        "image": "/assets/games/kelas1/b5.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_b2",
+        "label": "5 - 3 = ?",
+        "correctItem": "b2",
+        "image": "/assets/games/kelas1/r1.png"
+      },
+      {
+        "id": "t_b3",
+        "label": "7 - 4 = ?",
+        "correctItem": "b3",
+        "image": "/assets/games/kelas1/r2.png"
+      },
+      {
+        "id": "t_b4",
+        "label": "9 - 5 = ?",
+        "correctItem": "b4",
+        "image": "/assets/games/kelas1/r3.png"
+      },
+      {
+        "id": "t_b1",
+        "label": "6 - 5 = ?",
+        "correctItem": "b1",
+        "image": "/assets/games/kelas1/r4.png"
+      },
+      {
+        "id": "t_b5",
+        "label": "Pasangkan: 5",
+        "correctItem": "b5",
+        "image": "/assets/games/kelas1/b5.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukan dan memiliki intuisi bilangan (number sense) pada bilangan cacah sampai 100; membaca, menulis, menentukan, nilai tempat, membandingkan, mengurutkan, serta melakukan komposisi (menyusun) dan dekomposisi (mengurai) bilangan; melakukan operasi penjumlahan dan pengurangan menggunakan benda-benda konkret yang banyak sampai 20; dan menunjukan pemahaman pecahan sebagai bagian dari keseluruhan melalui konteks membagi sebuah benda atau kumpulan benda sama banyak (pecahan yang diperkenalkan adalah setengah dan seperempat).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Urutan Angka 1–10 sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Urutan Angka 1–10."
+    ],
+    "game": [
+      "Drag angka"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "1_mat_3",
+    "title": "Urutan Angka 1–10",
+    "grade": 1,
+    "subject": "Matematika",
+    "level": "Mudah",
+    "emoji": "🔢",
+    "instructions": "Seret angka ke urutan yang tepat!",
+    "draggableItems": [
+      {
+        "id": "n3",
+        "label": "3",
+        "image": "/assets/games/kelas1/n3.png"
+      },
+      {
+        "id": "n5",
+        "label": "5",
+        "image": "/assets/games/kelas1/n5.png"
+      },
+      {
+        "id": "n7",
+        "label": "7",
+        "image": "/assets/games/kelas1/n7.png"
+      },
+      {
+        "id": "n9",
+        "label": "9",
+        "image": "/assets/games/kelas1/n9.png"
+      },
+      {
+        "id": "auto_konsep_1_matematika",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_n3",
+        "label": "1 → 2 → ?",
+        "correctItem": "n3",
+        "image": "/assets/games/kelas1/pos1.png"
+      },
+      {
+        "id": "t_n5",
+        "label": "4 → ? → 6",
+        "correctItem": "n5",
+        "image": "/assets/games/kelas1/pos2.png"
+      },
+      {
+        "id": "t_n7",
+        "label": "6 → ? → 8",
+        "correctItem": "n7",
+        "image": "/assets/games/kelas1/pos3.png"
+      },
+      {
+        "id": "t_n9",
+        "label": "8 → ? → 10",
+        "correctItem": "n9",
+        "image": "/assets/games/kelas1/pos4.png"
+      },
+      {
+        "id": "t_auto_konsep_1_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Geometri",
+    "cp": "Murid mampu mengenal bangun datar (segitiga, segiempat, segi banyak, lingkaran) dan bangun ruang (balok, kubus, kerucut, dan bola); melakukan komposisi (penyusunan) dan dekomposisi (penguraian) suatu bangun datar (segitiga, segiempat, segi banyak); dan menentukan posisi benda terhadap benda lain (kanan,kiri,depan belakang, bawah, atas).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Nama Bangun Datar sesuai elemen Geometri.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Nama Bangun Datar."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Kota Geometri"
+    ],
+    "id": "1_mat_4",
+    "title": "Nama Bangun Datar",
+    "grade": 1,
+    "subject": "Matematika",
+    "level": "Mudah",
+    "emoji": "🔷",
+    "instructions": "Cocokkan nama bangun datar ke bentuk yang benar!",
+    "draggableItems": [
+      {
+        "id": "lingkaran",
+        "label": "⭕ Lingkaran",
+        "image": "/assets/games/kelas1/lingkaran.png"
+      },
+      {
+        "id": "segitiga",
+        "label": "🔺 Segitiga",
+        "image": "/assets/games/kelas1/segitiga.png"
+      },
+      {
+        "id": "persegi",
+        "label": "⬛ Persegi",
+        "image": "/assets/games/kelas1/persegi.png"
+      },
+      {
+        "id": "panjang",
+        "label": "▬ Persegi Panjang",
+        "image": "/assets/games/kelas1/panjang.png"
+      },
+      {
+        "id": "auto_konsep_1_matematika",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_lingkaran",
+        "label": "Bentuk bulat sempurna",
+        "correctItem": "lingkaran",
+        "image": "/assets/games/kelas1/t_l.png"
+      },
+      {
+        "id": "t_segitiga",
+        "label": "Bentuk 3 sudut",
+        "correctItem": "segitiga",
+        "image": "/assets/games/kelas1/t_s.png"
+      },
+      {
+        "id": "t_persegi",
+        "label": "Bentuk 4 sisi sama panjang",
+        "correctItem": "persegi",
+        "image": "/assets/games/kelas1/t_p.png"
+      },
+      {
+        "id": "t_panjang",
+        "label": "Bentuk 2 sisi lebih panjang",
+        "correctItem": "panjang",
+        "image": "/assets/games/kelas1/t_pp.png"
+      },
+      {
+        "id": "t_auto_konsep_1_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu menunjukan dan memiliki intuisi bilangan (number sense) pada bilangan cacah sampai 100; membaca, menulis, menentukan, nilai tempat, membandingkan, mengurutkan, serta melakukan komposisi (menyusun) dan dekomposisi (mengurai) bilangan; melakukan operasi penjumlahan dan pengurangan menggunakan benda-benda konkret yang banyak sampai 20; dan menunjukan pemahaman pecahan sebagai bagian dari keseluruhan melalui konteks membagi sebuah benda atau kumpulan benda sama banyak (pecahan yang diperkenalkan adalah setengah dan seperempat).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Lebih Banyak atau Lebih Sedikit? sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Lebih Banyak atau Lebih Sedikit?."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "1_mat_5",
+    "title": "Lebih Banyak atau Lebih Sedikit?",
+    "grade": 1,
+    "subject": "Matematika",
+    "level": "Mudah",
+    "emoji": "⚖️",
+    "instructions": "Seret angka ke kelompok yang tepat!",
+    "draggableItems": [
+      {
+        "id": "ang2",
+        "label": "2 buah apel",
+        "image": "/assets/games/kelas1/ang2.png"
+      },
+      {
+        "id": "ang4",
+        "label": "4 buah apel",
+        "image": "/assets/games/kelas1/ang4.png"
+      },
+      {
+        "id": "ang8",
+        "label": "8 buah apel",
+        "image": "/assets/games/kelas1/ang8.png"
+      },
+      {
+        "id": "ang9",
+        "label": "9 buah apel",
+        "image": "/assets/games/kelas1/ang9.png"
+      },
+      {
+        "id": "auto_konsep_1_matematika",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_ang2",
+        "label": "📉 Lebih Sedikit (< 5): 2 buah apel",
+        "correctItem": "ang2",
+        "image": "/assets/games/kelas1/sedikit.png"
+      },
+      {
+        "id": "t_ang4",
+        "label": "📉 Lebih Sedikit (< 5): 4 buah apel",
+        "correctItem": "ang4",
+        "image": "/assets/games/kelas1/sedikit.png"
+      },
+      {
+        "id": "t_ang8",
+        "label": "📈 Lebih Banyak (≥ 5): 8 buah apel",
+        "correctItem": "ang8",
+        "image": "/assets/games/kelas1/banyak.png"
+      },
+      {
+        "id": "t_ang9",
+        "label": "📈 Lebih Banyak (≥ 5): 9 buah apel",
+        "correctItem": "ang9",
+        "image": "/assets/games/kelas1/banyak.png"
+      },
+      {
+        "id": "t_auto_konsep_1_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_matematika"
+      }
+    ]
+  }
+]

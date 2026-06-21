@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Perkembangbiakan Tumbuhan sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Perkembangbiakan Tumbuhan."
+    ],
+    "game": [
+      "Drag rantai makanan"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "6_ipa_1",
+    "title": "Perkembangbiakan Tumbuhan",
+    "grade": 6,
+    "subject": "IPA",
+    "level": "Sedang",
+    "emoji": "🌱",
+    "instructions": "Vegetatif vs Generatif",
+    "draggableItems": [
+      {
+        "id": "biji",
+        "label": "Biji",
+        "image": "/assets/games/kelas6/biji.png"
+      },
+      {
+        "id": "cangkok",
+        "label": "Mencangkok",
+        "image": "/assets/games/kelas6/cangkok.png"
+      },
+      {
+        "id": "auto_konsep_6_ipa",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_ipa",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_ipa",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_biji",
+        "label": "Generatif (Kawin)",
+        "correctItem": "biji",
+        "image": "/assets/games/kelas6/g.png"
+      },
+      {
+        "id": "t_cangkok",
+        "label": "Vegetatif Buatan",
+        "correctItem": "cangkok",
+        "image": "/assets/games/kelas6/v.png"
+      },
+      {
+        "id": "t_auto_konsep_6_ipa",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_ipa"
+      },
+      {
+        "id": "t_auto_contoh_6_ipa",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_ipa"
+      },
+      {
+        "id": "t_auto_manfaat_6_ipa",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_ipa"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Ciri Khusus Hewan sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Ciri Khusus Hewan."
+    ],
+    "game": [
+      "Drag rantai makanan"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "6_ipa_2",
+    "title": "Ciri Khusus Hewan",
+    "grade": 6,
+    "subject": "IPA",
+    "level": "Sedang",
+    "emoji": "🦇",
+    "instructions": "Pasangkan ciri dengan hewan",
+    "draggableItems": [
+      {
+        "id": "ekolokasi",
+        "label": "Kelelawar",
+        "image": "/assets/games/kelas6/ekolokasi.png"
+      },
+      {
+        "id": "punuk",
+        "label": "Unta",
+        "image": "/assets/games/kelas6/punuk.png"
+      },
+      {
+        "id": "auto_konsep_6_ipa",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_ipa",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_ipa",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_ekolokasi",
+        "label": "Punya Ekolokasi",
+        "correctItem": "ekolokasi",
+        "image": "/assets/games/kelas6/e.png"
+      },
+      {
+        "id": "t_punuk",
+        "label": "Menyimpan Cadangan Air",
+        "correctItem": "punuk",
+        "image": "/assets/games/kelas6/p.png"
+      },
+      {
+        "id": "t_auto_konsep_6_ipa",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_ipa"
+      },
+      {
+        "id": "t_auto_contoh_6_ipa",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_ipa"
+      },
+      {
+        "id": "t_auto_manfaat_6_ipa",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_ipa"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sistem Tata Surya sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sistem Tata Surya."
+    ],
+    "game": [
+      "Drag planet"
+    ],
+    "vr": [
+      "Tata Surya"
+    ],
+    "id": "6_ipa_3",
+    "title": "Sistem Tata Surya",
+    "grade": 6,
+    "subject": "IPA",
+    "level": "Sedang",
+    "emoji": "🪐",
+    "instructions": "Planet di tata surya",
+    "draggableItems": [
+      {
+        "id": "bumi",
+        "label": "Bumi",
+        "image": "/assets/games/kelas6/bumi.png"
+      },
+      {
+        "id": "yupiter",
+        "label": "Yupiter",
+        "image": "/assets/games/kelas6/yupiter.png"
+      },
+      {
+        "id": "auto_konsep_6_ipa",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_ipa",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_ipa",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bumi",
+        "label": "Planet ke-3",
+        "correctItem": "bumi",
+        "image": "/assets/games/kelas6/b.png"
+      },
+      {
+        "id": "t_yupiter",
+        "label": "Planet Terbesar",
+        "correctItem": "yupiter",
+        "image": "/assets/games/kelas6/y.png"
+      },
+      {
+        "id": "t_auto_konsep_6_ipa",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_ipa"
+      },
+      {
+        "id": "t_auto_contoh_6_ipa",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_ipa"
+      },
+      {
+        "id": "t_auto_manfaat_6_ipa",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_ipa"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Listrik Rangkaian sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Listrik Rangkaian."
+    ],
+    "game": [
+      "Drag organ tubuh"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "6_ipa_4",
+    "title": "Listrik Rangkaian",
+    "grade": 6,
+    "subject": "IPA",
+    "level": "Sedang",
+    "emoji": "💡",
+    "instructions": "Seri vs Paralel",
+    "draggableItems": [
+      {
+        "id": "seri",
+        "label": "Tidak bercabang",
+        "image": "/assets/games/kelas6/seri.png"
+      },
+      {
+        "id": "paralel",
+        "label": "Bercabang",
+        "image": "/assets/games/kelas6/paralel.png"
+      },
+      {
+        "id": "auto_konsep_6_ipa",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_ipa",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_ipa",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_seri",
+        "label": "Rangkaian Seri",
+        "correctItem": "seri",
+        "image": "/assets/games/kelas6/s.png"
+      },
+      {
+        "id": "t_paralel",
+        "label": "Rangkaian Paralel",
+        "correctItem": "paralel",
+        "image": "/assets/games/kelas6/p.png"
+      },
+      {
+        "id": "t_auto_konsep_6_ipa",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_ipa"
+      },
+      {
+        "id": "t_auto_contoh_6_ipa",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_ipa"
+      },
+      {
+        "id": "t_auto_manfaat_6_ipa",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_ipa"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Magnet sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Magnet."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "6_ipa_5",
+    "title": "Magnet",
+    "grade": 6,
+    "subject": "IPA",
+    "level": "Sedang",
+    "emoji": "🧲",
+    "instructions": "Sifat Kutub Magnet",
+    "draggableItems": [
+      {
+        "id": "tolak",
+        "label": "Saling Tolak",
+        "image": "/assets/games/kelas6/tolak.png"
+      },
+      {
+        "id": "tarik",
+        "label": "Saling Tarik",
+        "image": "/assets/games/kelas6/tarik.png"
+      },
+      {
+        "id": "auto_konsep_6_ipa",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_6_ipa",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_6_ipa",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_tolak",
+        "label": "Kutub Senama Didekatkan",
+        "correctItem": "tolak",
+        "image": "/assets/games/kelas6/sama.png"
+      },
+      {
+        "id": "t_tarik",
+        "label": "Kutub Beda Didekatkan",
+        "correctItem": "tarik",
+        "image": "/assets/games/kelas6/beda.png"
+      },
+      {
+        "id": "t_auto_konsep_6_ipa",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_6_ipa"
+      },
+      {
+        "id": "t_auto_contoh_6_ipa",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_6_ipa"
+      },
+      {
+        "id": "t_auto_manfaat_6_ipa",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_6_ipa"
+      }
+    ]
+  }
+]

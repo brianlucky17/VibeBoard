@@ -1,0 +1,397 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Gerak Lokomotor & Non-Lokomotor sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Gerak Lokomotor & Non-Lokomotor."
+    ],
+    "game": [
+      "Drag gerakan olahraga"
+    ],
+    "vr": [
+      "Stadion Virtual"
+    ],
+    "id": "3_pjok_1",
+    "title": "Gerak Lokomotor & Non-Lokomotor",
+    "grade": 3,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🏃",
+    "instructions": "Kelompokkan jenis gerakan!",
+    "draggableItems": [
+      {
+        "id": "lari",
+        "label": "Berlari",
+        "image": "/assets/games/kelas3/lari.png"
+      },
+      {
+        "id": "lompat",
+        "label": "Melompat",
+        "image": "/assets/games/kelas3/lompat.png"
+      },
+      {
+        "id": "jongkok",
+        "label": "Jongkok",
+        "image": "/assets/games/kelas3/jongkok.png"
+      },
+      {
+        "id": "membungkuk",
+        "label": "Membungkuk",
+        "image": "/assets/games/kelas3/membungkuk.png"
+      },
+      {
+        "id": "auto_konsep_3_pjok",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_lari",
+        "label": "Lokomotor (Berpindah): Berlari",
+        "correctItem": "lari",
+        "image": "/assets/games/kelas3/loko.png"
+      },
+      {
+        "id": "t_lompat",
+        "label": "Lokomotor (Berpindah): Melompat",
+        "correctItem": "lompat",
+        "image": "/assets/games/kelas3/loko.png"
+      },
+      {
+        "id": "t_jongkok",
+        "label": "Non-Lokomotor (Di Tempat): Jongkok",
+        "correctItem": "jongkok",
+        "image": "/assets/games/kelas3/nonloko.png"
+      },
+      {
+        "id": "t_membungkuk",
+        "label": "Non-Lokomotor (Di Tempat): Membungkuk",
+        "correctItem": "membungkuk",
+        "image": "/assets/games/kelas3/nonloko.png"
+      },
+      {
+        "id": "t_auto_konsep_3_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Gerak Manipulatif sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Gerak Manipulatif."
+    ],
+    "game": [
+      "Drag gerakan olahraga"
+    ],
+    "vr": [
+      "Stadion Virtual"
+    ],
+    "id": "3_pjok_2",
+    "title": "Gerak Manipulatif",
+    "grade": 3,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "⚽",
+    "instructions": "Pilih yang termasuk gerak manipulatif (memakai alat)!",
+    "draggableItems": [
+      {
+        "id": "lempar",
+        "label": "Melempar Bola",
+        "image": "/assets/games/kelas3/lempar.png"
+      },
+      {
+        "id": "tendang",
+        "label": "Menendang Bola",
+        "image": "/assets/games/kelas3/tendang.png"
+      },
+      {
+        "id": "jalan",
+        "label": "Berjalan",
+        "image": "/assets/games/kelas3/jalan.png"
+      },
+      {
+        "id": "auto_konsep_3_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_pjok",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_lempar",
+        "label": "Gerak Manipulatif: Melempar Bola",
+        "correctItem": "lempar",
+        "image": "/assets/games/kelas3/manipulatif.png"
+      },
+      {
+        "id": "t_tendang",
+        "label": "Gerak Manipulatif: Menendang Bola",
+        "correctItem": "tendang",
+        "image": "/assets/games/kelas3/manipulatif.png"
+      },
+      {
+        "id": "t_jalan",
+        "label": "Bukan Manipulatif: Berjalan",
+        "correctItem": "jalan",
+        "image": "/assets/games/kelas3/bukan.png"
+      },
+      {
+        "id": "t_auto_konsep_3_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_pjok"
+      },
+      {
+        "id": "t_auto_contoh_3_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Bergaya Hidup Aktif",
+    "cp": "Murid mampu berpartisipasi dalam aktivitas jasmani dan menjelaskan pengaruh aktivitas jasmani yang teratur terhadap kesehatan; mengidentifikasi rekomendasi aktivitas jasmani serta pencegahan perilaku sedenter.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pola Makan Sehat sesuai elemen Pemanfaatan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pola Makan Sehat."
+    ],
+    "game": [
+      "Drag pola hidup sehat"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "3_pjok_3",
+    "title": "Pola Makan Sehat",
+    "grade": 3,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🍎",
+    "instructions": "Pilih makanan yang sehat!",
+    "draggableItems": [
+      {
+        "id": "sayur",
+        "label": "Sayuran",
+        "image": "/assets/games/kelas3/sayur.png"
+      },
+      {
+        "id": "buah",
+        "label": "Buah-buahan",
+        "image": "/assets/games/kelas3/buah.png"
+      },
+      {
+        "id": "permen",
+        "label": "Permen",
+        "image": "/assets/games/kelas3/permen.png"
+      },
+      {
+        "id": "soda",
+        "label": "Minuman Bersoda",
+        "image": "/assets/games/kelas3/soda.png"
+      },
+      {
+        "id": "auto_konsep_3_pjok",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_sayur",
+        "label": "Sehat: Sayuran",
+        "correctItem": "sayur",
+        "image": "/assets/games/kelas3/sehat.png"
+      },
+      {
+        "id": "t_buah",
+        "label": "Sehat: Buah-buahan",
+        "correctItem": "buah",
+        "image": "/assets/games/kelas3/sehat.png"
+      },
+      {
+        "id": "t_permen",
+        "label": "Tidak Sehat: Permen",
+        "correctItem": "permen",
+        "image": "/assets/games/kelas3/tidak.png"
+      },
+      {
+        "id": "t_soda",
+        "label": "Tidak Sehat: Minuman Bersoda",
+        "correctItem": "soda",
+        "image": "/assets/games/kelas3/tidak.png"
+      },
+      {
+        "id": "t_auto_konsep_3_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Memilih Hidup yang Menyehatkan",
+    "cp": "Murid mampu mengidentifikasi dan menghubungkan antara gaya hidup, risiko kesehatan, dan aktivitas pencegahannya sesuai rekomendasi otoritas kesehatan; menjelaskan pola makan sehat untuk menunjang aktivitas jasmani berdasarkan informasi kandungan gizi pada makanan; dan mempraktikkan penanganan cedera sedang sesuai pemahaman cedera sedang sesuai pemahaman tentang prinsip pertolongan pertama.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kebersihan Diri sesuai elemen Pemanfaatan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kebersihan Diri."
+    ],
+    "game": [
+      "Drag pola hidup sehat"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "3_pjok_4",
+    "title": "Kebersihan Diri",
+    "grade": 3,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🚿",
+    "instructions": "Kapan kita harus melakukan ini?",
+    "draggableItems": [
+      {
+        "id": "mandi",
+        "label": "Mandi",
+        "image": "/assets/games/kelas3/mandi.png"
+      },
+      {
+        "id": "sikat",
+        "label": "Sikat Gigi",
+        "image": "/assets/games/kelas3/sikat.png"
+      },
+      {
+        "id": "auto_konsep_3_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_3_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_mandi",
+        "label": "2 kali sehari",
+        "correctItem": "mandi",
+        "image": "/assets/games/kelas3/t_mandi.png"
+      },
+      {
+        "id": "t_sikat",
+        "label": "Setelah makan & sebelum tidur",
+        "correctItem": "sikat",
+        "image": "/assets/games/kelas3/t_sikat.png"
+      },
+      {
+        "id": "t_auto_konsep_3_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_pjok"
+      },
+      {
+        "id": "t_auto_contoh_3_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_3_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_3_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Senam Ketangkasan sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Senam Ketangkasan."
+    ],
+    "game": [
+      "Drag gerakan olahraga"
+    ],
+    "vr": [
+      "Stadion Virtual"
+    ],
+    "id": "3_pjok_5",
+    "title": "Senam Ketangkasan",
+    "grade": 3,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🤸",
+    "instructions": "Pasangkan alat senam dengan namanya!",
+    "draggableItems": [
+      {
+        "id": "matras",
+        "label": "Matras",
+        "image": "/assets/games/kelas3/matras.png"
+      },
+      {
+        "id": "palang",
+        "label": "Palang Tunggal",
+        "image": "/assets/games/kelas3/palang.png"
+      },
+      {
+        "id": "auto_konsep_3_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_3_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_matras",
+        "label": "Alas untuk berguling",
+        "correctItem": "matras",
+        "image": "/assets/games/kelas3/t_matras.png"
+      },
+      {
+        "id": "t_palang",
+        "label": "Alat untuk bergantung",
+        "correctItem": "palang",
+        "image": "/assets/games/kelas3/t_palang.png"
+      },
+      {
+        "id": "t_auto_konsep_3_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_pjok"
+      },
+      {
+        "id": "t_auto_contoh_3_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_3_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_3_pjok"
+      }
+    ]
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Paragraf & Gagasan Pokok sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Paragraf & Gagasan Pokok."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "3_bi_1",
+    "title": "Paragraf & Gagasan Pokok",
+    "grade": 3,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📖",
+    "instructions": "Pasangkan kalimat dengan jenisnya!",
+    "draggableItems": [
+      {
+        "id": "utama",
+        "label": "Kalimat Utama",
+        "image": "/assets/games/kelas3/utama.png"
+      },
+      {
+        "id": "penjelas",
+        "label": "Kalimat Penjelas",
+        "image": "/assets/games/kelas3/penjelas.png"
+      },
+      {
+        "id": "auto_konsep_3_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_3_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_utama",
+        "label": "Berisi ide pokok paragraf",
+        "correctItem": "utama",
+        "image": "/assets/games/kelas3/t_utama.png"
+      },
+      {
+        "id": "t_penjelas",
+        "label": "Menjelaskan ide pokok",
+        "correctItem": "penjelas",
+        "image": "/assets/games/kelas3/t_penjelas.png"
+      },
+      {
+        "id": "t_auto_konsep_3_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_3_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_3_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_3_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kata Depan di & ke sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kata Depan di & ke."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "3_bi_2",
+    "title": "Kata Depan di & ke",
+    "grade": 3,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "📍",
+    "instructions": "Lengkapi kalimat dengan kata depan yang tepat!",
+    "draggableItems": [
+      {
+        "id": "di",
+        "label": "di",
+        "image": "/assets/games/kelas3/di.png"
+      },
+      {
+        "id": "ke",
+        "label": "ke",
+        "image": "/assets/games/kelas3/ke.png"
+      },
+      {
+        "id": "auto_konsep_3_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_bahasa_indonesia",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_3_bahasa_indonesia",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_di",
+        "label": "Budi bermain ... lapangan",
+        "correctItem": "di",
+        "image": "/assets/games/kelas3/t_di.png"
+      },
+      {
+        "id": "t_ke",
+        "label": "Ayah pergi ... kantor",
+        "correctItem": "ke",
+        "image": "/assets/games/kelas3/t_ke.png"
+      },
+      {
+        "id": "t_auto_konsep_3_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_3_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_manfaat_3_bahasa_indonesia",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_3_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Dongeng & Fabel sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Dongeng & Fabel."
+    ],
+    "game": [
+      "Drag ide pokok"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "3_bi_3",
+    "title": "Dongeng & Fabel",
+    "grade": 3,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "🦊",
+    "instructions": "Kelompokkan tokoh cerita berdasarkan jenisnya!",
+    "draggableItems": [
+      {
+        "id": "kancil",
+        "label": "Kancil",
+        "image": "/assets/games/kelas3/kancil.png"
+      },
+      {
+        "id": "buaya",
+        "label": "Buaya",
+        "image": "/assets/games/kelas3/buaya.png"
+      },
+      {
+        "id": "bawang",
+        "label": "Bawang Putih",
+        "image": "/assets/games/kelas3/bawang.png"
+      },
+      {
+        "id": "sangkuriang",
+        "label": "Sangkuriang",
+        "image": "/assets/games/kelas3/sangkuriang.png"
+      },
+      {
+        "id": "auto_konsep_3_bahasa_indonesia",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_kancil",
+        "label": "Fabel (Hewan): Kancil",
+        "correctItem": "kancil",
+        "image": "/assets/games/kelas3/fabel.png"
+      },
+      {
+        "id": "t_buaya",
+        "label": "Fabel (Hewan): Buaya",
+        "correctItem": "buaya",
+        "image": "/assets/games/kelas3/fabel.png"
+      },
+      {
+        "id": "t_bawang",
+        "label": "Dongeng (Manusia): Bawang Putih",
+        "correctItem": "bawang",
+        "image": "/assets/games/kelas3/dongeng.png"
+      },
+      {
+        "id": "t_sangkuriang",
+        "label": "Dongeng (Manusia): Sangkuriang",
+        "correctItem": "sangkuriang",
+        "image": "/assets/games/kelas3/dongeng.png"
+      },
+      {
+        "id": "t_auto_konsep_3_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Antonim & Sinonim sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Antonim & Sinonim."
+    ],
+    "game": [
+      "Drag kata"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "3_bi_4",
+    "title": "Antonim & Sinonim",
+    "grade": 3,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "🔄",
+    "instructions": "Pasangkan kata dengan sinonimnya!",
+    "draggableItems": [
+      {
+        "id": "pintar",
+        "label": "Pandai",
+        "image": "/assets/games/kelas3/pintar.png"
+      },
+      {
+        "id": "senang",
+        "label": "Gembira",
+        "image": "/assets/games/kelas3/senang.png"
+      },
+      {
+        "id": "cepat",
+        "label": "Lekas",
+        "image": "/assets/games/kelas3/cepat.png"
+      },
+      {
+        "id": "auto_konsep_3_bahasa_indonesia",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_bahasa_indonesia",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_pintar",
+        "label": "Pintar",
+        "correctItem": "pintar",
+        "image": "/assets/games/kelas3/t_pintar.png"
+      },
+      {
+        "id": "t_senang",
+        "label": "Senang",
+        "correctItem": "senang",
+        "image": "/assets/games/kelas3/t_senang.png"
+      },
+      {
+        "id": "t_cepat",
+        "label": "Cepat",
+        "correctItem": "cepat",
+        "image": "/assets/games/kelas3/t_cepat.png"
+      },
+      {
+        "id": "t_auto_konsep_3_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_bahasa_indonesia"
+      },
+      {
+        "id": "t_auto_contoh_3_bahasa_indonesia",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_bahasa_indonesia"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Indonesia",
+    "elemenCP": "Membaca dan Memirsa",
+    "cp": "Murid mampu membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Penggunaan Huruf Kapital sesuai elemen Membaca dan Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Penggunaan Huruf Kapital."
+    ],
+    "game": [
+      "Drag huruf"
+    ],
+    "vr": [
+      "Dunia Literasi"
+    ],
+    "id": "3_bi_5",
+    "title": "Penggunaan Huruf Kapital",
+    "grade": 3,
+    "subject": "Bahasa Indonesia",
+    "level": "Sedang",
+    "emoji": "🔠",
+    "instructions": "Kapan huruf kapital digunakan?",
+    "draggableItems": [
+      {
+        "id": "awal",
+        "label": "Awal Kalimat",
+        "image": "/assets/games/kelas3/awal.png"
+      },
+      {
+        "id": "nama",
+        "label": "Nama Orang",
+        "image": "/assets/games/kelas3/nama.png"
+      },
+      {
+        "id": "warna",
+        "label": "Warna Baju",
+        "image": "/assets/games/kelas3/warna.png"
+      },
+      {
+        "id": "buah",
+        "label": "Nama Buah",
+        "image": "/assets/games/kelas3/buah.png"
+      },
+      {
+        "id": "auto_konsep_3_bahasa_indonesia",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_awal",
+        "label": "Gunakan Kapital: Awal Kalimat",
+        "correctItem": "awal",
+        "image": "/assets/games/kelas3/ya.png"
+      },
+      {
+        "id": "t_nama",
+        "label": "Gunakan Kapital: Nama Orang",
+        "correctItem": "nama",
+        "image": "/assets/games/kelas3/ya.png"
+      },
+      {
+        "id": "t_warna",
+        "label": "Huruf Kecil Saja: Warna Baju",
+        "correctItem": "warna",
+        "image": "/assets/games/kelas3/tidak.png"
+      },
+      {
+        "id": "t_buah",
+        "label": "Huruf Kecil Saja: Nama Buah",
+        "correctItem": "buah",
+        "image": "/assets/games/kelas3/tidak.png"
+      },
+      {
+        "id": "t_auto_konsep_3_bahasa_indonesia",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_bahasa_indonesia"
+      }
+    ]
+  }
+]

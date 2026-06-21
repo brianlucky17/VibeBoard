@@ -1,0 +1,393 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu memiliki pemahaman dan instuisi bilangan (number sense) pada bilangan cacah sampai 10.000; membaca, menulis, membandingkan, dan mengurutkan bilangan; menentukan dan menggunakan nilai tempat; melakukan komposisi dan dekomposisi bilangan cacah sampai 10.000. Murid dapat melakukan dan menyelesaikan masalah operasi bilangan penjumlahan dan pengurangan bilangan cacah sampai 1.000; melakukan dan menyelesaikan masalah operasi perkalian dan pembagian bilangan cacah sampai 100 dengan bantuan benda konkret, gambar dan simbol; mengenal kelipatan dan faktor. Murid dapat melakukan perbandingan dan penguatan pecahan dengan pembilang atau dua antar pecahan dengan penyebut yang sama; mengenal urutan pecahan dan pecahan senilai, memiliki intuisi pecahan dan desimal, serta dapat menentukan pecahan sebagai desimal dan persen.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pecahan Senilai sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pecahan Senilai."
+    ],
+    "game": [
+      "Drag angka"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "4_mat_1",
+    "title": "Pecahan Senilai",
+    "grade": 4,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "🍰",
+    "instructions": "Pasangkan pecahan yang senilai!",
+    "draggableItems": [
+      {
+        "id": "p24",
+        "label": "2/4",
+        "image": "/assets/games/kelas4/p24.png"
+      },
+      {
+        "id": "p36",
+        "label": "3/6",
+        "image": "/assets/games/kelas4/p36.png"
+      },
+      {
+        "id": "p23",
+        "label": "2/3",
+        "image": "/assets/games/kelas4/p23.png"
+      },
+      {
+        "id": "auto_konsep_4_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_matematika",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_p24",
+        "label": "Senilai dengan 1/2: 2/4",
+        "correctItem": "p24",
+        "image": "/assets/games/kelas4/t_12.png"
+      },
+      {
+        "id": "t_p36",
+        "label": "Senilai dengan 1/2: 3/6",
+        "correctItem": "p36",
+        "image": "/assets/games/kelas4/t_12.png"
+      },
+      {
+        "id": "t_p23",
+        "label": "Lainnya",
+        "correctItem": "p23",
+        "image": "/assets/games/kelas4/t_lain.png"
+      },
+      {
+        "id": "t_auto_konsep_4_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_matematika"
+      },
+      {
+        "id": "t_auto_contoh_4_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu memiliki pemahaman dan instuisi bilangan (number sense) pada bilangan cacah sampai 10.000; membaca, menulis, membandingkan, dan mengurutkan bilangan; menentukan dan menggunakan nilai tempat; melakukan komposisi dan dekomposisi bilangan cacah sampai 10.000. Murid dapat melakukan dan menyelesaikan masalah operasi bilangan penjumlahan dan pengurangan bilangan cacah sampai 1.000; melakukan dan menyelesaikan masalah operasi perkalian dan pembagian bilangan cacah sampai 100 dengan bantuan benda konkret, gambar dan simbol; mengenal kelipatan dan faktor. Murid dapat melakukan perbandingan dan penguatan pecahan dengan pembilang atau dua antar pecahan dengan penyebut yang sama; mengenal urutan pecahan dan pecahan senilai, memiliki intuisi pecahan dan desimal, serta dapat menentukan pecahan sebagai desimal dan persen.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Keliling Persegi sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Keliling Persegi."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "4_mat_2",
+    "title": "Keliling Persegi",
+    "grade": 4,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "⏹️",
+    "instructions": "Hitung keliling persegi!",
+    "draggableItems": [
+      {
+        "id": "k20",
+        "label": "20 cm",
+        "image": "/assets/games/kelas4/k20.png"
+      },
+      {
+        "id": "k40",
+        "label": "40 cm",
+        "image": "/assets/games/kelas4/k40.png"
+      },
+      {
+        "id": "auto_konsep_4_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_k20",
+        "label": "Sisi 5 cm = ?",
+        "correctItem": "k20",
+        "image": "/assets/games/kelas4/t_5.png"
+      },
+      {
+        "id": "t_k40",
+        "label": "Sisi 10 cm = ?",
+        "correctItem": "k40",
+        "image": "/assets/games/kelas4/t_10.png"
+      },
+      {
+        "id": "t_auto_konsep_4_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_matematika"
+      },
+      {
+        "id": "t_auto_contoh_4_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_4_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Pengukuran",
+    "cp": "Murid mampu mengukur panjang dan berat benda menggunakan satuan baku; menentukan hubungan antar-satuan baku panjang (cm, m) dan antar-satuan berat (g, kg); serta mengukur dan mengestimasi luas dan volume menggunakan satuan tidak baku dan satuan baku berupa bilangan cacah.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Luas Persegi Panjang sesuai elemen Pengukuran.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Luas Persegi Panjang."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "4_mat_3",
+    "title": "Luas Persegi Panjang",
+    "grade": 4,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "▭",
+    "instructions": "Hitung luasnya!",
+    "draggableItems": [
+      {
+        "id": "l50",
+        "label": "50 cm2",
+        "image": "/assets/games/kelas4/l50.png"
+      },
+      {
+        "id": "l24",
+        "label": "24 cm2",
+        "image": "/assets/games/kelas4/l24.png"
+      },
+      {
+        "id": "auto_konsep_4_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_matematika",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_matematika",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_l50",
+        "label": "10 cm x 5 cm = ?",
+        "correctItem": "l50",
+        "image": "/assets/games/kelas4/t_10x5.png"
+      },
+      {
+        "id": "t_l24",
+        "label": "6 cm x 4 cm = ?",
+        "correctItem": "l24",
+        "image": "/assets/games/kelas4/t_6x4.png"
+      },
+      {
+        "id": "t_auto_konsep_4_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_matematika"
+      },
+      {
+        "id": "t_auto_contoh_4_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_matematika"
+      },
+      {
+        "id": "t_auto_manfaat_4_matematika",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu memiliki pemahaman dan instuisi bilangan (number sense) pada bilangan cacah sampai 10.000; membaca, menulis, membandingkan, dan mengurutkan bilangan; menentukan dan menggunakan nilai tempat; melakukan komposisi dan dekomposisi bilangan cacah sampai 10.000. Murid dapat melakukan dan menyelesaikan masalah operasi bilangan penjumlahan dan pengurangan bilangan cacah sampai 1.000; melakukan dan menyelesaikan masalah operasi perkalian dan pembagian bilangan cacah sampai 100 dengan bantuan benda konkret, gambar dan simbol; mengenal kelipatan dan faktor. Murid dapat melakukan perbandingan dan penguatan pecahan dengan pembilang atau dua antar pecahan dengan penyebut yang sama; mengenal urutan pecahan dan pecahan senilai, memiliki intuisi pecahan dan desimal, serta dapat menentukan pecahan sebagai desimal dan persen.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sudut sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sudut."
+    ],
+    "game": [
+      "Drag bangun datar"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "4_mat_4",
+    "title": "Sudut",
+    "grade": 4,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "📐",
+    "instructions": "Kelompokkan jenis sudut!",
+    "draggableItems": [
+      {
+        "id": "lancip",
+        "label": "45 derajat",
+        "image": "/assets/games/kelas4/lancip.png"
+      },
+      {
+        "id": "tumpul",
+        "label": "120 derajat",
+        "image": "/assets/games/kelas4/tumpul.png"
+      },
+      {
+        "id": "siku",
+        "label": "90 derajat",
+        "image": "/assets/games/kelas4/siku.png"
+      },
+      {
+        "id": "auto_konsep_4_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_matematika",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_lancip",
+        "label": "Sudut Lancip",
+        "correctItem": "lancip",
+        "image": "/assets/games/kelas4/t_lancip.png"
+      },
+      {
+        "id": "t_tumpul",
+        "label": "Sudut Tumpul",
+        "correctItem": "tumpul",
+        "image": "/assets/games/kelas4/t_tumpul.png"
+      },
+      {
+        "id": "t_siku",
+        "label": "Sudut Siku-siku",
+        "correctItem": "siku",
+        "image": "/assets/games/kelas4/t_siku.png"
+      },
+      {
+        "id": "t_auto_konsep_4_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_matematika"
+      },
+      {
+        "id": "t_auto_contoh_4_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_matematika"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Matematika",
+    "elemenCP": "Bilangan",
+    "cp": "Murid mampu memiliki pemahaman dan instuisi bilangan (number sense) pada bilangan cacah sampai 10.000; membaca, menulis, membandingkan, dan mengurutkan bilangan; menentukan dan menggunakan nilai tempat; melakukan komposisi dan dekomposisi bilangan cacah sampai 10.000. Murid dapat melakukan dan menyelesaikan masalah operasi bilangan penjumlahan dan pengurangan bilangan cacah sampai 1.000; melakukan dan menyelesaikan masalah operasi perkalian dan pembagian bilangan cacah sampai 100 dengan bantuan benda konkret, gambar dan simbol; mengenal kelipatan dan faktor. Murid dapat melakukan perbandingan dan penguatan pecahan dengan pembilang atau dua antar pecahan dengan penyebut yang sama; mengenal urutan pecahan dan pecahan senilai, memiliki intuisi pecahan dan desimal, serta dapat menentukan pecahan sebagai desimal dan persen.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Bilangan Romawi sesuai elemen Bilangan.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Bilangan Romawi."
+    ],
+    "game": [
+      "Drag angka"
+    ],
+    "vr": [
+      "Dunia Angka"
+    ],
+    "id": "4_mat_5",
+    "title": "Bilangan Romawi",
+    "grade": 4,
+    "subject": "Matematika",
+    "level": "Sedang",
+    "emoji": "🏛️",
+    "instructions": "Pasangkan angka romawi!",
+    "draggableItems": [
+      {
+        "id": "v",
+        "label": "V",
+        "image": "/assets/games/kelas4/v.png"
+      },
+      {
+        "id": "x",
+        "label": "X",
+        "image": "/assets/games/kelas4/x.png"
+      },
+      {
+        "id": "l",
+        "label": "L",
+        "image": "/assets/games/kelas4/l.png"
+      },
+      {
+        "id": "auto_konsep_4_matematika",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_matematika",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_v",
+        "label": "5",
+        "correctItem": "v",
+        "image": "/assets/games/kelas4/t_5.png"
+      },
+      {
+        "id": "t_x",
+        "label": "10",
+        "correctItem": "x",
+        "image": "/assets/games/kelas4/t_10.png"
+      },
+      {
+        "id": "t_l",
+        "label": "50",
+        "correctItem": "l",
+        "image": "/assets/games/kelas4/t_50.png"
+      },
+      {
+        "id": "t_auto_konsep_4_matematika",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_matematika"
+      },
+      {
+        "id": "t_auto_contoh_4_matematika",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_matematika"
+      }
+    ]
+  }
+]

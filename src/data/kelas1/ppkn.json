@@ -1,0 +1,415 @@
+[
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu mengenal bendera negara, lagu kebangsaan, simbol dan sila-sila Pancasila dalam lambang negara Garuda Pancasila dan simbol Pancasila beserta sila-sila Pancasila; menerapkan nilai-nilai Pancasila di lingkungan keluarga.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Perilaku Baik & Buruk sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Perilaku Baik & Buruk."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "1_ppkn_1",
+    "title": "Perilaku Baik & Buruk",
+    "grade": 1,
+    "subject": "PPKn",
+    "level": "Mudah",
+    "emoji": "🤝",
+    "instructions": "Seret kartu ke kotak BAIK atau BURUK!",
+    "draggableItems": [
+      {
+        "id": "menyapa",
+        "label": "👋 Menyapa teman",
+        "image": "/assets/games/kelas1/menyapa.png"
+      },
+      {
+        "id": "berbagi",
+        "label": "🎁 Berbagi makanan",
+        "image": "/assets/games/kelas1/berbagi.png"
+      },
+      {
+        "id": "menolong",
+        "label": "🙌 Menolong teman jatuh",
+        "image": "/assets/games/kelas1/menolong.png"
+      },
+      {
+        "id": "memukul",
+        "label": "👊 Memukul teman",
+        "image": "/assets/games/kelas1/memukul.png"
+      },
+      {
+        "id": "mencuri",
+        "label": "🤏 Mengambil barang orang",
+        "image": "/assets/games/kelas1/mencuri.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_menyapa",
+        "label": "💚 Perilaku BAIK: 👋 Menyapa teman",
+        "correctItem": "menyapa",
+        "image": "/assets/games/kelas1/baik.png"
+      },
+      {
+        "id": "t_berbagi",
+        "label": "💚 Perilaku BAIK: 🎁 Berbagi makanan",
+        "correctItem": "berbagi",
+        "image": "/assets/games/kelas1/baik.png"
+      },
+      {
+        "id": "t_menolong",
+        "label": "💚 Perilaku BAIK: 🙌 Menolong teman jatuh",
+        "correctItem": "menolong",
+        "image": "/assets/games/kelas1/baik.png"
+      },
+      {
+        "id": "t_memukul",
+        "label": "❌ Perilaku BURUK: 👊 Memukul teman",
+        "correctItem": "memukul",
+        "image": "/assets/games/kelas1/buruk.png"
+      },
+      {
+        "id": "t_mencuri",
+        "label": "❌ Perilaku BURUK: 🤏 Mengambil barang orang",
+        "correctItem": "mencuri",
+        "image": "/assets/games/kelas1/buruk.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu mengenal bendera negara, lagu kebangsaan, simbol dan sila-sila Pancasila dalam lambang negara Garuda Pancasila dan simbol Pancasila beserta sila-sila Pancasila; menerapkan nilai-nilai Pancasila di lingkungan keluarga.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Simbol Pancasila sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Simbol Pancasila."
+    ],
+    "game": [
+      "Drag simbol sila"
+    ],
+    "vr": [
+      "Museum Pancasila"
+    ],
+    "id": "1_ppkn_2",
+    "title": "Simbol Pancasila",
+    "grade": 1,
+    "subject": "PPKn",
+    "level": "Mudah",
+    "emoji": "🦅",
+    "instructions": "Cocokkan simbol ke Sila Pancasila yang tepat!",
+    "draggableItems": [
+      {
+        "id": "bintang",
+        "label": "⭐ Bintang",
+        "image": "/assets/games/kelas1/bintang.png"
+      },
+      {
+        "id": "rantai",
+        "label": "⛓️ Rantai",
+        "image": "/assets/games/kelas1/rantai.png"
+      },
+      {
+        "id": "beringin",
+        "label": "🌳 Pohon Beringin",
+        "image": "/assets/games/kelas1/beringin.png"
+      },
+      {
+        "id": "banteng",
+        "label": "🐂 Kepala Banteng",
+        "image": "/assets/games/kelas1/banteng.png"
+      },
+      {
+        "id": "padi",
+        "label": "🌾 Padi & Kapas",
+        "image": "/assets/games/kelas1/padi.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bintang",
+        "label": "Sila ke-1",
+        "correctItem": "bintang",
+        "image": "/assets/games/kelas1/sila1.png"
+      },
+      {
+        "id": "t_rantai",
+        "label": "Sila ke-2",
+        "correctItem": "rantai",
+        "image": "/assets/games/kelas1/sila2.png"
+      },
+      {
+        "id": "t_beringin",
+        "label": "Sila ke-3",
+        "correctItem": "beringin",
+        "image": "/assets/games/kelas1/sila3.png"
+      },
+      {
+        "id": "t_banteng",
+        "label": "Sila ke-4",
+        "correctItem": "banteng",
+        "image": "/assets/games/kelas1/sila4.png"
+      },
+      {
+        "id": "t_padi",
+        "label": "Sila ke-5",
+        "correctItem": "padi",
+        "image": "/assets/games/kelas1/sila5.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu mengenal bendera negara, lagu kebangsaan, simbol dan sila-sila Pancasila dalam lambang negara Garuda Pancasila dan simbol Pancasila beserta sila-sila Pancasila; menerapkan nilai-nilai Pancasila di lingkungan keluarga.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Warna Bendera Indonesia sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Warna Bendera Indonesia."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "1_ppkn_3",
+    "title": "Warna Bendera Indonesia",
+    "grade": 1,
+    "subject": "PPKn",
+    "level": "Mudah",
+    "emoji": "🇮🇩",
+    "instructions": "Seret warna yang benar ke bagian bendera!",
+    "draggableItems": [
+      {
+        "id": "merah",
+        "label": "🔴 Merah",
+        "image": "/assets/games/kelas1/merah.png"
+      },
+      {
+        "id": "putih",
+        "label": "⬜ Putih",
+        "image": "/assets/games/kelas1/putih.png"
+      },
+      {
+        "id": "biru",
+        "label": "🔵 Biru",
+        "image": "/assets/games/kelas1/biru.png"
+      },
+      {
+        "id": "hijau",
+        "label": "🟢 Hijau",
+        "image": "/assets/games/kelas1/hijau.png"
+      },
+      {
+        "id": "auto_konsep_1_ppkn",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_merah",
+        "label": "🔝 Bagian Atas",
+        "correctItem": "merah",
+        "image": "/assets/games/kelas1/atas.png"
+      },
+      {
+        "id": "t_putih",
+        "label": "🔽 Bagian Bawah",
+        "correctItem": "putih",
+        "image": "/assets/games/kelas1/bawah.png"
+      },
+      {
+        "id": "t_biru",
+        "label": "Pasangkan: 🔵 Biru",
+        "correctItem": "biru",
+        "image": "/assets/games/kelas1/biru.png"
+      },
+      {
+        "id": "t_hijau",
+        "label": "Pasangkan: 🟢 Hijau",
+        "correctItem": "hijau",
+        "image": "/assets/games/kelas1/hijau.png"
+      },
+      {
+        "id": "t_auto_konsep_1_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+    "cp": "Murid mampu mengenal aturan di lingkungan keluarga; menunjukkan dan menceritakan sikap mematuhi aturan di lingkungan keluarga.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Aturan di Sekolah sesuai elemen Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Aturan di Sekolah."
+    ],
+    "game": [
+      "Drag hak dan kewajiban"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "1_ppkn_4",
+    "title": "Aturan di Sekolah",
+    "grade": 1,
+    "subject": "PPKn",
+    "level": "Mudah",
+    "emoji": "🏫",
+    "instructions": "Seret kegiatan ke BOLEH atau TIDAK BOLEH di sekolah!",
+    "draggableItems": [
+      {
+        "id": "duduk",
+        "label": "🪑 Duduk rapi di kelas",
+        "image": "/assets/games/kelas1/duduk.png"
+      },
+      {
+        "id": "angkat",
+        "label": "✋ Angkat tangan saat bertanya",
+        "image": "/assets/games/kelas1/angkat.png"
+      },
+      {
+        "id": "buang",
+        "label": "🗑️ Buang sampah di tempatnya",
+        "image": "/assets/games/kelas1/buang.png"
+      },
+      {
+        "id": "berlari",
+        "label": "🏃 Berlari di dalam kelas",
+        "image": "/assets/games/kelas1/berlari.png"
+      },
+      {
+        "id": "corat",
+        "label": "✏️ Corat-coret meja",
+        "image": "/assets/games/kelas1/corat.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_duduk",
+        "label": "✅ BOLEH: 🪑 Duduk rapi di kelas",
+        "correctItem": "duduk",
+        "image": "/assets/games/kelas1/boleh.png"
+      },
+      {
+        "id": "t_angkat",
+        "label": "✅ BOLEH: ✋ Angkat tangan saat bertanya",
+        "correctItem": "angkat",
+        "image": "/assets/games/kelas1/boleh.png"
+      },
+      {
+        "id": "t_buang",
+        "label": "✅ BOLEH: 🗑️ Buang sampah di tempatnya",
+        "correctItem": "buang",
+        "image": "/assets/games/kelas1/boleh.png"
+      },
+      {
+        "id": "t_berlari",
+        "label": "🚫 TIDAK BOLEH: 🏃 Berlari di dalam kelas",
+        "correctItem": "berlari",
+        "image": "/assets/games/kelas1/tidak.png"
+      },
+      {
+        "id": "t_corat",
+        "label": "🚫 TIDAK BOLEH: ✏️ Corat-coret meja",
+        "correctItem": "corat",
+        "image": "/assets/games/kelas1/tidak.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+    "cp": "Murid mampu mengenal aturan di lingkungan keluarga; menunjukkan dan menceritakan sikap mematuhi aturan di lingkungan keluarga.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Hak & Kewajiban Siswa sesuai elemen Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Hak & Kewajiban Siswa."
+    ],
+    "game": [
+      "Drag hak dan kewajiban"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "1_ppkn_5",
+    "title": "Hak & Kewajiban Siswa",
+    "grade": 1,
+    "subject": "PPKn",
+    "level": "Mudah",
+    "emoji": "📜",
+    "instructions": "Seret kegiatan ke kotak HAK atau KEWAJIBAN!",
+    "draggableItems": [
+      {
+        "id": "belajar_hak",
+        "label": "📖 Mendapat ilmu",
+        "image": "/assets/games/kelas1/belajar_hak.png"
+      },
+      {
+        "id": "istirahat",
+        "label": "😴 Istirahat di sekolah",
+        "image": "/assets/games/kelas1/istirahat.png"
+      },
+      {
+        "id": "nilai",
+        "label": "⭐ Mendapat nilai",
+        "image": "/assets/games/kelas1/nilai.png"
+      },
+      {
+        "id": "pr",
+        "label": "✏️ Mengerjakan PR",
+        "image": "/assets/games/kelas1/pr.png"
+      },
+      {
+        "id": "seragam",
+        "label": "👕 Memakai seragam",
+        "image": "/assets/games/kelas1/seragam.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_belajar_hak",
+        "label": "🟦 HAK Siswa: 📖 Mendapat ilmu",
+        "correctItem": "belajar_hak",
+        "image": "/assets/games/kelas1/hak.png"
+      },
+      {
+        "id": "t_istirahat",
+        "label": "🟦 HAK Siswa: 😴 Istirahat di sekolah",
+        "correctItem": "istirahat",
+        "image": "/assets/games/kelas1/hak.png"
+      },
+      {
+        "id": "t_nilai",
+        "label": "🟦 HAK Siswa: ⭐ Mendapat nilai",
+        "correctItem": "nilai",
+        "image": "/assets/games/kelas1/hak.png"
+      },
+      {
+        "id": "t_pr",
+        "label": "🟧 KEWAJIBAN Siswa: ✏️ Mengerjakan PR",
+        "correctItem": "pr",
+        "image": "/assets/games/kelas1/wajib.png"
+      },
+      {
+        "id": "t_seragam",
+        "label": "🟧 KEWAJIBAN Siswa: 👕 Memakai seragam",
+        "correctItem": "seragam",
+        "image": "/assets/games/kelas1/wajib.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,403 @@
+[
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Cabang Olahraga Tim sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Cabang Olahraga Tim."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "2_pjok_1",
+    "title": "Cabang Olahraga Tim",
+    "grade": 2,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "⚽",
+    "instructions": "Cocokkan olahraga tim ke alatnya!",
+    "draggableItems": [
+      {
+        "id": "bola_s",
+        "label": "⚽ Bola bulat",
+        "image": "/assets/games/kelas2/bola_s.png"
+      },
+      {
+        "id": "bola_v",
+        "label": "🏐 Bola voli",
+        "image": "/assets/games/kelas2/bola_v.png"
+      },
+      {
+        "id": "stik_h",
+        "label": "🏑 Stik hoki",
+        "image": "/assets/games/kelas2/stik_h.png"
+      },
+      {
+        "id": "auto_konsep_2_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_2_pjok",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bola_s",
+        "label": "Sepak bola (11 orang)",
+        "correctItem": "bola_s",
+        "image": "/assets/games/kelas2/t_sepak.png"
+      },
+      {
+        "id": "t_bola_v",
+        "label": "Voli (6 orang)",
+        "correctItem": "bola_v",
+        "image": "/assets/games/kelas2/t_voli.png"
+      },
+      {
+        "id": "t_stik_h",
+        "label": "Hoki lapangan",
+        "correctItem": "stik_h",
+        "image": "/assets/games/kelas2/t_hoki.png"
+      },
+      {
+        "id": "t_auto_konsep_2_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_2_pjok"
+      },
+      {
+        "id": "t_auto_contoh_2_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_2_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pemanasan & Pendinginan sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pemanasan & Pendinginan."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "2_pjok_2",
+    "title": "Pemanasan & Pendinginan",
+    "grade": 2,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🏃‍♂️",
+    "instructions": "Urutkan tahap olahraga yang benar!",
+    "draggableItems": [
+      {
+        "id": "pemanasan",
+        "label": "🤸 Pemanasan",
+        "image": "/assets/games/kelas2/pemanasan.png"
+      },
+      {
+        "id": "utama",
+        "label": "⚽ Olahraga utama",
+        "image": "/assets/games/kelas2/utama.png"
+      },
+      {
+        "id": "pendingin",
+        "label": "😮‍💨 Pendinginan",
+        "image": "/assets/games/kelas2/pendingin.png"
+      },
+      {
+        "id": "auto_konsep_2_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_2_pjok",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_pemanasan",
+        "label": "1️⃣ Sebelum main",
+        "correctItem": "pemanasan",
+        "image": "/assets/games/kelas2/l1.png"
+      },
+      {
+        "id": "t_utama",
+        "label": "2️⃣ Aktivitas utama",
+        "correctItem": "utama",
+        "image": "/assets/games/kelas2/l2.png"
+      },
+      {
+        "id": "t_pendingin",
+        "label": "3️⃣ Setelah main",
+        "correctItem": "pendingin",
+        "image": "/assets/games/kelas2/l3.png"
+      },
+      {
+        "id": "t_auto_konsep_2_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_2_pjok"
+      },
+      {
+        "id": "t_auto_contoh_2_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_2_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pola Makan Atlet sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pola Makan Atlet."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "2_pjok_3",
+    "title": "Pola Makan Atlet",
+    "grade": 2,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🥗",
+    "instructions": "Kelompokkan makanan untuk sebelum/sesudah olahraga!",
+    "draggableItems": [
+      {
+        "id": "pisang",
+        "label": "🍌 Pisang",
+        "image": "/assets/games/kelas2/pisang.png"
+      },
+      {
+        "id": "roti",
+        "label": "🍞 Roti",
+        "image": "/assets/games/kelas2/roti.png"
+      },
+      {
+        "id": "gorengan",
+        "label": "🍟 Gorengan",
+        "image": "/assets/games/kelas2/gorengan.png"
+      },
+      {
+        "id": "air",
+        "label": "💧 Air",
+        "image": "/assets/games/kelas2/air.png"
+      },
+      {
+        "id": "auto_konsep_2_pjok",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_pisang",
+        "label": "✅ Sebelum olahraga: 🍌 Pisang",
+        "correctItem": "pisang",
+        "image": "/assets/games/kelas2/sebelum.png"
+      },
+      {
+        "id": "t_roti",
+        "label": "✅ Sebelum olahraga: 🍞 Roti",
+        "correctItem": "roti",
+        "image": "/assets/games/kelas2/sebelum.png"
+      },
+      {
+        "id": "t_gorengan",
+        "label": "❌ Hindari: 🍟 Gorengan",
+        "correctItem": "gorengan",
+        "image": "/assets/games/kelas2/hindari.png"
+      },
+      {
+        "id": "t_air",
+        "label": "🔄 Selalu minum",
+        "correctItem": "air",
+        "image": "/assets/games/kelas2/selalu.png"
+      },
+      {
+        "id": "t_auto_konsep_2_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_2_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Gerakan Dasar Senam sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Gerakan Dasar Senam."
+    ],
+    "game": [
+      "Drag gerakan olahraga"
+    ],
+    "vr": [
+      "Stadion Virtual"
+    ],
+    "id": "2_pjok_4",
+    "title": "Gerakan Dasar Senam",
+    "grade": 2,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🤸",
+    "instructions": "Pasangkan nama gerakan senam!",
+    "draggableItems": [
+      {
+        "id": "lompat",
+        "label": "🦘 Lompat bintang",
+        "image": "/assets/games/kelas2/lompat.png"
+      },
+      {
+        "id": "pushup",
+        "label": "💪 Push-up",
+        "image": "/assets/games/kelas2/pushup.png"
+      },
+      {
+        "id": "plank",
+        "label": "🪵 Plank",
+        "image": "/assets/games/kelas2/plank.png"
+      },
+      {
+        "id": "stretch",
+        "label": "🧍 Stretch tangan",
+        "image": "/assets/games/kelas2/stretch.png"
+      },
+      {
+        "id": "auto_konsep_2_pjok",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_lompat",
+        "label": "Lompat sambil buka tangan",
+        "correctItem": "lompat",
+        "image": "/assets/games/kelas2/t1.png"
+      },
+      {
+        "id": "t_pushup",
+        "label": "Duduk lalu angkat badan",
+        "correctItem": "pushup",
+        "image": "/assets/games/kelas2/t2.png"
+      },
+      {
+        "id": "t_plank",
+        "label": "Tahan badan lurus",
+        "correctItem": "plank",
+        "image": "/assets/games/kelas2/t3.png"
+      },
+      {
+        "id": "t_stretch",
+        "label": "Tarik tangan ke atas",
+        "correctItem": "stretch",
+        "image": "/assets/games/kelas2/t4.png"
+      },
+      {
+        "id": "t_auto_konsep_2_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_2_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Aturan Permainan Bola sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Aturan Permainan Bola."
+    ],
+    "game": [
+      "Drag gerakan olahraga"
+    ],
+    "vr": [
+      "Stadion Virtual"
+    ],
+    "id": "2_pjok_5",
+    "title": "Aturan Permainan Bola",
+    "grade": 2,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "⚽",
+    "instructions": "Seret aturan yang benar/salah!",
+    "draggableItems": [
+      {
+        "id": "benar1",
+        "label": "✅ Pakai tangan (kiper)",
+        "image": "/assets/games/kelas2/benar1.png"
+      },
+      {
+        "id": "benar2",
+        "label": "✅ Lempar masuk dari garis",
+        "image": "/assets/games/kelas2/benar2.png"
+      },
+      {
+        "id": "salah1",
+        "label": "❌ Tendang lawan",
+        "image": "/assets/games/kelas2/salah1.png"
+      },
+      {
+        "id": "salah2",
+        "label": "❌ Pukul bola pakai tangan",
+        "image": "/assets/games/kelas2/salah2.png"
+      },
+      {
+        "id": "auto_konsep_2_pjok",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_benar1",
+        "label": "✅ BENAR: ✅ Pakai tangan (kiper)",
+        "correctItem": "benar1",
+        "image": "/assets/games/kelas2/benar.png"
+      },
+      {
+        "id": "t_benar2",
+        "label": "✅ BENAR: ✅ Lempar masuk dari garis",
+        "correctItem": "benar2",
+        "image": "/assets/games/kelas2/benar.png"
+      },
+      {
+        "id": "t_salah1",
+        "label": "❌ SALAH: ❌ Tendang lawan",
+        "correctItem": "salah1",
+        "image": "/assets/games/kelas2/salah.png"
+      },
+      {
+        "id": "t_salah2",
+        "label": "❌ SALAH: ❌ Pukul bola pakai tangan",
+        "correctItem": "salah2",
+        "image": "/assets/games/kelas2/salah.png"
+      },
+      {
+        "id": "t_auto_konsep_2_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_2_pjok"
+      }
+    ]
+  }
+]

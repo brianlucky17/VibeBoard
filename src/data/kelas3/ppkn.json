@@ -1,0 +1,397 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu mengidentifikasi makna sila-sila Pancasila, dan penerapannya dalam kehidupan sehari-hari; mengenal karakter para perumus Pancasila; menunjukkan sikap bangga menjadi anak Indonesia yang memiliki bahasa Indonesia sebagai bahasa persatuan di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sila Pancasila ke-3 & 4 sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sila Pancasila ke-3 & 4."
+    ],
+    "game": [
+      "Drag simbol sila"
+    ],
+    "vr": [
+      "Museum Pancasila"
+    ],
+    "id": "3_ppkn_1",
+    "title": "Sila Pancasila ke-3 & 4",
+    "grade": 3,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🦅",
+    "instructions": "Pasangkan lambang dengan sila yang benar!",
+    "draggableItems": [
+      {
+        "id": "pohon",
+        "label": "Pohon Beringin",
+        "image": "/assets/games/kelas3/pohon.png"
+      },
+      {
+        "id": "banteng",
+        "label": "Kepala Banteng",
+        "image": "/assets/games/kelas3/banteng.png"
+      },
+      {
+        "id": "auto_konsep_3_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_ppkn",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_3_ppkn",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_pohon",
+        "label": "Sila 3",
+        "correctItem": "pohon",
+        "image": "/assets/games/kelas3/sila3.png"
+      },
+      {
+        "id": "t_banteng",
+        "label": "Sila 4",
+        "correctItem": "banteng",
+        "image": "/assets/games/kelas3/sila4.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_3_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_ppkn"
+      },
+      {
+        "id": "t_auto_manfaat_3_ppkn",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_3_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+    "cp": "Murid mampu mengidentifikasi dan melaksanakan aturan di sekolah dan lingkungan tempat tinggal; mengidentifikasi dan menerapkan hak yang didapat dan kewajiban sebagai anggota keluarga dan sebagai warga sekolah.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Hak & Kewajiban Anak sesuai elemen Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Hak & Kewajiban Anak."
+    ],
+    "game": [
+      "Drag hak dan kewajiban"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "3_ppkn_2",
+    "title": "Hak & Kewajiban Anak",
+    "grade": 3,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "⚖️",
+    "instructions": "Kelompokkan hak dan kewajiban anak di rumah!",
+    "draggableItems": [
+      {
+        "id": "kasih_sayang",
+        "label": "Mendapat Kasih Sayang",
+        "image": "/assets/games/kelas3/kasih_sayang.png"
+      },
+      {
+        "id": "uang_jajan",
+        "label": "Mendapat Uang Jajan",
+        "image": "/assets/games/kelas3/uang_jajan.png"
+      },
+      {
+        "id": "belajar",
+        "label": "Belajar",
+        "image": "/assets/games/kelas3/belajar.png"
+      },
+      {
+        "id": "bantu_ortu",
+        "label": "Membantu Orang Tua",
+        "image": "/assets/games/kelas3/bantu_ortu.png"
+      },
+      {
+        "id": "auto_konsep_3_ppkn",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_kasih_sayang",
+        "label": "Hak: Mendapat Kasih Sayang",
+        "correctItem": "kasih_sayang",
+        "image": "/assets/games/kelas3/hak.png"
+      },
+      {
+        "id": "t_uang_jajan",
+        "label": "Hak: Mendapat Uang Jajan",
+        "correctItem": "uang_jajan",
+        "image": "/assets/games/kelas3/hak.png"
+      },
+      {
+        "id": "t_belajar",
+        "label": "Kewajiban: Belajar",
+        "correctItem": "belajar",
+        "image": "/assets/games/kelas3/kewajiban.png"
+      },
+      {
+        "id": "t_bantu_ortu",
+        "label": "Kewajiban: Membantu Orang Tua",
+        "correctItem": "bantu_ortu",
+        "image": "/assets/games/kelas3/kewajiban.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu mengidentifikasi makna sila-sila Pancasila, dan penerapannya dalam kehidupan sehari-hari; mengenal karakter para perumus Pancasila; menunjukkan sikap bangga menjadi anak Indonesia yang memiliki bahasa Indonesia sebagai bahasa persatuan di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Gotong Royong sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Gotong Royong."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "3_ppkn_3",
+    "title": "Gotong Royong",
+    "grade": 3,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🤝",
+    "instructions": "Cocokkan kegiatan gotong royong dengan tempatnya!",
+    "draggableItems": [
+      {
+        "id": "piket",
+        "label": "Piket Kelas",
+        "image": "/assets/games/kelas3/piket.png"
+      },
+      {
+        "id": "siskamling",
+        "label": "Ronda Malam",
+        "image": "/assets/games/kelas3/siskamling.png"
+      },
+      {
+        "id": "cuci_piring",
+        "label": "Cuci Piring",
+        "image": "/assets/games/kelas3/cuci_piring.png"
+      },
+      {
+        "id": "auto_konsep_3_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_ppkn",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_piket",
+        "label": "Di Sekolah",
+        "correctItem": "piket",
+        "image": "/assets/games/kelas3/sekolah.png"
+      },
+      {
+        "id": "t_siskamling",
+        "label": "Di Masyarakat",
+        "correctItem": "siskamling",
+        "image": "/assets/games/kelas3/masyarakat.png"
+      },
+      {
+        "id": "t_cuci_piring",
+        "label": "Di Rumah",
+        "correctItem": "cuci_piring",
+        "image": "/assets/games/kelas3/rumah.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_3_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu mengidentifikasi makna sila-sila Pancasila, dan penerapannya dalam kehidupan sehari-hari; mengenal karakter para perumus Pancasila; menunjukkan sikap bangga menjadi anak Indonesia yang memiliki bahasa Indonesia sebagai bahasa persatuan di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sumpah Pemuda sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sumpah Pemuda."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "3_ppkn_4",
+    "title": "Sumpah Pemuda",
+    "grade": 3,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "📜",
+    "instructions": "Lengkapi isi Sumpah Pemuda!",
+    "draggableItems": [
+      {
+        "id": "tanah",
+        "label": "Tanah Air",
+        "image": "/assets/games/kelas3/tanah.png"
+      },
+      {
+        "id": "bangsa",
+        "label": "Bangsa",
+        "image": "/assets/games/kelas3/bangsa.png"
+      },
+      {
+        "id": "bahasa",
+        "label": "Bahasa",
+        "image": "/assets/games/kelas3/bahasa.png"
+      },
+      {
+        "id": "auto_konsep_3_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_ppkn",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_tanah",
+        "label": "Bertumpah darah satu, ... Indonesia",
+        "correctItem": "tanah",
+        "image": "/assets/games/kelas3/t_tanah.png"
+      },
+      {
+        "id": "t_bangsa",
+        "label": "Berbangsa satu, ... Indonesia",
+        "correctItem": "bangsa",
+        "image": "/assets/games/kelas3/t_bangsa.png"
+      },
+      {
+        "id": "t_bahasa",
+        "label": "Menjunjung ... persatuan, Bahasa Indonesia",
+        "correctItem": "bahasa",
+        "image": "/assets/games/kelas3/t_bahasa.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_3_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_ppkn"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Pendidikan Pancasila",
+    "elemenCP": "Pancasila",
+    "cp": "Murid mampu mengidentifikasi makna sila-sila Pancasila, dan penerapannya dalam kehidupan sehari-hari; mengenal karakter para perumus Pancasila; menunjukkan sikap bangga menjadi anak Indonesia yang memiliki bahasa Indonesia sebagai bahasa persatuan di lingkungan sekitar.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sikap Toleransi sesuai elemen Pancasila.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sikap Toleransi."
+    ],
+    "game": [
+      "Drag keberagaman budaya"
+    ],
+    "vr": [
+      "Rumah Keberagaman"
+    ],
+    "id": "3_ppkn_5",
+    "title": "Sikap Toleransi",
+    "grade": 3,
+    "subject": "PPKn",
+    "level": "Sedang",
+    "emoji": "🕊️",
+    "instructions": "Tentukan sikap yang menunjukkan toleransi!",
+    "draggableItems": [
+      {
+        "id": "teman",
+        "label": "Bermain dengan semua teman",
+        "image": "/assets/games/kelas3/teman.png"
+      },
+      {
+        "id": "hargai",
+        "label": "Menghargai pendapat",
+        "image": "/assets/games/kelas3/hargai.png"
+      },
+      {
+        "id": "ejek",
+        "label": "Mengejek teman",
+        "image": "/assets/games/kelas3/ejek.png"
+      },
+      {
+        "id": "auto_konsep_3_ppkn",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_ppkn",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_teman",
+        "label": "Sikap Toleran: Bermain dengan semua teman",
+        "correctItem": "teman",
+        "image": "/assets/games/kelas3/toleran.png"
+      },
+      {
+        "id": "t_hargai",
+        "label": "Sikap Toleran: Menghargai pendapat",
+        "correctItem": "hargai",
+        "image": "/assets/games/kelas3/toleran.png"
+      },
+      {
+        "id": "t_ejek",
+        "label": "Tidak Toleran: Mengejek teman",
+        "correctItem": "ejek",
+        "image": "/assets/games/kelas3/tidak.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ppkn",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ppkn"
+      },
+      {
+        "id": "t_auto_contoh_3_ppkn",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_ppkn"
+      }
+    ]
+  }
+]

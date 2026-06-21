@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tata Surya Interaktif VR - VibeBoard</title>
+  
+  <!-- Fonts & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+  
+  <!-- Three.js Import Map -->
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+        "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+<body>
+
+  <!-- Loading Screen -->
+  <div id="loader-container">
+    <div class="loader-bg-effect"></div>
+    <div class="loader-content">
+      <div class="loader-logo">🪐</div>
+      <h1 class="loader-title">VibeBoard Space VR</h1>
+      <p class="loader-subtitle">Tata Surya Interaktif Kelas 4–6 SD</p>
+      
+      <div class="progress-bar-container">
+        <div id="progress-bar"></div>
+      </div>
+      <p id="loader-status">Menginisialisasi sistem...</p>
+      
+      <button id="start-btn" class="btn-primary" disabled>MULAI JELAJAH</button>
+    </div>
+  </div>
+
+  <!-- WebGL Canvas Container -->
+  <div id="canvas-container"></div>
+
+  <!-- Non-VR Screen HUD / Interface -->
+  <div id="hud-container">
+    
+    <!-- Top Bar Navigation & Info -->
+    <header class="hud-header">
+      <a href="/vr" id="back-btn" class="hud-btn text-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="icon-svg"><path d="m15 18-6-6 6-6"/></svg>
+        Kembali ke Dashboard
+      </a>
+      
+      <div class="header-title">
+        <h2>TATA SURYA INTERAKTIF</h2>
+        <span class="badge-tag">Materi IPA Kelas 4–6</span>
+      </div>
+      
+      <div id="vr-btn-placeholder">
+        <!-- VRButton will be inserted here by JS -->
+      </div>
+    </header>
+
+    <!-- Floating Hotspot Information Card (Desktop & Mobile view) -->
+    <section id="info-panel" class="info-card hide">
+      <div class="card-header">
+        <div class="title-wrap">
+          <span id="planet-emoji" class="planet-emoji">🌍</span>
+          <div>
+            <h3 id="planet-name">Bumi</h3>
+            <span id="planet-type" class="planet-tag">Planet Terestrial</span>
+          </div>
+        </div>
+        <button id="close-info-btn" class="icon-btn">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="icon-svg"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+
+      <div class="card-body">
+        <p id="planet-description">Bumi adalah planet ketiga dari Matahari dan merupakan satu-satunya tempat di alam semesta yang diketahui memiliki kehidupan.</p>
+        
+        <!-- Stats Grid -->
+        <div class="stats-grid">
+          <div class="stat-item">
+            <span class="stat-label">Diameter</span>
+            <span id="stat-diameter" class="stat-value">12,742 km</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-label">Suhu Rata-rata</span>
+            <span id="stat-temp" class="stat-value">15°C</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-label">Periode Orbit</span>
+            <span id="stat-orbit" class="stat-value">365 Hari</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-label">Satelit Alami</span>
+            <span id="stat-moons" class="stat-value">1 Bulan</span>
+          </div>
+        </div>
+
+        <!-- Fun Facts Slider / List -->
+        <div class="facts-section">
+          <h4>🌟 Tahukah Kamu?</h4>
+          <ul id="facts-list">
+            <li>Sekitar 71% permukaan Bumi ditutupi oleh air.</li>
+            <li>Atmosfer Bumi melindungi kita dari benturan meteor.</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Action Panel Buttons -->
+      <div class="card-actions">
+        <button id="prev-planet-btn" class="hud-btn">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="icon-svg"><path d="m15 18-6-6 6-6"/></svg>
+        </button>
+        
+        <button id="tts-btn" class="hud-btn flex-1 text-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="icon-svg"><path d="M11 5 6 9H2v6h4l5 4V5zM15.54 8.46a5 5 0 0 1 0 7.07M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
+          Dengarkan Penjelasan
+        </button>
+
+        <button id="next-planet-btn" class="hud-btn">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="icon-svg"><path d="m9 18 6-6-6-6"/></svg>
+        </button>
+      </div>
+    </section>
+
+    <!-- Simulation Settings / Controls -->
+    <div class="hud-controls-panel">
+      <!-- Play/Pause & Speed -->
+      <div class="control-group">
+        <button id="play-pause-btn" class="hud-btn-circle active" title="Putar/Jeda Orbit">
+          <svg id="play-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="icon-svg hide"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+          <svg id="pause-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="icon-svg"><rect x="14" y="4" width="4" height="16" rx="1"/><rect x="6" y="4" width="4" height="16" rx="1"/></svg>
+        </button>
+        
+        <div class="slider-wrap">
+          <span class="control-label">Kecepatan Orbit</span>
+          <input type="range" id="speed-slider" min="0" max="3" step="0.1" value="1.0">
+        </div>
+      </div>
+
+      <!-- Toggles -->
+      <div class="control-toggles">
+        <label class="toggle-switch">
+          <input type="checkbox" id="orbit-toggle" checked>
+          <span class="toggle-slider"></span>
+          Garasi Orbit
+        </label>
+        
+        <label class="toggle-switch">
+          <input type="checkbox" id="auto-rotate-toggle" checked>
+          <span class="toggle-slider"></span>
+          Putar Kamera
+        </label>
+      </div>
+
+      <button id="reset-view-btn" class="hud-btn text-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="icon-svg"><path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8m0 0V3m0 5h5"/></svg>
+        Reset Kamera
+      </button>
+    </div>
+
+    <!-- UI Hint Overlay (Help) -->
+    <div class="interaction-hint">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="icon-svg"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3M12 17h.01"/></svg>
+      <span>Klik planet untuk detail. Klik & seret untuk memutar kamera.</span>
+    </div>
+  </div>
+
+  <!-- Screen fade overlay for VR transition -->
+  <div id="fade-overlay"></div>
+
+  <!-- Main JavaScript App Code -->
+  <script type="module" src="app.js"></script>
+
+</body>
+</html>

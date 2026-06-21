@@ -1,0 +1,391 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Bagian Tumbuhan sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Bagian Tumbuhan."
+    ],
+    "game": [
+      "Drag rantai makanan"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "4_ipa_1",
+    "title": "Bagian Tumbuhan",
+    "grade": 4,
+    "subject": "IPA",
+    "level": "Sedang",
+    "emoji": "🌳",
+    "instructions": "Pasangkan bagian tumbuhan dengan fungsinya!",
+    "draggableItems": [
+      {
+        "id": "akar",
+        "label": "Menyerap air",
+        "image": "/assets/games/kelas4/akar.png"
+      },
+      {
+        "id": "daun",
+        "label": "Fotosintesis",
+        "image": "/assets/games/kelas4/daun.png"
+      },
+      {
+        "id": "bunga",
+        "label": "Alat reproduksi",
+        "image": "/assets/games/kelas4/bunga.png"
+      },
+      {
+        "id": "auto_konsep_4_ipa",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_ipa",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_akar",
+        "label": "Akar",
+        "correctItem": "akar",
+        "image": "/assets/games/kelas4/t_akar.png"
+      },
+      {
+        "id": "t_daun",
+        "label": "Daun",
+        "correctItem": "daun",
+        "image": "/assets/games/kelas4/t_daun.png"
+      },
+      {
+        "id": "t_bunga",
+        "label": "Bunga",
+        "correctItem": "bunga",
+        "image": "/assets/games/kelas4/t_bunga.png"
+      },
+      {
+        "id": "t_auto_konsep_4_ipa",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_ipa"
+      },
+      {
+        "id": "t_auto_contoh_4_ipa",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_ipa"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sumber Energi sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sumber Energi."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "4_ipa_2",
+    "title": "Sumber Energi",
+    "grade": 4,
+    "subject": "IPA",
+    "level": "Sedang",
+    "emoji": "⚡",
+    "instructions": "Kelompokkan sumber energi!",
+    "draggableItems": [
+      {
+        "id": "matahari",
+        "label": "Matahari",
+        "image": "/assets/games/kelas4/matahari.png"
+      },
+      {
+        "id": "angin",
+        "label": "Angin",
+        "image": "/assets/games/kelas4/angin.png"
+      },
+      {
+        "id": "batu_bara",
+        "label": "Batu Bara",
+        "image": "/assets/games/kelas4/batu_bara.png"
+      },
+      {
+        "id": "auto_konsep_4_ipa",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_ipa",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_matahari",
+        "label": "Dapat Diperbarui: Matahari",
+        "correctItem": "matahari",
+        "image": "/assets/games/kelas4/terbarukan.png"
+      },
+      {
+        "id": "t_angin",
+        "label": "Dapat Diperbarui: Angin",
+        "correctItem": "angin",
+        "image": "/assets/games/kelas4/terbarukan.png"
+      },
+      {
+        "id": "t_batu_bara",
+        "label": "Tidak Dapat Diperbarui",
+        "correctItem": "batu_bara",
+        "image": "/assets/games/kelas4/tidak.png"
+      },
+      {
+        "id": "t_auto_konsep_4_ipa",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_ipa"
+      },
+      {
+        "id": "t_auto_contoh_4_ipa",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_ipa"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Gaya sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Gaya."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "4_ipa_3",
+    "title": "Gaya",
+    "grade": 4,
+    "subject": "IPA",
+    "level": "Sedang",
+    "emoji": "🧲",
+    "instructions": "Pasangkan jenis gaya!",
+    "draggableItems": [
+      {
+        "id": "magnet",
+        "label": "Menarik paku",
+        "image": "/assets/games/kelas4/magnet.png"
+      },
+      {
+        "id": "gesek",
+        "label": "Mengerem sepeda",
+        "image": "/assets/games/kelas4/gesek.png"
+      },
+      {
+        "id": "auto_konsep_4_ipa",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_ipa",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_ipa",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_magnet",
+        "label": "Gaya Magnet",
+        "correctItem": "magnet",
+        "image": "/assets/games/kelas4/t_magnet.png"
+      },
+      {
+        "id": "t_gesek",
+        "label": "Gaya Gesek",
+        "correctItem": "gesek",
+        "image": "/assets/games/kelas4/t_gesek.png"
+      },
+      {
+        "id": "t_auto_konsep_4_ipa",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_ipa"
+      },
+      {
+        "id": "t_auto_contoh_4_ipa",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_ipa"
+      },
+      {
+        "id": "t_auto_manfaat_4_ipa",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_ipa"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Siklus Air sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Siklus Air."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "4_ipa_4",
+    "title": "Siklus Air",
+    "grade": 4,
+    "subject": "IPA",
+    "level": "Sedang",
+    "emoji": "🌧️",
+    "instructions": "Pasangkan tahap siklus air!",
+    "draggableItems": [
+      {
+        "id": "evaporasi",
+        "label": "Penguapan",
+        "image": "/assets/games/kelas4/evaporasi.png"
+      },
+      {
+        "id": "presipitasi",
+        "label": "Hujan",
+        "image": "/assets/games/kelas4/presipitasi.png"
+      },
+      {
+        "id": "auto_konsep_4_ipa",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_ipa",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_ipa",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_evaporasi",
+        "label": "Evaporasi",
+        "correctItem": "evaporasi",
+        "image": "/assets/games/kelas4/t_e.png"
+      },
+      {
+        "id": "t_presipitasi",
+        "label": "Presipitasi",
+        "correctItem": "presipitasi",
+        "image": "/assets/games/kelas4/t_p.png"
+      },
+      {
+        "id": "t_auto_konsep_4_ipa",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_ipa"
+      },
+      {
+        "id": "t_auto_contoh_4_ipa",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_ipa"
+      },
+      {
+        "id": "t_auto_manfaat_4_ipa",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_ipa"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Bunyi sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Bunyi."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "4_ipa_5",
+    "title": "Bunyi",
+    "grade": 4,
+    "subject": "IPA",
+    "level": "Sedang",
+    "emoji": "🔊",
+    "instructions": "Melalui apa bunyi merambat?",
+    "draggableItems": [
+      {
+        "id": "padat",
+        "label": "Benda Padat",
+        "image": "/assets/games/kelas4/padat.png"
+      },
+      {
+        "id": "hampa",
+        "label": "Ruang Hampa",
+        "image": "/assets/games/kelas4/hampa.png"
+      },
+      {
+        "id": "auto_konsep_4_ipa",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_ipa",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_ipa",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_padat",
+        "label": "Bunyi merambat",
+        "correctItem": "padat",
+        "image": "/assets/games/kelas4/bisa.png"
+      },
+      {
+        "id": "t_hampa",
+        "label": "Bunyi tidak merambat",
+        "correctItem": "hampa",
+        "image": "/assets/games/kelas4/tidak.png"
+      },
+      {
+        "id": "t_auto_konsep_4_ipa",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_ipa"
+      },
+      {
+        "id": "t_auto_contoh_4_ipa",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_ipa"
+      },
+      {
+        "id": "t_auto_manfaat_4_ipa",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_ipa"
+      }
+    ]
+  }
+]

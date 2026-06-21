@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponsnnya sesuai konteks.\n(Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal text about everyday topics and respond in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Numbers 11-20 sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Numbers 11-20."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "4_eng_1",
+    "title": "Numbers 11-20",
+    "grade": 4,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🔢",
+    "instructions": "Match the numbers!",
+    "draggableItems": [
+      {
+        "id": "11",
+        "label": "Eleven",
+        "image": "/assets/games/kelas4/11.png"
+      },
+      {
+        "id": "12",
+        "label": "Twelve",
+        "image": "/assets/games/kelas4/12.png"
+      },
+      {
+        "id": "auto_konsep_4_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_11",
+        "label": "11",
+        "correctItem": "11",
+        "image": "/assets/games/kelas4/t_11.png"
+      },
+      {
+        "id": "t_12",
+        "label": "12",
+        "correctItem": "12",
+        "image": "/assets/games/kelas4/t_12.png"
+      },
+      {
+        "id": "t_auto_konsep_4_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_4_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_4_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponsnnya sesuai konteks.\n(Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal text about everyday topics and respond in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Animals sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Animals."
+    ],
+    "game": [
+      "Drag object matching"
+    ],
+    "vr": [
+      "English Zoo"
+    ],
+    "id": "4_eng_2",
+    "title": "Animals",
+    "grade": 4,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🐘",
+    "instructions": "Translate!",
+    "draggableItems": [
+      {
+        "id": "gajah",
+        "label": "Elephant",
+        "image": "/assets/games/kelas4/gajah.png"
+      },
+      {
+        "id": "harimau",
+        "label": "Tiger",
+        "image": "/assets/games/kelas4/harimau.png"
+      },
+      {
+        "id": "auto_konsep_4_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_gajah",
+        "label": "Gajah",
+        "correctItem": "gajah",
+        "image": "/assets/games/kelas4/t_g.png"
+      },
+      {
+        "id": "t_harimau",
+        "label": "Harimau",
+        "correctItem": "harimau",
+        "image": "/assets/games/kelas4/t_h.png"
+      },
+      {
+        "id": "t_auto_konsep_4_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_4_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_4_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponsnnya sesuai konteks.\n(Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal text about everyday topics and respond in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Colors sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Colors."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "4_eng_3",
+    "title": "Colors",
+    "grade": 4,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🎨",
+    "instructions": "Match the colors!",
+    "draggableItems": [
+      {
+        "id": "merah",
+        "label": "Red",
+        "image": "/assets/games/kelas4/merah.png"
+      },
+      {
+        "id": "biru",
+        "label": "Blue",
+        "image": "/assets/games/kelas4/biru.png"
+      },
+      {
+        "id": "auto_konsep_4_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_merah",
+        "label": "Merah",
+        "correctItem": "merah",
+        "image": "/assets/games/kelas4/t_m.png"
+      },
+      {
+        "id": "t_biru",
+        "label": "Biru",
+        "correctItem": "biru",
+        "image": "/assets/games/kelas4/t_b.png"
+      },
+      {
+        "id": "t_auto_konsep_4_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_4_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_4_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponsnnya sesuai konteks.\n(Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal text about everyday topics and respond in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar School Objects sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi School Objects."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "4_eng_4",
+    "title": "School Objects",
+    "grade": 4,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "🎒",
+    "instructions": "Match objects!",
+    "draggableItems": [
+      {
+        "id": "buku",
+        "label": "Book",
+        "image": "/assets/games/kelas4/buku.png"
+      },
+      {
+        "id": "pensil",
+        "label": "Pencil",
+        "image": "/assets/games/kelas4/pensil.png"
+      },
+      {
+        "id": "auto_konsep_4_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_buku",
+        "label": "Buku",
+        "correctItem": "buku",
+        "image": "/assets/games/kelas4/t_b.png"
+      },
+      {
+        "id": "t_pensil",
+        "label": "Pensil",
+        "correctItem": "pensil",
+        "image": "/assets/games/kelas4/t_p.png"
+      },
+      {
+        "id": "t_auto_konsep_4_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_4_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_4_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_bahasa_inggris"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "Bahasa Inggris",
+    "elemenCP": "Membaca - Memirsa",
+    "cp": "Murid mampu memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponsnnya sesuai konteks.\n(Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal text about everyday topics and respond in line with its context).",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Feelings sesuai elemen Membaca - Memirsa.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Feelings."
+    ],
+    "game": [
+      "Drag vocabulary"
+    ],
+    "vr": [
+      "English City"
+    ],
+    "id": "4_eng_5",
+    "title": "Feelings",
+    "grade": 4,
+    "subject": "Bahasa Inggris",
+    "level": "Sedang",
+    "emoji": "😊",
+    "instructions": "How do you feel?",
+    "draggableItems": [
+      {
+        "id": "senang",
+        "label": "Happy",
+        "image": "/assets/games/kelas4/senang.png"
+      },
+      {
+        "id": "sedih",
+        "label": "Sad",
+        "image": "/assets/games/kelas4/sedih.png"
+      },
+      {
+        "id": "auto_konsep_4_bahasa_inggris",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_bahasa_inggris",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_bahasa_inggris",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_senang",
+        "label": "Senang",
+        "correctItem": "senang",
+        "image": "/assets/games/kelas4/t_s.png"
+      },
+      {
+        "id": "t_sedih",
+        "label": "Sedih",
+        "correctItem": "sedih",
+        "image": "/assets/games/kelas4/t_sd.png"
+      },
+      {
+        "id": "t_auto_konsep_4_bahasa_inggris",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_contoh_4_bahasa_inggris",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_bahasa_inggris"
+      },
+      {
+        "id": "t_auto_manfaat_4_bahasa_inggris",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_bahasa_inggris"
+      }
+    ]
+  }
+]

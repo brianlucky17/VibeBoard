@@ -1,0 +1,413 @@
+[
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Gerak Lokomotor & Non-Lokomotor sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Gerak Lokomotor & Non-Lokomotor."
+    ],
+    "game": [
+      "Drag gerakan olahraga"
+    ],
+    "vr": [
+      "Stadion Virtual"
+    ],
+    "id": "1_pjok_1",
+    "title": "Gerak Lokomotor & Non-Lokomotor",
+    "grade": 1,
+    "subject": "PJOK",
+    "level": "Mudah",
+    "emoji": "🏃",
+    "instructions": "Kelompokkan gerakan ke BERPINDAH atau TIDAK BERPINDAH!",
+    "draggableItems": [
+      {
+        "id": "berlari",
+        "label": "🏃 Berlari",
+        "image": "/assets/games/kelas1/berlari.png"
+      },
+      {
+        "id": "melompat",
+        "label": "🦘 Melompat",
+        "image": "/assets/games/kelas1/melompat.png"
+      },
+      {
+        "id": "merangkak",
+        "label": "🐛 Merangkak",
+        "image": "/assets/games/kelas1/merangkak.png"
+      },
+      {
+        "id": "memutar",
+        "label": "🔄 Memutar badan",
+        "image": "/assets/games/kelas1/memutar.png"
+      },
+      {
+        "id": "membungkuk",
+        "label": "🙇 Membungkuk",
+        "image": "/assets/games/kelas1/membungkuk.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_berlari",
+        "label": "➡️ BERPINDAH (Lokomotor): 🏃 Berlari",
+        "correctItem": "berlari",
+        "image": "/assets/games/kelas1/pindah.png"
+      },
+      {
+        "id": "t_melompat",
+        "label": "➡️ BERPINDAH (Lokomotor): 🦘 Melompat",
+        "correctItem": "melompat",
+        "image": "/assets/games/kelas1/pindah.png"
+      },
+      {
+        "id": "t_merangkak",
+        "label": "➡️ BERPINDAH (Lokomotor): 🐛 Merangkak",
+        "correctItem": "merangkak",
+        "image": "/assets/games/kelas1/pindah.png"
+      },
+      {
+        "id": "t_memutar",
+        "label": "🧍 TIDAK BERPINDAH (Non-Lokomotor): 🔄 Memutar badan",
+        "correctItem": "memutar",
+        "image": "/assets/games/kelas1/diam.png"
+      },
+      {
+        "id": "t_membungkuk",
+        "label": "🧍 TIDAK BERPINDAH (Non-Lokomotor): 🙇 Membungkuk",
+        "correctItem": "membungkuk",
+        "image": "/assets/games/kelas1/diam.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Olahraga & Alatnya sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Olahraga & Alatnya."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "1_pjok_2",
+    "title": "Olahraga & Alatnya",
+    "grade": 1,
+    "subject": "PJOK",
+    "level": "Mudah",
+    "emoji": "⚽",
+    "instructions": "Cocokkan alat olahraga ke cabang olahraganya!",
+    "draggableItems": [
+      {
+        "id": "bola_sp",
+        "label": "⚽ Bola sepak",
+        "image": "/assets/games/kelas1/bola_sp.png"
+      },
+      {
+        "id": "raket",
+        "label": "🏸 Raket",
+        "image": "/assets/games/kelas1/raket.png"
+      },
+      {
+        "id": "bola_bsk",
+        "label": "🏀 Bola basket",
+        "image": "/assets/games/kelas1/bola_bsk.png"
+      },
+      {
+        "id": "renang",
+        "label": "🥽 Kacamata renang",
+        "image": "/assets/games/kelas1/renang.png"
+      },
+      {
+        "id": "auto_konsep_1_pjok",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bola_sp",
+        "label": "⚽ Sepak Bola",
+        "correctItem": "bola_sp",
+        "image": "/assets/games/kelas1/sepakbola.png"
+      },
+      {
+        "id": "t_raket",
+        "label": "🏸 Bulu Tangkis",
+        "correctItem": "raket",
+        "image": "/assets/games/kelas1/badminton.png"
+      },
+      {
+        "id": "t_bola_bsk",
+        "label": "🏀 Basket",
+        "correctItem": "bola_bsk",
+        "image": "/assets/games/kelas1/basket.png"
+      },
+      {
+        "id": "t_renang",
+        "label": "🏊 Renang",
+        "correctItem": "renang",
+        "image": "/assets/games/kelas1/berenang.png"
+      },
+      {
+        "id": "t_auto_konsep_1_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Memilih Hidup yang Menyehatkan",
+    "cp": "Murid mampu mengenali risiko kesehatan akibat gaya hidup dan berbagai aktivitas jasmani untuk pencegahannya; mengidentifikasi pola makan sehat dan bergizi seimbang sesuai rekomendasi kesehatan untuk menunjang aktivitas sehari-hari; dan mempraktikkan penanganan cedera ringan sesuai pemahaman tentang prinsip pertolongan pertama.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Makanan Sehat & Tidak Sehat sesuai elemen Pemanfaatan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Makanan Sehat & Tidak Sehat."
+    ],
+    "game": [
+      "Drag pola hidup sehat"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "1_pjok_3",
+    "title": "Makanan Sehat & Tidak Sehat",
+    "grade": 1,
+    "subject": "PJOK",
+    "level": "Mudah",
+    "emoji": "🥦",
+    "instructions": "Kelompokkan makanan ke SEHAT atau TIDAK SEHAT!",
+    "draggableItems": [
+      {
+        "id": "sayur",
+        "label": "🥦 Sayuran",
+        "image": "/assets/games/kelas1/sayur.png"
+      },
+      {
+        "id": "buah",
+        "label": "🍎 Buah-buahan",
+        "image": "/assets/games/kelas1/buah.png"
+      },
+      {
+        "id": "susu",
+        "label": "🥛 Susu",
+        "image": "/assets/games/kelas1/susu.png"
+      },
+      {
+        "id": "permen",
+        "label": "🍬 Permen",
+        "image": "/assets/games/kelas1/permen.png"
+      },
+      {
+        "id": "junk",
+        "label": "🍟 Junk food",
+        "image": "/assets/games/kelas1/junk.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_sayur",
+        "label": "💚 SEHAT: 🥦 Sayuran",
+        "correctItem": "sayur",
+        "image": "/assets/games/kelas1/sehat.png"
+      },
+      {
+        "id": "t_buah",
+        "label": "💚 SEHAT: 🍎 Buah-buahan",
+        "correctItem": "buah",
+        "image": "/assets/games/kelas1/sehat.png"
+      },
+      {
+        "id": "t_susu",
+        "label": "💚 SEHAT: 🥛 Susu",
+        "correctItem": "susu",
+        "image": "/assets/games/kelas1/sehat.png"
+      },
+      {
+        "id": "t_permen",
+        "label": "❌ TIDAK SEHAT: 🍬 Permen",
+        "correctItem": "permen",
+        "image": "/assets/games/kelas1/tdk_sehat.png"
+      },
+      {
+        "id": "t_junk",
+        "label": "❌ TIDAK SEHAT: 🍟 Junk food",
+        "correctItem": "junk",
+        "image": "/assets/games/kelas1/tdk_sehat.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Urutan Cuci Tangan sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Urutan Cuci Tangan."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "1_pjok_4",
+    "title": "Urutan Cuci Tangan",
+    "grade": 1,
+    "subject": "PJOK",
+    "level": "Mudah",
+    "emoji": "🧼",
+    "instructions": "Urutkan langkah mencuci tangan yang benar!",
+    "draggableItems": [
+      {
+        "id": "basah",
+        "label": "💧 Basahi tangan",
+        "image": "/assets/games/kelas1/basah.png"
+      },
+      {
+        "id": "sabun",
+        "label": "🧼 Tuang sabun",
+        "image": "/assets/games/kelas1/sabun.png"
+      },
+      {
+        "id": "gosok",
+        "label": "🤲 Gosok 20 detik",
+        "image": "/assets/games/kelas1/gosok.png"
+      },
+      {
+        "id": "bilas",
+        "label": "🚿 Bilas dengan air",
+        "image": "/assets/games/kelas1/bilas.png"
+      },
+      {
+        "id": "kering",
+        "label": "🧻 Keringkan tangan",
+        "image": "/assets/games/kelas1/kering.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_basah",
+        "label": "Langkah 1️⃣",
+        "correctItem": "basah",
+        "image": "/assets/games/kelas1/l1.png"
+      },
+      {
+        "id": "t_sabun",
+        "label": "Langkah 2️⃣",
+        "correctItem": "sabun",
+        "image": "/assets/games/kelas1/l2.png"
+      },
+      {
+        "id": "t_gosok",
+        "label": "Langkah 3️⃣",
+        "correctItem": "gosok",
+        "image": "/assets/games/kelas1/l3.png"
+      },
+      {
+        "id": "t_bilas",
+        "label": "Langkah 4️⃣",
+        "correctItem": "bilas",
+        "image": "/assets/games/kelas1/l4.png"
+      },
+      {
+        "id": "t_kering",
+        "label": "Langkah 5️⃣",
+        "correctItem": "kering",
+        "image": "/assets/games/kelas1/l5.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase A",
+    "gradeGroup": "Grade 1-2",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Posisi Duduk yang Benar sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Posisi Duduk yang Benar."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "1_pjok_5",
+    "title": "Posisi Duduk yang Benar",
+    "grade": 1,
+    "subject": "PJOK",
+    "level": "Mudah",
+    "emoji": "🪑",
+    "instructions": "Cocokkan deskripsi ke posisi duduk yang benar atau salah!",
+    "draggableItems": [
+      {
+        "id": "tegak",
+        "label": "🧍 Punggung tegak lurus",
+        "image": "/assets/games/kelas1/tegak.png"
+      },
+      {
+        "id": "kaki_lantai",
+        "label": "🦶 Kaki menapak lantai",
+        "image": "/assets/games/kelas1/kaki_lantai.png"
+      },
+      {
+        "id": "bungkuk",
+        "label": "🙇 Membungkuk ke meja",
+        "image": "/assets/games/kelas1/bungkuk.png"
+      },
+      {
+        "id": "miring",
+        "label": "↩️ Badan miring ke samping",
+        "image": "/assets/games/kelas1/miring.png"
+      },
+      {
+        "id": "auto_konsep_1_pjok",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_tegak",
+        "label": "✅ Posisi BENAR: 🧍 Punggung tegak lurus",
+        "correctItem": "tegak",
+        "image": "/assets/games/kelas1/benar.png"
+      },
+      {
+        "id": "t_kaki_lantai",
+        "label": "✅ Posisi BENAR: 🦶 Kaki menapak lantai",
+        "correctItem": "kaki_lantai",
+        "image": "/assets/games/kelas1/benar.png"
+      },
+      {
+        "id": "t_bungkuk",
+        "label": "❌ Posisi SALAH: 🙇 Membungkuk ke meja",
+        "correctItem": "bungkuk",
+        "image": "/assets/games/kelas1/salah.png"
+      },
+      {
+        "id": "t_miring",
+        "label": "❌ Posisi SALAH: ↩️ Badan miring ke samping",
+        "correctItem": "miring",
+        "image": "/assets/games/kelas1/salah.png"
+      },
+      {
+        "id": "t_auto_konsep_1_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_1_pjok"
+      }
+    ]
+  }
+]

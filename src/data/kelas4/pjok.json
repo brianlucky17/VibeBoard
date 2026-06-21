@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kasti sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kasti."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "4_pjok_1",
+    "title": "Kasti",
+    "grade": 4,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "⚾",
+    "instructions": "Teknik kasti?",
+    "draggableItems": [
+      {
+        "id": "pukul",
+        "label": "Memukul bola",
+        "image": "/assets/games/kelas4/pukul.png"
+      },
+      {
+        "id": "renang",
+        "label": "Berenang",
+        "image": "/assets/games/kelas4/renang.png"
+      },
+      {
+        "id": "auto_konsep_4_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_pukul",
+        "label": "Teknik Kasti",
+        "correctItem": "pukul",
+        "image": "/assets/games/kelas4/kasti.png"
+      },
+      {
+        "id": "t_renang",
+        "label": "Bukan Kasti",
+        "correctItem": "renang",
+        "image": "/assets/games/kelas4/bukan.png"
+      },
+      {
+        "id": "t_auto_konsep_4_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_pjok"
+      },
+      {
+        "id": "t_auto_contoh_4_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_4_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pemanasan sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pemanasan."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "4_pjok_2",
+    "title": "Pemanasan",
+    "grade": 4,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🤸",
+    "instructions": "Fungsi pemanasan?",
+    "draggableItems": [
+      {
+        "id": "cegah",
+        "label": "Mencegah cedera",
+        "image": "/assets/games/kelas4/cegah.png"
+      },
+      {
+        "id": "lelah",
+        "label": "Membuat lelah",
+        "image": "/assets/games/kelas4/lelah.png"
+      },
+      {
+        "id": "auto_konsep_4_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_cegah",
+        "label": "Fungsi Pemanasan",
+        "correctItem": "cegah",
+        "image": "/assets/games/kelas4/fungsi.png"
+      },
+      {
+        "id": "t_lelah",
+        "label": "Bukan fungsi",
+        "correctItem": "lelah",
+        "image": "/assets/games/kelas4/bukan.png"
+      },
+      {
+        "id": "t_auto_konsep_4_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_pjok"
+      },
+      {
+        "id": "t_auto_contoh_4_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_4_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Senam Lantai sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Senam Lantai."
+    ],
+    "game": [
+      "Drag gerakan olahraga"
+    ],
+    "vr": [
+      "Stadion Virtual"
+    ],
+    "id": "4_pjok_3",
+    "title": "Senam Lantai",
+    "grade": 4,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🧘",
+    "instructions": "Gerakan senam lantai?",
+    "draggableItems": [
+      {
+        "id": "roll",
+        "label": "Guling depan",
+        "image": "/assets/games/kelas4/roll.png"
+      },
+      {
+        "id": "lari",
+        "label": "Lari sprint",
+        "image": "/assets/games/kelas4/lari.png"
+      },
+      {
+        "id": "auto_konsep_4_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_roll",
+        "label": "Senam Lantai",
+        "correctItem": "roll",
+        "image": "/assets/games/kelas4/senam.png"
+      },
+      {
+        "id": "t_lari",
+        "label": "Atletik",
+        "correctItem": "lari",
+        "image": "/assets/games/kelas4/atletik.png"
+      },
+      {
+        "id": "t_auto_konsep_4_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_pjok"
+      },
+      {
+        "id": "t_auto_contoh_4_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_4_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Gaya Renang sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Gaya Renang."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "4_pjok_4",
+    "title": "Gaya Renang",
+    "grade": 4,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🏊",
+    "instructions": "Pasangkan gaya!",
+    "draggableItems": [
+      {
+        "id": "bebas",
+        "label": "Gaya Bebas",
+        "image": "/assets/games/kelas4/bebas.png"
+      },
+      {
+        "id": "dada",
+        "label": "Gaya Katak",
+        "image": "/assets/games/kelas4/dada.png"
+      },
+      {
+        "id": "auto_konsep_4_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bebas",
+        "label": "Freestyle",
+        "correctItem": "bebas",
+        "image": "/assets/games/kelas4/t_bebas.png"
+      },
+      {
+        "id": "t_dada",
+        "label": "Gaya Dada",
+        "correctItem": "dada",
+        "image": "/assets/games/kelas4/t_dada.png"
+      },
+      {
+        "id": "t_auto_konsep_4_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_pjok"
+      },
+      {
+        "id": "t_auto_contoh_4_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_4_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar P3K sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi P3K."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "4_pjok_5",
+    "title": "P3K",
+    "grade": 4,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🩹",
+    "instructions": "Obat luka?",
+    "draggableItems": [
+      {
+        "id": "betadine",
+        "label": "Obat Merah",
+        "image": "/assets/games/kelas4/betadine.png"
+      },
+      {
+        "id": "kayu_putih",
+        "label": "Minyak Kayu Putih",
+        "image": "/assets/games/kelas4/kayu_putih.png"
+      },
+      {
+        "id": "auto_konsep_4_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_4_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_4_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_betadine",
+        "label": "Luka Berdarah",
+        "correctItem": "betadine",
+        "image": "/assets/games/kelas4/luka.png"
+      },
+      {
+        "id": "t_kayu_putih",
+        "label": "Sakit Perut",
+        "correctItem": "kayu_putih",
+        "image": "/assets/games/kelas4/perut.png"
+      },
+      {
+        "id": "t_auto_konsep_4_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_4_pjok"
+      },
+      {
+        "id": "t_auto_contoh_4_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_4_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_4_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_4_pjok"
+      }
+    ]
+  }
+]

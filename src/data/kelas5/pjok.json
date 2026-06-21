@@ -1,0 +1,387 @@
+[
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Sepak Bola sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Sepak Bola."
+    ],
+    "game": [
+      "Drag gerakan olahraga"
+    ],
+    "vr": [
+      "Stadion Virtual"
+    ],
+    "id": "5_pjok_1",
+    "title": "Sepak Bola",
+    "grade": 5,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "⚽",
+    "instructions": "Teknik dasar",
+    "draggableItems": [
+      {
+        "id": "tendang",
+        "label": "Menendang (Kicking)",
+        "image": "/assets/games/kelas5/tendang.png"
+      },
+      {
+        "id": "smash",
+        "label": "Smash",
+        "image": "/assets/games/kelas5/smash.png"
+      },
+      {
+        "id": "auto_konsep_5_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_tendang",
+        "label": "Sepak Bola",
+        "correctItem": "tendang",
+        "image": "/assets/games/kelas5/bola.png"
+      },
+      {
+        "id": "t_smash",
+        "label": "Bola Voli",
+        "correctItem": "smash",
+        "image": "/assets/games/kelas5/voli.png"
+      },
+      {
+        "id": "t_auto_konsep_5_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_pjok"
+      },
+      {
+        "id": "t_auto_contoh_5_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_5_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pencak Silat sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pencak Silat."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "5_pjok_2",
+    "title": "Pencak Silat",
+    "grade": 5,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🥋",
+    "instructions": "Gerakan dasar silat",
+    "draggableItems": [
+      {
+        "id": "kuda",
+        "label": "Kuda-kuda",
+        "image": "/assets/games/kelas5/kuda.png"
+      },
+      {
+        "id": "guling",
+        "label": "Roll depan",
+        "image": "/assets/games/kelas5/guling.png"
+      },
+      {
+        "id": "auto_konsep_5_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_kuda",
+        "label": "Pencak Silat",
+        "correctItem": "kuda",
+        "image": "/assets/games/kelas5/silat.png"
+      },
+      {
+        "id": "t_guling",
+        "label": "Senam Lantai",
+        "correctItem": "guling",
+        "image": "/assets/games/kelas5/senam.png"
+      },
+      {
+        "id": "t_auto_konsep_5_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_pjok"
+      },
+      {
+        "id": "t_auto_contoh_5_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_5_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Kebugaran sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Kebugaran."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "5_pjok_3",
+    "title": "Kebugaran",
+    "grade": 5,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "💪",
+    "instructions": "Latihan otot",
+    "draggableItems": [
+      {
+        "id": "push",
+        "label": "Push Up",
+        "image": "/assets/games/kelas5/push.png"
+      },
+      {
+        "id": "sit",
+        "label": "Sit Up",
+        "image": "/assets/games/kelas5/sit.png"
+      },
+      {
+        "id": "auto_konsep_5_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_push",
+        "label": "Otot Lengan",
+        "correctItem": "push",
+        "image": "/assets/games/kelas5/p.png"
+      },
+      {
+        "id": "t_sit",
+        "label": "Otot Perut",
+        "correctItem": "sit",
+        "image": "/assets/games/kelas5/s.png"
+      },
+      {
+        "id": "t_auto_konsep_5_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_pjok"
+      },
+      {
+        "id": "t_auto_contoh_5_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_5_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Penyakit Menular sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Penyakit Menular."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "5_pjok_4",
+    "title": "Penyakit Menular",
+    "grade": 5,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🤒",
+    "instructions": "Cara penularan",
+    "draggableItems": [
+      {
+        "id": "nyamuk",
+        "label": "DBD",
+        "image": "/assets/games/kelas5/nyamuk.png"
+      },
+      {
+        "id": "udara",
+        "label": "Flu / Batuk",
+        "image": "/assets/games/kelas5/udara.png"
+      },
+      {
+        "id": "auto_konsep_5_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_nyamuk",
+        "label": "Melalui Nyamuk",
+        "correctItem": "nyamuk",
+        "image": "/assets/games/kelas5/n.png"
+      },
+      {
+        "id": "t_udara",
+        "label": "Melalui Udara",
+        "correctItem": "udara",
+        "image": "/assets/games/kelas5/u.png"
+      },
+      {
+        "id": "t_auto_konsep_5_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_pjok"
+      },
+      {
+        "id": "t_auto_contoh_5_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_5_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_pjok"
+      }
+    ]
+  },
+  {
+    "fase": "Fase C",
+    "gradeGroup": "Grade 5-6",
+    "mataPelajaran": "PJOK",
+    "elemenCP": "Terampil Bergerak",
+    "cp": "Murid mampu menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Bahaya Merokok sesuai elemen Keterampilan Gerak.",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Bahaya Merokok."
+    ],
+    "game": [
+      "Drag alat olahraga"
+    ],
+    "vr": [
+      "Arena Kebugaran"
+    ],
+    "id": "5_pjok_5",
+    "title": "Bahaya Merokok",
+    "grade": 5,
+    "subject": "PJOK",
+    "level": "Sedang",
+    "emoji": "🚭",
+    "instructions": "Zat berbahaya",
+    "draggableItems": [
+      {
+        "id": "nikotin",
+        "label": "Nikotin",
+        "image": "/assets/games/kelas5/nikotin.png"
+      },
+      {
+        "id": "vitamin",
+        "label": "Vitamin C",
+        "image": "/assets/games/kelas5/vitamin.png"
+      },
+      {
+        "id": "auto_konsep_5_pjok",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_5_pjok",
+        "label": "Contoh tepat"
+      },
+      {
+        "id": "auto_manfaat_5_pjok",
+        "label": "Manfaat belajar"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_nikotin",
+        "label": "Zat di rokok",
+        "correctItem": "nikotin",
+        "image": "/assets/games/kelas5/n.png"
+      },
+      {
+        "id": "t_vitamin",
+        "label": "Zat sehat",
+        "correctItem": "vitamin",
+        "image": "/assets/games/kelas5/v.png"
+      },
+      {
+        "id": "t_auto_konsep_5_pjok",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_5_pjok"
+      },
+      {
+        "id": "t_auto_contoh_5_pjok",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_5_pjok"
+      },
+      {
+        "id": "t_auto_manfaat_5_pjok",
+        "label": "Kegunaan materi dalam kehidupan",
+        "correctItem": "auto_manfaat_5_pjok"
+      }
+    ]
+  }
+]

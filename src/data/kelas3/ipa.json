@@ -1,0 +1,405 @@
+[
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Ciri-ciri Makhluk Hidup sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Ciri-ciri Makhluk Hidup."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "3_ipa_1",
+    "title": "Ciri-ciri Makhluk Hidup",
+    "grade": 3,
+    "subject": "Ilmu Pengetahuan Alam",
+    "level": "Sedang",
+    "emoji": "🌱",
+    "instructions": "Tentukan mana ciri makhluk hidup dan bukan!",
+    "draggableItems": [
+      {
+        "id": "bernapas",
+        "label": "Bernapas",
+        "image": "/assets/games/kelas3/bernapas.png"
+      },
+      {
+        "id": "tumbuh",
+        "label": "Tumbuh",
+        "image": "/assets/games/kelas3/tumbuh.png"
+      },
+      {
+        "id": "makan",
+        "label": "Butuh Makan",
+        "image": "/assets/games/kelas3/makan.png"
+      },
+      {
+        "id": "diam",
+        "label": "Selalu Diam",
+        "image": "/assets/games/kelas3/diam.png"
+      },
+      {
+        "id": "auto_konsep_3_ilmu_pengetahuan_alam",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_bernapas",
+        "label": "Ciri Makhluk Hidup: Bernapas",
+        "correctItem": "bernapas",
+        "image": "/assets/games/kelas3/hidup.png"
+      },
+      {
+        "id": "t_tumbuh",
+        "label": "Ciri Makhluk Hidup: Tumbuh",
+        "correctItem": "tumbuh",
+        "image": "/assets/games/kelas3/hidup.png"
+      },
+      {
+        "id": "t_makan",
+        "label": "Ciri Makhluk Hidup: Butuh Makan",
+        "correctItem": "makan",
+        "image": "/assets/games/kelas3/hidup.png"
+      },
+      {
+        "id": "t_diam",
+        "label": "Bukan Ciri: Selalu Diam",
+        "correctItem": "diam",
+        "image": "/assets/games/kelas3/bukan.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ilmu_pengetahuan_alam",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ilmu_pengetahuan_alam"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Pertumbuhan Hewan sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Pertumbuhan Hewan."
+    ],
+    "game": [
+      "Drag rantai makanan"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "3_ipa_2",
+    "title": "Pertumbuhan Hewan",
+    "grade": 3,
+    "subject": "Ilmu Pengetahuan Alam",
+    "level": "Sedang",
+    "emoji": "🦋",
+    "instructions": "Urutkan siklus hidup kupu-kupu!",
+    "draggableItems": [
+      {
+        "id": "telur",
+        "label": "Telur",
+        "image": "/assets/games/kelas3/telur.png"
+      },
+      {
+        "id": "ulat",
+        "label": "Ulat",
+        "image": "/assets/games/kelas3/ulat.png"
+      },
+      {
+        "id": "kepompong",
+        "label": "Kepompong",
+        "image": "/assets/games/kelas3/kepompong.png"
+      },
+      {
+        "id": "kupu",
+        "label": "Kupu-kupu",
+        "image": "/assets/games/kelas3/kupu.png"
+      },
+      {
+        "id": "auto_konsep_3_ilmu_pengetahuan_alam",
+        "label": "Konsep utama"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_telur",
+        "label": "Tahap 1",
+        "correctItem": "telur",
+        "image": "/assets/games/kelas3/t1.png"
+      },
+      {
+        "id": "t_ulat",
+        "label": "Tahap 2",
+        "correctItem": "ulat",
+        "image": "/assets/games/kelas3/t2.png"
+      },
+      {
+        "id": "t_kepompong",
+        "label": "Tahap 3",
+        "correctItem": "kepompong",
+        "image": "/assets/games/kelas3/t3.png"
+      },
+      {
+        "id": "t_kupu",
+        "label": "Tahap 4",
+        "correctItem": "kupu",
+        "image": "/assets/games/kelas3/t4.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ilmu_pengetahuan_alam",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ilmu_pengetahuan_alam"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Benda & Wujudnya sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Benda & Wujudnya."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "3_ipa_3",
+    "title": "Benda & Wujudnya",
+    "grade": 3,
+    "subject": "Ilmu Pengetahuan Alam",
+    "level": "Sedang",
+    "emoji": "💧",
+    "instructions": "Kelompokkan benda berdasarkan wujudnya!",
+    "draggableItems": [
+      {
+        "id": "batu",
+        "label": "Batu",
+        "image": "/assets/games/kelas3/batu.png"
+      },
+      {
+        "id": "air",
+        "label": "Air",
+        "image": "/assets/games/kelas3/air.png"
+      },
+      {
+        "id": "minyak",
+        "label": "Minyak",
+        "image": "/assets/games/kelas3/minyak.png"
+      },
+      {
+        "id": "udara",
+        "label": "Udara",
+        "image": "/assets/games/kelas3/udara.png"
+      },
+      {
+        "id": "asap",
+        "label": "Asap",
+        "image": "/assets/games/kelas3/asap.png"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_batu",
+        "label": "Padat: Batu",
+        "correctItem": "batu",
+        "image": "/assets/games/kelas3/padat.png"
+      },
+      {
+        "id": "t_air",
+        "label": "Cair: Air",
+        "correctItem": "air",
+        "image": "/assets/games/kelas3/cair.png"
+      },
+      {
+        "id": "t_minyak",
+        "label": "Cair: Minyak",
+        "correctItem": "minyak",
+        "image": "/assets/games/kelas3/cair.png"
+      },
+      {
+        "id": "t_udara",
+        "label": "Gas: Udara",
+        "correctItem": "udara",
+        "image": "/assets/games/kelas3/gas.png"
+      },
+      {
+        "id": "t_asap",
+        "label": "Gas: Asap",
+        "correctItem": "asap",
+        "image": "/assets/games/kelas3/gas.png"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Perubahan Wujud Benda sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Perubahan Wujud Benda."
+    ],
+    "game": [
+      "Drag energi"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "3_ipa_4",
+    "title": "Perubahan Wujud Benda",
+    "grade": 3,
+    "subject": "Ilmu Pengetahuan Alam",
+    "level": "Sedang",
+    "emoji": "🧊",
+    "instructions": "Pasangkan jenis perubahan wujud benda!",
+    "draggableItems": [
+      {
+        "id": "membeku",
+        "label": "Membeku",
+        "image": "/assets/games/kelas3/membeku.png"
+      },
+      {
+        "id": "mencair",
+        "label": "Mencair",
+        "image": "/assets/games/kelas3/mencair.png"
+      },
+      {
+        "id": "menguap",
+        "label": "Menguap",
+        "image": "/assets/games/kelas3/menguap.png"
+      },
+      {
+        "id": "auto_konsep_3_ilmu_pengetahuan_alam",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_ilmu_pengetahuan_alam",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_membeku",
+        "label": "Air menjadi es",
+        "correctItem": "membeku",
+        "image": "/assets/games/kelas3/p_air_es.png"
+      },
+      {
+        "id": "t_mencair",
+        "label": "Es menjadi air",
+        "correctItem": "mencair",
+        "image": "/assets/games/kelas3/p_es_air.png"
+      },
+      {
+        "id": "t_menguap",
+        "label": "Air menjadi uap",
+        "correctItem": "menguap",
+        "image": "/assets/games/kelas3/p_air_uap.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ilmu_pengetahuan_alam",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ilmu_pengetahuan_alam"
+      },
+      {
+        "id": "t_auto_contoh_3_ilmu_pengetahuan_alam",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_ilmu_pengetahuan_alam"
+      }
+    ]
+  },
+  {
+    "fase": "Fase B",
+    "gradeGroup": "Grade 3-4",
+    "mataPelajaran": "IPAS",
+    "elemenCP": "Pemahaman IPAS (sains)",
+    "cp": "Murid mampu menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+    "tp": [
+      "Siswa mampu mengidentifikasi kompetensi dasar Cara Tumbuhan Berkembang Biak sesuai elemen Pemahaman IPAS (sains).",
+      "Siswa mampu menyelesaikan kuis drag and drop untuk memverifikasi pemahaman materi Cara Tumbuhan Berkembang Biak."
+    ],
+    "game": [
+      "Drag rantai makanan"
+    ],
+    "vr": [
+      "Gunung Berapi"
+    ],
+    "id": "3_ipa_5",
+    "title": "Cara Tumbuhan Berkembang Biak",
+    "grade": 3,
+    "subject": "Ilmu Pengetahuan Alam",
+    "level": "Sedang",
+    "emoji": "🌺",
+    "instructions": "Pasangkan tumbuhan dengan cara berkembang biaknya!",
+    "draggableItems": [
+      {
+        "id": "tunas",
+        "label": "Tunas",
+        "image": "/assets/games/kelas3/tunas.png"
+      },
+      {
+        "id": "biji",
+        "label": "Biji",
+        "image": "/assets/games/kelas3/biji.png"
+      },
+      {
+        "id": "spora",
+        "label": "Spora",
+        "image": "/assets/games/kelas3/spora.png"
+      },
+      {
+        "id": "auto_konsep_3_ilmu_pengetahuan_alam",
+        "label": "Konsep utama"
+      },
+      {
+        "id": "auto_contoh_3_ilmu_pengetahuan_alam",
+        "label": "Contoh tepat"
+      }
+    ],
+    "droppableTargets": [
+      {
+        "id": "t_tunas",
+        "label": "Pisang",
+        "correctItem": "tunas",
+        "image": "/assets/games/kelas3/t_pisang.png"
+      },
+      {
+        "id": "t_biji",
+        "label": "Mangga",
+        "correctItem": "biji",
+        "image": "/assets/games/kelas3/t_mangga.png"
+      },
+      {
+        "id": "t_spora",
+        "label": "Tumbuhan Paku",
+        "correctItem": "spora",
+        "image": "/assets/games/kelas3/t_paku.png"
+      },
+      {
+        "id": "t_auto_konsep_3_ilmu_pengetahuan_alam",
+        "label": "Materi utama yang dipelajari",
+        "correctItem": "auto_konsep_3_ilmu_pengetahuan_alam"
+      },
+      {
+        "id": "t_auto_contoh_3_ilmu_pengetahuan_alam",
+        "label": "Contoh yang sesuai materi",
+        "correctItem": "auto_contoh_3_ilmu_pengetahuan_alam"
+      }
+    ]
+  }
+]
